@@ -1,0 +1,4 @@
+"0","  utopia_corr <- utopia_corpus %>%"
+"0","  mutate(section=row_number() %/% 10) %>%"
+"0","  unnest_tokens(word, text) %>%"
+"0","  filter(!word %in% stop_words$word)"

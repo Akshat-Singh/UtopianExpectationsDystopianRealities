@@ -1,0 +1,12 @@
+"0","```r
+ner_total_sentiment %>%
+  group_by(title) %>%
+  filter(kind == \"person\") %>%
+  top_n(10) %>% 
+  mutate(entity = reorder(entity, total)) %>% 
+  ggplot(aes(entity, y = total, fill = title)) +
+  geom_col() +
+  facet_wrap( ~ title, scales = \"free\") +
+  coord_flip()
+
+```"

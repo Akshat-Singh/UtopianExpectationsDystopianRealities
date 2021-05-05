@@ -1,0 +1,5 @@
+"0","```r
+entities_matches_sentiment <- entities_unnest %>%
+  inner_join(entities_sentiment) %>%
+  distinct_at(vars(-word))  
+```"

@@ -1,0 +1,66 @@
+"0","```r
+#create empty df
+full_df = as.data.frame(NULL)
+chunk_size = 100000
+
+for (j in 1:nrow(corpus_text_str)) {
+  #get number of chunks
+  chunk <- nchar(corpus_text_str$text[j]) %/% chunk_size
+  text <- unlist(corpus_text_str$text[j])
+  text <- as.String(text)
+  
+  #Loop runs through the text section by section and reads each chunk into a df
+  
+  for (i in 1:chunk) {
+    print(paste0(
+      \"Processing title: \",
+      corpus_text_str$title[j],
+      \" - section \",
+      i,
+      \" of \",
+      chunk
+    ))
+    temp_df = NULL
+    
+    if (i == 1) {
+      m = 1
+    }
+    
+    if (i == chunk) {
+      m = n + 1
+      n = (nchar(text))
+    }
+    else{
+      n <- m + chunk_size
+    }
+    
+    temp_string = text[m, n]
+    
+    temp_ann <- NLP::annotate(temp_string, pipeline)
+    
+    temp_df <-  temp_ann %>%
+      as.data.frame %>% 
+      filter(type != \"word\")
+    
+    temp_df <- temp_df %>%
+      mutate(words = str_sub(
+        as.character(temp_string),
+        start = temp_df$start,
+        end = temp_df$end
+      )) %>%
+      unnest_wider(features)
+    
+    temp_df <- temp_df %>%
+      mutate(author = corpus_text_str$author[j], title = corpus_text_str$title[j]) 
+      #This is where you would include your added variable
+      
+    
+    #stitch it all together
+    full_df <- full_df %>%
+      bind_rows(temp_df)
+    
+    m <- m + chunk_size
+  }
+}
+
+```"

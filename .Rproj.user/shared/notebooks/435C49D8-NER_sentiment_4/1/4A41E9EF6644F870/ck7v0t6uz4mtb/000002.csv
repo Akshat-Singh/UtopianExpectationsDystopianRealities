@@ -1,0 +1,9 @@
+"0","corpus_text_str <- corpus_text %>%"
+"0","  group_by(title) %>%"
+"0","  mutate(text = list(as.String(text)))"
+"2","Error: Problem with `mutate()` input `text`.
+[31mx[39m result would exceed 2^31-1 bytes
+[34mi[39m Input `text` is `list(as.String(text))`.
+[34mi[39m The error occurred in group 60: title = ""1984"".
+[90mRun `rlang::last_error()` to see where the error occurred.[39m
+"

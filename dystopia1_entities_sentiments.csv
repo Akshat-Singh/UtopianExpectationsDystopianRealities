@@ -1,0 +1,98 @@
+,author,title,entity,kind,total
+1,"Atwood, Margaret",Handmaid's Tale,Adam,person,0.5
+2,"Atwood, Margaret",Handmaid's Tale,Alma,person,4
+3,"Atwood, Margaret",Handmaid's Tale,Angel,person,4
+4,"Atwood, Margaret",Handmaid's Tale,Angela,person,3
+5,"Atwood, Margaret",Handmaid's Tale,Aunt Helena,person,5
+6,"Atwood, Margaret",Handmaid's Tale,Aunt Lydia,person,2.52173913
+7,"Atwood, Margaret",Handmaid's Tale,Elizabeth,person,1.4
+8,"Atwood, Margaret",Handmaid's Tale,Helen,person,5
+9,"Atwood, Margaret",Handmaid's Tale,Howe,person,6
+10,"Atwood, Margaret",Handmaid's Tale,Janine,person,0.447368421
+11,"Atwood, Margaret",Handmaid's Tale,Ladies,person,6
+12,"Atwood, Margaret",Handmaid's Tale,Lord,person,6.666666667
+13,"Atwood, Margaret",Handmaid's Tale,Luke,person,0.5625
+14,"Atwood, Margaret",Handmaid's Tale,Martha,person,1.25
+15,"Atwood, Margaret",Handmaid's Tale,Merry Widow,person,2
+17,"Atwood, Margaret",Handmaid's Tale,Moira,person,0.5
+18,"Atwood, Margaret",Handmaid's Tale,Nick,person,-1.75
+19,"Atwood, Margaret",Handmaid's Tale,Ofglen,person,1.105263158
+20,"Atwood, Margaret",Handmaid's Tale,Rachel,person,1
+21,"Atwood, Margaret",Handmaid's Tale,Raymond Chandler,person,-5
+22,"Atwood, Margaret",Handmaid's Tale,Rita,person,-0.434782609
+23,"Atwood, Margaret",Handmaid's Tale,Saint Serena,person,2
+24,"Atwood, Margaret",Handmaid's Tale,Serena,person,3.69047619
+25,"Atwood, Margaret",Handmaid's Tale,Warren,person,3
+26,"Bradbury, Ray",Fahrenheit 451,Beatty,person,0
+27,"Bradbury, Ray",Fahrenheit 451,Ben,person,0
+28,"Bradbury, Ray",Fahrenheit 451,Captain,person,4.333333333
+29,"Bradbury, Ray",Fahrenheit 451,Clarisse,person,2.333333333
+30,"Bradbury, Ray",Fahrenheit 451,Faber,person,-0.44
+31,"Bradbury, Ray",Fahrenheit 451,Fred Clement,person,4
+32,"Bradbury, Ray",Fahrenheit 451,Granger,person,-0.75
+33,"Bradbury, Ray",Fahrenheit 451,Guy,person,-1.036585366
+34,"Bradbury, Ray",Fahrenheit 451,Juan Ramon Jimenez Ramon,person,6
+35,"Bradbury, Ray",Fahrenheit 451,Ladies,person,-1
+36,"Bradbury, Ray",Fahrenheit 451,Lord,person,0.5
+37,"Bradbury, Ray",Fahrenheit 451,Louis,person,12
+38,"Bradbury, Ray",Fahrenheit 451,Mildred Montag,person,-0.235294118
+39,"Bradbury, Ray",Fahrenheit 451,Mr Faber,person,-3
+40,"Bradbury, Ray",Fahrenheit 451,Mrs Black,person,0
+41,"Bradbury, Ray",Fahrenheit 451,Mrs Phelps,person,-3
+42,"Bradbury, Ray",Fahrenheit 451,Nicholas Ridley,person,-1
+43,"Bradbury, Ray",Fahrenheit 451,Ruth,person,24
+44,"Bradbury, Ray",Fahrenheit 451,Sam,person,-1
+45,"Bradbury, Ray",Fahrenheit 451,Thomas Hardy,person,4
+46,"Le Guin, Ursula K.",Word for World is Forest,Aabi,person,0.769230769
+47,"Le Guin, Ursula K.",Word for World is Forest,Ben,person,-0.461538462
+48,"Le Guin, Ursula K.",Word for World is Forest,Benton,person,-1.833333333
+49,"Le Guin, Ursula K.",Word for World is Forest,Captain,person,3.272727273
+50,"Le Guin, Ursula K.",Word for World is Forest,"Captain
+Don",person,9
+51,"Le Guin, Ursula K.",Word for World is Forest,"Captain
+Lyubov",person,15
+52,"Le Guin, Ursula K.",Word for World is Forest,Coro Mena,person,-1
+53,"Le Guin, Ursula K.",Word for World is Forest,David,person,0
+54,"Le Guin, Ursula K.",Word for World is Forest,Ebor Dendep,person,-1
+55,"Le Guin, Ursula K.",Word for World is Forest,Gosse,person,0.3
+57,"Le Guin, Ursula K.",Word for World is Forest,Hunter,person,0
+58,"Le Guin, Ursula K.",Word for World is Forest,Kees,person,-2
+59,"Le Guin, Ursula K.",Word for World is Forest,Lepennon,person,4.461538462
+60,"Le Guin, Ursula K.",Word for World is Forest,Lord,person,-0.666666667
+61,"Le Guin, Ursula K.",Word for World is Forest,Lyubov,person,0.743902439
+62,"Le Guin, Ursula K.",Word for World is Forest,Sam,person,-0.75
+63,"Le Guin, Ursula K.",Word for World is Forest,Seiver,person,-1
+64,"Le Guin, Ursula K.",Word for World is Forest,Selver,person,0.268817204
+65,"Le Guin, Ursula K.",Word for World is Forest,Smith Camp,person,-0.642857143
+66,"Le Guin, Ursula K.",Word for World is Forest,Smith Land,person,6
+67,"Le Guin, Ursula K.",Word for World is Forest,Thele,person,0.333333333
+68,"Le Guin, Ursula K.",Word for World is Forest,Tubab,person,-0.333333333
+69,"Le Guin, Ursula K.",Word for World is Forest,Tuntar,person,-1.375
+70,"Le Guin, Ursula K.",Word for World is Forest,"Van
+Sten",person,3
+71,"Orwell, George",1984,Ben,person,-1.5
+72,"Orwell, George",1984,Big Brother,person,2.87804878
+73,"Orwell, George",1984,Byron,person,0.5
+74,"Orwell, George",1984,Charrington,person,0.8125
+77,"Orwell, George",1984,Comrade Ogilvy,person,3.25
+79,"Orwell, George",1984,"Goldstein
+
+
+Winston",person,12
+81,"Orwell, George",1984,Ingsoc,person,0.411764706
+82,"Orwell, George",1984,INGSOC,person,-1
+83,"Orwell, George",1984,Jones,person,-7.4
+84,"Orwell, George",1984,Julia,person,1.054054054
+85,"Orwell, George",1984,LT,person,-6
+86,"Orwell, George",1984,Martin,person,3
+87,"Orwell, George",1984,Milton,person,0.5
+88,"Orwell, George",1984,Nick,person,-1.5
+89,"Orwell, George",1984,O'Brien,person,0.22972973
+90,"Orwell, George",1984,"Oliver
+Cromwell",person,2
+91,"Orwell, George",1984,Parsons,person,-0.176470588
+93,"Orwell, George",1984,Saint Sebastian,person,2
+94,"Orwell, George",1984,Syme,person,0.1875
+95,"Orwell, George",1984,Winston,person,0.325991189
+96,"Rand, Ayn",Anthem,Equality,person,2.272727273
+97,"Rand, Ayn",Anthem,Liberty,person,0

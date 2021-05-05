@@ -1,0 +1,1393 @@
+,author,title,sentence_nr,entity,kind,anger,anticipation,disgust,fear,joy,negative,positive,sadness,surprise,trust,sentiment
+6,"Orwell, George",1984,12,O'Brien,person,0,0,0,0,0,2,0,1,0,0,-2
+7,"Orwell, George",1984,13,Winston,person,0,0,0,0,3,3,6,0,3,3,3
+8,"Orwell, George",1984,13,Parsons,person,0,0,0,0,3,3,6,0,3,3,3
+16,"Orwell, George",1984,18,Winston,person,1,0,0,0,0,1,0,1,0,0,-1
+27,"Orwell, George",1984,37,Winston,person,0,0,0,0,0,0,1,0,0,1,1
+29,"Orwell, George",1984,41,Howe,person,0,6,0,2,4,0,4,0,0,4,4
+46,"Orwell, George",1984,66,O'Brien,person,0,1,0,0,0,0,0,0,0,0,0
+48,"Orwell, George",1984,72,Winston,person,0,0,0,0,0,0,6,0,0,6,6
+49,"Orwell, George",1984,72,Julia,person,0,0,0,0,0,0,6,0,0,6,6
+59,"Orwell, George",1984,88,Big Brother,person,0,2,0,0,0,0,2,0,0,2,2
+66,"Orwell, George",1984,98,Winston,person,4,4,4,2,0,6,0,4,0,0,-6
+83,"Orwell, George",1984,121,O'Brien,person,0,0,0,0,0,1,0,0,1,0,-1
+104,"Orwell, George",1984,149,Winston,person,0,0,0,0,1,0,1,0,0,0,1
+111,"Orwell, George",1984,157,O'Brien,person,0,2,0,0,2,0,2,0,0,0,2
+113,"Orwell, George",1984,165,Winston,person,0,1,0,0,0,0,1,0,0,1,1
+115,"Orwell, George",1984,169,Winston,person,0,1,0,0,0,1,0,0,0,0,-1
+122,"Orwell, George",1984,175,Winston,person,0,1,0,0,0,0,1,0,0,0,1
+131,"Orwell, George",1984,184,Charrington,person,0,0,0,2,2,2,2,2,0,2,0
+143,"Orwell, George",1984,195,Winston,person,0,0,0,0,0,0,2,0,0,2,2
+146,"Orwell, George",1984,204,Winston,person,0,2,0,0,0,0,0,0,0,0,0
+147,"Orwell, George",1984,204,O'Brien,person,0,2,0,0,0,0,0,0,0,0,0
+152,"Orwell, George",1984,213,Winston,person,0,1,0,0,0,0,1,0,0,0,1
+155,"Orwell, George",1984,218,O'Brien,person,0,0,0,0,2,0,2,0,0,0,2
+173,"Orwell, George",1984,257,Winston,person,0,1,0,0,1,0,1,0,0,1,1
+174,"Orwell, George",1984,261,O'Brien,person,1,0,0,1,0,1,0,1,0,0,-1
+176,"Orwell, George",1984,266,Winston,person,0,0,0,0,0,2,0,0,0,0,-2
+177,"Orwell, George",1984,266,O'Brien,person,0,0,0,0,0,2,0,0,0,0,-2
+183,"Orwell, George",1984,276,Winston,person,2,0,0,2,0,2,0,0,0,0,-2
+190,"Orwell, George",1984,287,Howe,person,0,2,0,0,2,0,2,0,2,2,2
+191,"Orwell, George",1984,289,Charrington,person,0,0,0,2,0,2,0,2,0,2,-2
+201,"Orwell, George",1984,305,Big Brother,person,0,0,0,0,0,0,2,0,0,1,2
+202,"Orwell, George",1984,306,Winston,person,2,0,2,3,0,3,2,1,2,0,-1
+210,"Orwell, George",1984,321,Julia,person,0,8,0,0,8,0,8,0,4,4,8
+211,"Orwell, George",1984,321,Charrington,person,0,8,0,0,8,0,8,0,4,4,8
+212,"Orwell, George",1984,321,O'Brien,person,0,8,0,0,8,0,8,0,4,4,8
+228,"Orwell, George",1984,347,Winston,person,0,3,0,0,0,0,0,0,3,0,0
+233,"Orwell, George",1984,353,Winston,person,0,0,0,0,0,0,1,0,0,0,1
+235,"Orwell, George",1984,357,O'Brien,person,0,1,0,1,0,1,0,0,1,0,-1
+236,"Orwell, George",1984,367,Big Brother,person,0,0,0,0,0,0,6,0,2,4,6
+237,"Orwell, George",1984,367,Comrade Ogilvy,person,0,0,0,0,0,0,6,0,2,4,6
+245,"Orwell, George",1984,378,Winston,person,0,0,0,0,0,0,2,0,0,0,2
+249,"Orwell, George",1984,385,Winston,person,0,0,0,0,2,0,4,0,0,4,4
+265,"Orwell, George",1984,411,O'Brien,person,0,2,0,1,1,0,1,0,1,1,1
+273,"Orwell, George",1984,421,Jones,person,6,0,0,6,0,12,0,6,0,0,-12
+275,"Orwell, George",1984,421,Ruth,person,6,0,0,6,0,12,0,6,0,0,-12
+279,"Orwell, George",1984,426,Winston,person,0,0,1,0,0,1,0,0,0,0,-1
+281,"Orwell, George",1984,431,Winston,person,0,2,0,0,0,0,2,0,0,1,2
+293,"Orwell, George",1984,443,Big Brother,person,0,0,0,0,1,0,2,0,0,2,2
+294,"Orwell, George",1984,446,Winston,person,2,0,2,2,0,2,0,2,0,0,-2
+313,"Orwell, George",1984,470,Charrington,person,0,0,0,0,0,0,3,0,0,0,3
+316,"Orwell, George",1984,471,Winston,person,6,6,6,6,0,6,6,6,0,0,0
+317,"Orwell, George",1984,471,Julia,person,6,6,6,6,0,6,6,6,0,0,0
+318,"Orwell, George",1984,471,Charrington,person,6,6,6,6,0,6,6,6,0,0,0
+324,"Orwell, George",1984,481,Ampleforth,person,1,1,4,1,1,4,4,0,1,1,0
+338,"Orwell, George",1984,511,Goldstein,person,2,0,2,2,0,2,0,2,0,0,-2
+340,"Orwell, George",1984,512,Julia,person,0,2,0,2,2,2,4,2,0,4,2
+343,"Orwell, George",1984,516,O'Brien,person,1,0,0,0,1,1,1,0,0,1,0
+351,"Orwell, George",1984,523,Goldstein,person,2,2,2,0,2,8,6,0,0,4,-2
+353,"Orwell, George",1984,525,O'Brien,person,0,0,0,2,0,0,0,0,0,0,0
+359,"Orwell, George",1984,534,Winston,person,0,3,0,0,3,0,6,0,3,0,6
+364,"Orwell, George",1984,542,Big Brother,person,0,0,0,0,0,0,2,0,0,2,2
+370,"Orwell, George",1984,547,Winston,person,1,0,0,1,0,4,1,2,0,0,-3
+380,"Orwell, George",1984,568,Winston,person,0,3,0,0,0,3,6,0,0,0,3
+392,"Orwell, George",1984,595,O'Brien,person,0,0,0,0,0,1,0,1,0,0,-1
+394,"Orwell, George",1984,598,Ingsoc,person,0,0,4,4,0,0,0,0,0,4,0
+402,"Orwell, George",1984,606,Big Brother,person,0,1,0,0,2,0,4,0,0,2,4
+403,"Orwell, George",1984,620,Julia,person,0,2,0,0,0,0,0,0,0,0,0
+405,"Orwell, George",1984,625,Parsons,person,0,0,0,0,0,1,2,0,0,0,1
+407,"Orwell, George",1984,631,Winston,person,2,2,2,0,0,2,0,0,2,2,-2
+428,"Orwell, George",1984,669,O'Brien,person,0,0,0,0,0,1,0,1,0,0,-1
+432,"Orwell, George",1984,681,Julia,person,0,0,0,0,0,3,0,3,0,0,-3
+440,"Orwell, George",1984,699,Winston,person,0,1,0,0,1,0,1,0,0,1,1
+445,"Orwell, George",1984,709,Ingsoc,person,0,0,0,0,0,3,9,0,0,6,6
+449,"Orwell, George",1984,715,Winston,person,0,1,1,1,0,1,1,0,1,0,0
+451,"Orwell, George",1984,726,Winston,person,0,0,0,0,3,0,3,0,0,3,3
+455,"Orwell, George",1984,733,Saint Sebastian,person,2,2,0,2,2,2,4,0,2,2,2
+458,"Orwell, George",1984,738,Winston,person,0,0,0,2,0,2,1,2,0,1,-1
+459,"Orwell, George",1984,741,Julia,person,2,2,2,2,0,2,2,2,0,2,0
+461,"Orwell, George",1984,745,Julia,person,0,0,0,0,2,0,2,0,0,0,2
+465,"Orwell, George",1984,750,INGSOC,person,0,0,0,3,0,6,3,3,3,3,-3
+472,"Orwell, George",1984,773,Winston,person,0,0,0,0,0,1,0,1,0,0,-1
+481,"Orwell, George",1984,791,Winston,person,3,0,0,0,0,3,0,0,0,0,-3
+490,"Orwell, George",1984,800,Winston,person,0,0,0,0,0,0,0,0,2,0,0
+493,"Orwell, George",1984,803,Ingsoc,person,3,0,3,3,0,6,0,0,0,0,-6
+497,"Orwell, George",1984,805,Julia,person,3,3,3,3,3,6,3,6,3,6,-3
+500,"Orwell, George",1984,806,Winston,person,2,0,2,0,0,2,0,2,0,0,-2
+502,"Orwell, George",1984,807,Julia,person,0,5,0,5,5,5,5,5,0,5,0
+511,"Orwell, George",1984,813,Winston,person,0,0,0,1,0,1,0,0,0,0,-1
+517,"Orwell, George",1984,819,O'Brien,person,1,1,0,1,0,2,0,1,0,0,-2
+518,"Orwell, George",1984,821,Winston,person,0,0,0,0,0,0,1,0,0,0,1
+531,"Orwell, George",1984,847,O'Brien,person,0,1,0,0,0,1,3,1,0,1,2
+532,"Orwell, George",1984,848,POLICE,person,0,2,0,4,0,2,8,2,0,8,6
+538,"Orwell, George",1984,863,Winston,person,0,0,0,2,0,2,2,2,0,0,0
+545,"Orwell, George",1984,879,Ingsoc,person,0,0,0,2,0,2,0,2,0,0,-2
+547,"Orwell, George",1984,882,Winston,person,2,0,0,6,0,6,0,4,6,0,-6
+549,"Orwell, George",1984,885,Ingsoc,person,0,0,0,0,0,0,6,0,0,3,6
+558,"Orwell, George",1984,892,O'Brien,person,0,0,0,0,0,1,0,1,0,0,-1
+571,"Orwell, George",1984,913,Winston,person,0,2,0,0,0,2,0,0,0,0,-2
+580,"Orwell, George",1984,928,Big Brother,person,0,0,0,1,0,1,1,0,0,1,0
+581,"Orwell, George",1984,930,O'Brien,person,0,0,0,0,0,0,3,0,0,3,3
+583,"Orwell, George",1984,930,Big Brother,person,0,0,0,0,0,0,3,0,0,3,3
+586,"Orwell, George",1984,937,Julia,person,0,3,0,0,0,0,9,0,3,3,9
+589,"Orwell, George",1984,939,Winston,person,2,2,2,2,0,6,0,4,4,0,-6
+591,"Orwell, George",1984,940,Winston,person,3,0,0,3,0,3,0,0,0,0,-3
+597,"Orwell, George",1984,954,O'Brien,person,2,1,1,2,1,1,1,1,1,1,0
+598,"Orwell, George",1984,955,Winston,person,0,0,0,0,0,0,0,0,0,1,0
+600,"Orwell, George",1984,960,Ingsoc,person,6,6,4,6,0,6,6,6,0,2,0
+608,"Orwell, George",1984,981,Big Brother,person,2,0,0,2,0,6,2,0,0,2,-4
+610,"Orwell, George",1984,983,O'Brien,person,3,0,1,2,0,2,0,1,1,0,-2
+627,"Orwell, George",1984,1016,Julia,person,4,4,4,0,4,4,8,4,4,4,4
+634,"Orwell, George",1984,1021,Winston,person,0,0,0,0,0,0,1,0,0,0,1
+637,"Orwell, George",1984,1024,O'Brien,person,0,0,0,0,3,0,3,0,3,3,3
+659,"Orwell, George",1984,1057,Julia,person,0,0,0,0,2,0,2,0,0,2,2
+664,"Orwell, George",1984,1063,Winston,person,0,2,0,0,2,0,6,0,2,6,6
+665,"Orwell, George",1984,1063,Comrade Ogilvy,person,0,2,0,0,2,0,6,0,2,6,6
+672,"Orwell, George",1984,1079,Milton,person,0,0,0,0,0,3,0,0,0,0,-3
+673,"Orwell, George",1984,1079,Byron,person,0,0,0,0,0,3,0,0,0,0,-3
+674,"Orwell, George",1984,1080,Winston,person,0,0,0,0,0,2,0,0,0,0,-2
+678,"Orwell, George",1984,1083,Winston,person,1,0,0,0,0,1,0,1,0,0,-1
+681,"Orwell, George",1984,1099,O'Brien,person,1,1,1,1,1,1,1,0,0,1,0
+695,"Orwell, George",1984,1120,Winston,person,1,0,0,1,0,1,0,0,1,0,-1
+697,"Orwell, George",1984,1122,Charrington,person,1,1,0,1,0,1,1,1,0,0,0
+707,"Orwell, George",1984,1143,Big Brother,person,0,2,0,2,2,2,2,0,0,2,0
+708,"Orwell, George",1984,1147,Winston,person,1,0,1,0,0,1,0,0,0,0,-1
+711,"Orwell, George",1984,1149,Parsons,person,0,0,1,1,0,1,0,1,0,0,-1
+713,"Orwell, George",1984,1157,Winston,person,1,3,1,3,1,4,3,3,0,1,-1
+714,"Orwell, George",1984,1159,Winston,person,1,1,1,1,0,1,1,0,2,1,0
+716,"Orwell, George",1984,1162,Winston,person,1,0,1,2,0,2,1,1,0,0,-1
+722,"Orwell, George",1984,1170,Winston,person,3,0,0,3,0,3,0,3,0,0,-3
+725,"Orwell, George",1984,1173,Julia,person,0,0,0,4,0,4,0,0,0,0,-4
+729,"Orwell, George",1984,1178,Winston,person,1,0,0,1,0,1,0,0,1,0,-1
+730,"Orwell, George",1984,1179,Parsons,person,0,0,0,0,0,2,1,1,0,0,-1
+735,"Orwell, George",1984,1196,Big Brother,person,1,1,0,1,1,0,3,0,1,1,3
+741,"Orwell, George",1984,1201,Howe,person,0,2,0,2,0,2,2,0,0,2,0
+742,"Orwell, George",1984,1202,Syme,person,1,1,0,0,0,2,0,1,0,0,-2
+746,"Orwell, George",1984,1209,O'Brien,person,0,0,0,0,3,0,3,0,0,0,3
+763,"Orwell, George",1984,1237,O'Brien,person,0,0,0,0,0,1,1,0,0,0,0
+775,"Orwell, George",1984,1260,Winston,person,8,4,8,12,8,20,12,8,0,12,-8
+780,"Orwell, George",1984,1262,Winston,person,0,0,0,0,0,1,0,0,0,0,-1
+781,"Orwell, George",1984,1263,Parsons,person,3,3,3,3,0,3,3,3,0,0,0
+784,"Orwell, George",1984,1264,Winston,person,3,0,3,6,3,6,3,3,3,3,-3
+788,"Orwell, George",1984,1270,Winston,person,0,0,0,0,3,0,9,0,0,6,9
+790,"Orwell, George",1984,1270,Big Brother,person,0,0,0,0,3,0,9,0,0,6,9
+793,"Orwell, George",1984,1275,Julia,person,0,4,0,0,0,4,4,4,4,4,0
+802,"Orwell, George",1984,1288,O'Brien,person,1,0,1,0,0,1,0,0,0,0,-1
+806,"Orwell, George",1984,1301,Winston,person,0,0,0,0,0,0,4,0,0,4,4
+807,"Orwell, George",1984,1301,O'Brien,person,0,0,0,0,0,0,4,0,0,4,4
+812,"Orwell, George",1984,1303,Winston,person,0,0,0,0,0,0,1,0,0,0,1
+816,"Orwell, George",1984,1306,Winston,person,0,0,0,0,0,4,0,0,0,0,-4
+823,"Orwell, George",1984,1317,Winston,person,3,0,3,3,0,3,3,3,0,0,0
+825,"Orwell, George",1984,1317,Ruth,person,3,0,3,3,0,3,3,3,0,0,0
+831,"Orwell, George",1984,1337,Martin,person,0,0,0,0,0,0,3,0,0,3,3
+843,"Orwell, George",1984,1358,Goldstein,person,0,0,0,0,0,0,2,0,0,2,2
+845,"Orwell, George",1984,1361,Julia,person,0,0,0,3,0,9,9,9,0,6,0
+854,"Orwell, George",1984,1368,Winston,person,5,0,5,5,5,10,10,5,0,5,0
+855,"Orwell, George",1984,1368,Julia,person,5,0,5,5,5,10,10,5,0,5,0
+862,"Orwell, George",1984,1371,Winston,person,0,0,0,0,0,0,0,0,0,2,0
+866,"Orwell, George",1984,1375,Winston,person,0,0,0,0,0,0,2,0,0,0,2
+867,"Orwell, George",1984,1375,Parsons,person,0,0,0,0,0,0,2,0,0,0,2
+871,"Orwell, George",1984,1386,Winston,person,0,0,0,1,0,2,0,0,0,0,-2
+879,"Orwell, George",1984,1396,Winston,person,0,3,0,0,0,3,3,0,0,0,0
+882,"Orwell, George",1984,1397,Goldstein,person,0,0,0,0,0,0,3,0,0,0,3
+889,"Orwell, George",1984,1412,Winston,person,0,1,0,0,1,0,1,0,0,1,1
+890,"Orwell, George",1984,1415,Goldstein,person,3,0,3,3,0,3,3,3,0,3,0
+893,"Orwell, George",1984,1416,Ingsoc,person,6,6,6,12,0,12,9,6,3,9,-3
+895,"Orwell, George",1984,1416,Big Brother,person,6,6,6,12,0,12,9,6,3,9,-3
+898,"Orwell, George",1984,1422,Winston,person,0,0,0,0,0,2,0,0,0,0,-2
+899,"Orwell, George",1984,1422,O'Brien,person,0,0,0,0,0,2,0,0,0,0,-2
+907,"Orwell, George",1984,1431,Parsons,person,4,4,0,4,8,8,12,4,4,4,4
+911,"Orwell, George",1984,1435,Winston,person,0,1,0,0,0,0,2,0,1,1,2
+927,"Orwell, George",1984,1453,Ruth,person,2,2,0,4,2,4,4,2,0,2,0
+938,"Orwell, George",1984,1472,Winston,person,0,1,0,0,0,1,3,0,0,2,2
+939,"Orwell, George",1984,1474,Winston,person,2,0,0,2,0,0,2,0,0,2,2
+944,"Orwell, George",1984,1479,Winston,person,0,0,0,0,4,0,4,0,0,2,4
+955,"Orwell, George",1984,1494,O'Brien,person,2,0,2,2,0,4,0,0,0,0,-4
+974,"Orwell, George",1984,1522,Winston,person,0,1,0,0,1,0,1,0,0,2,1
+985,"Orwell, George",1984,1542,Charrington,person,0,4,0,2,2,2,2,2,2,4,0
+998,"Orwell, George",1984,1561,Winston,person,2,4,0,2,2,2,2,2,4,0,0
+1001,"Orwell, George",1984,1564,O'Brien,person,1,1,0,0,0,1,0,0,0,0,-1
+1009,"Orwell, George",1984,1578,Winston,person,0,3,0,0,0,0,6,0,0,6,6
+1012,"Orwell, George",1984,1580,Big Brother,person,0,0,0,0,1,0,2,0,0,1,2
+1020,"Orwell, George",1984,1592,O'Brien,person,0,0,0,0,1,0,1,0,0,0,1
+1031,"Orwell, George",1984,1606,Winston,person,0,0,0,0,3,0,3,0,0,0,3
+1046,"Orwell, George",1984,1634,Julia,person,0,3,0,0,0,0,0,0,0,0,0
+1050,"Orwell, George",1984,1639,Winston,person,1,0,0,1,0,1,0,0,1,0,-1
+1051,"Orwell, George",1984,1641,Winston,person,0,1,0,1,1,0,1,0,1,1,1
+1060,"Orwell, George",1984,1661,Big Brother,person,1,1,1,1,0,1,1,1,1,1,0
+1062,"Orwell, George",1984,1667,Comrade Ogilvy,person,0,0,0,0,0,0,1,0,0,2,1
+1072,"Orwell, George",1984,1672,O'Brien,person,0,0,0,0,1,0,1,0,2,1,1
+1081,"Orwell, George",1984,1698,O'Brien,person,1,0,0,1,1,1,1,0,0,0,0
+1083,"Orwell, George",1984,1699,O'Brien,person,0,6,0,0,0,0,0,0,0,0,0
+1085,"Orwell, George",1984,1700,Winston,person,0,2,0,2,0,2,0,4,0,0,-2
+1086,"Orwell, George",1984,1700,Don,person,0,2,0,2,0,2,0,4,0,0,-2
+1090,"Orwell, George",1984,1713,Winston,person,0,1,0,0,1,1,2,0,0,1,1
+1091,"Orwell, George",1984,1714,Winston,person,2,2,1,1,2,1,2,1,2,2,1
+1099,"Orwell, George",1984,1728,Big Brother,person,0,0,0,0,0,0,2,0,0,2,2
+1101,"Orwell, George",1984,1734,Winston,person,0,2,0,0,1,1,2,0,0,0,1
+1102,"Orwell, George",1984,1736,Winston,person,0,3,0,0,3,0,3,0,3,3,3
+1111,"Orwell, George",1984,1747,Winston,person,0,1,0,0,0,0,0,0,0,0,0
+1132,"Orwell, George",1984,1788,Julia,person,0,4,0,0,4,0,4,0,2,4,4
+1134,"Orwell, George",1984,1791,O'Brien,person,0,0,0,0,0,0,4,0,0,4,4
+1142,"Orwell, George",1984,1802,Winston,person,0,0,0,0,2,0,2,0,2,2,2
+1143,"Orwell, George",1984,1802,O'Brien,person,0,0,0,0,2,0,2,0,2,2,2
+1146,"Orwell, George",1984,1805,Julia,person,0,0,0,2,2,0,2,0,2,0,2
+1152,"Orwell, George",1984,1818,Winston,person,0,2,0,0,0,2,0,0,2,0,-2
+1153,"Orwell, George",1984,1818,Syme,person,0,2,0,0,0,2,0,0,2,0,-2
+1160,"Orwell, George",1984,1822,INGSOC,person,4,4,4,4,0,4,0,4,0,4,-4
+1172,"Orwell, George",1984,1841,Winston,person,0,2,0,0,0,2,0,2,0,0,-2
+1187,"Orwell, George",1984,1862,Comrade Ogilvy,person,0,3,0,3,3,6,6,3,3,6,0
+1192,"Orwell, George",1984,1872,Winston,person,0,0,0,2,0,0,0,0,0,0,0
+1199,"Orwell, George",1984,1885,Winston,person,0,0,0,1,0,1,0,0,0,0,-1
+1202,"Orwell, George",1984,1900,Don,person,0,1,1,1,0,2,1,1,0,0,-1
+1211,"Orwell, George",1984,1922,O'Brien,person,3,0,3,0,0,3,0,0,0,0,-3
+1226,"Orwell, George",1984,1945,Big Brother,person,1,1,1,2,0,1,4,0,1,1,3
+1231,"Orwell, George",1984,1958,O'Brien,person,0,2,0,0,1,1,3,0,0,3,2
+1232,"Orwell, George",1984,1961,Ingsoc,person,0,3,0,0,0,3,6,3,0,3,3
+1258,"Orwell, George",1984,2016,Don,person,1,0,1,0,0,1,0,1,0,0,-1
+1259,"Orwell, George",1984,2018,Winston,person,0,0,0,1,0,1,0,1,0,0,-1
+1262,"Orwell, George",1984,2021,Winston,person,1,0,2,0,0,2,0,0,1,2,-2
+1273,"Orwell, George",1984,2040,Big Brother,person,0,0,0,0,0,0,1,0,0,1,1
+1274,"Orwell, George",1984,2042,O'Brien,person,0,0,0,1,0,1,0,1,0,0,-1
+1276,"Orwell, George",1984,2049,Winston,person,0,0,0,0,0,0,0,2,0,0,0
+1282,"Orwell, George",1984,2063,Winston,person,0,0,0,0,0,0,0,0,0,2,0
+1300,"Orwell, George",1984,2100,O'Brien,person,1,1,1,0,2,1,2,1,0,1,1
+1308,"Orwell, George",1984,2107,Big Brother,person,0,3,0,0,3,0,6,0,0,6,6
+1312,"Orwell, George",1984,2125,Winston,person,0,0,0,0,0,0,2,0,0,0,2
+1313,"Orwell, George",1984,2125,Big Brother,person,0,0,0,0,0,0,2,0,0,0,2
+1321,"Orwell, George",1984,2133,Winston,person,0,0,0,1,0,1,0,1,0,0,-1
+1323,"Orwell, George",1984,2138,O'Brien,person,2,0,0,2,0,2,0,2,0,0,-2
+1329,"Orwell, George",1984,2145,Winston,person,1,0,0,1,0,2,0,0,0,0,-2
+1334,"Orwell, George",1984,2164,Ingsoc,person,12,9,0,3,0,12,6,9,0,6,-6
+1343,"Orwell, George",1984,2173,Parsons,person,0,0,2,0,0,2,0,0,0,0,-2
+1349,"Orwell, George",1984,2193,Julia,person,0,0,0,0,0,0,4,0,0,0,4
+1353,"Orwell, George",1984,2194,O'Brien,person,0,2,0,0,0,2,0,2,0,0,-2
+1361,"Orwell, George",1984,2205,Winston,person,0,1,0,0,0,1,1,0,0,0,0
+1362,"Orwell, George",1984,2206,Winston,person,2,0,0,2,0,2,0,0,0,0,-2
+1366,"Orwell, George",1984,2208,Winston,person,0,0,0,0,0,1,3,0,0,1,2
+1368,"Orwell, George",1984,2210,Winston,person,0,0,0,0,0,4,4,0,0,0,0
+1380,"Orwell, George",1984,2221,Ingsoc,person,6,9,3,6,0,12,6,3,0,3,-6
+1387,"Orwell, George",1984,2226,Winston,person,3,1,2,3,2,4,3,3,4,3,-1
+1390,"Orwell, George",1984,2228,O'Brien,person,0,0,0,0,0,0,0,0,1,0,0
+1391,"Orwell, George",1984,2229,Julia,person,0,15,0,0,15,5,15,5,10,15,10
+1392,"Orwell, George",1984,2229,O'Brien,person,0,15,0,0,15,5,15,5,10,15,10
+1400,"Orwell, George",1984,2232,INGSOC,person,4,0,0,4,0,0,8,0,0,8,8
+1405,"Orwell, George",1984,2239,Winston,person,0,2,0,0,1,1,1,1,0,1,0
+1422,"Orwell, George",1984,2271,Big Brother,person,0,0,0,0,0,0,1,0,0,1,1
+1439,"Orwell, George",1984,2306,INGSOC,person,3,3,3,3,0,3,3,3,0,0,0
+1444,"Orwell, George",1984,2317,Winston,person,1,3,0,3,3,2,5,0,2,3,3
+1452,"Orwell, George",1984,2334,Winston,person,0,2,0,0,0,2,0,2,0,0,-2
+1453,"Orwell, George",1984,2334,Charrington,person,0,2,0,0,0,2,0,2,0,0,-2
+1457,"Orwell, George",1984,2345,Winston,person,0,0,0,0,0,0,3,0,0,0,3
+1466,"Orwell, George",1984,2361,Charrington,person,0,4,0,0,0,0,0,0,0,0,0
+1474,"Orwell, George",1984,2375,Parsons,person,1,0,1,1,0,1,1,1,0,1,0
+1476,"Orwell, George",1984,2376,Howe,person,0,0,0,0,0,2,2,0,0,0,0
+1478,"Orwell, George",1984,2378,Winston,person,0,2,0,2,2,0,2,0,0,2,2
+1480,"Orwell, George",1984,2379,O'Brien,person,0,0,0,0,0,0,2,0,0,0,2
+1484,"Orwell, George",1984,2387,Winston,person,1,0,0,1,0,1,0,0,0,0,-1
+1485,"Orwell, George",1984,2389,Winston,person,3,9,0,3,6,0,12,0,3,9,12
+1488,"Orwell, George",1984,2393,Winston,person,0,0,0,0,0,0,2,0,0,2,2
+1490,"Orwell, George",1984,2396,Winston,person,0,0,4,0,2,6,2,0,0,2,-4
+1491,"Orwell, George",1984,2396,Parsons,person,0,0,4,0,2,6,2,0,0,2,-4
+1496,"Orwell, George",1984,2410,Charrington,person,0,0,0,0,0,0,2,0,0,0,2
+1499,"Orwell, George",1984,2417,Winston,person,0,1,0,0,1,0,2,0,1,1,2
+1509,"Orwell, George",1984,2430,Ingsoc,person,2,2,0,4,2,6,4,2,0,2,-2
+1518,"Orwell, George",1984,2437,Winston,person,0,1,1,1,0,1,0,0,0,0,-1
+1533,"Orwell, George",1984,2472,Parsons,person,0,0,0,0,6,0,6,0,0,0,6
+1536,"Orwell, George",1984,2476,Winston,person,0,0,0,0,4,0,4,0,0,4,4
+1537,"Orwell, George",1984,2476,Charrington,person,0,0,0,0,4,0,4,0,0,4,4
+1544,"Orwell, George",1984,2488,Ingsoc,person,3,0,3,9,0,12,12,3,0,6,0
+1565,"Orwell, George",1984,2529,Jones,person,4,0,4,4,0,8,4,8,0,0,-4
+1566,"Orwell, George",1984,2529,Ruth,person,4,0,4,4,0,8,4,8,0,0,-4
+1570,"Orwell, George",1984,2537,Winston,person,0,1,0,0,0,0,1,0,0,0,1
+1575,"Orwell, George",1984,2541,Julia,person,0,4,0,2,4,2,6,0,2,4,4
+1577,"Orwell, George",1984,2543,Winston,person,0,1,0,0,0,0,0,0,0,0,0
+1578,"Orwell, George",1984,2544,Winston,person,0,0,0,0,0,4,0,4,0,4,-4
+1579,"Orwell, George",1984,2544,Julia,person,0,0,0,0,0,4,0,4,0,4,-4
+1588,"Orwell, George",1984,2553,Parsons,person,0,0,0,0,0,1,0,0,0,0,-1
+1592,"Orwell, George",1984,2560,Big Brother,person,4,8,4,8,12,20,32,4,0,24,12
+1594,"Orwell, George",1984,2561,Nick,person,0,0,0,0,0,0,1,0,0,0,1
+1596,"Orwell, George",1984,2565,O'Brien,person,0,1,0,0,1,0,1,0,0,2,1
+1599,"Orwell, George",1984,2568,Winston,person,0,1,0,0,0,0,0,0,0,0,0
+1606,"Orwell, George",1984,2578,Julia,person,4,2,4,6,0,8,0,6,0,0,-8
+1631,"Orwell, George",1984,2613,Winston,person,0,0,0,1,0,1,1,1,0,0,0
+1632,"Orwell, George",1984,2615,Winston,person,0,0,0,0,0,3,3,0,0,0,0
+1633,"Orwell, George",1984,2615,Julia,person,0,0,0,0,0,3,3,0,0,0,0
+1645,"Orwell, George",1984,2630,Ampleforth,person,0,1,0,0,1,0,1,0,0,1,1
+1647,"Orwell, George",1984,2635,O'Brien,person,0,0,0,0,3,0,3,0,0,3,3
+1651,"Orwell, George",1984,2641,Winston,person,0,4,0,0,2,2,2,0,0,0,0
+1663,"Orwell, George",1984,2659,Julia,person,0,0,0,0,0,3,0,0,0,0,-3
+1666,"Orwell, George",1984,2663,Big Brother,person,0,0,0,0,0,0,2,0,0,2,2
+1668,"Orwell, George",1984,2665,Parsons,person,0,1,0,0,1,0,1,0,0,1,1
+1672,"Orwell, George",1984,2674,Winston,person,0,0,0,0,2,0,2,0,0,0,2
+1673,"Orwell, George",1984,2674,Don,person,0,0,0,0,2,0,2,0,0,0,2
+1674,"Orwell, George",1984,2677,Winston,person,0,2,4,0,0,6,0,2,0,0,-6
+1684,"Orwell, George",1984,2690,Winston,person,2,0,0,2,0,2,0,2,0,2,-2
+1685,"Orwell, George",1984,2690,O'Brien,person,2,0,0,2,0,2,0,2,0,2,-2
+1691,"Orwell, George",1984,2706,Winston,person,0,0,0,0,2,0,4,0,0,4,4
+1692,"Orwell, George",1984,2706,Parsons,person,0,0,0,0,2,0,4,0,0,4,4
+1694,"Orwell, George",1984,2710,Winston,person,0,0,0,1,0,1,1,1,0,0,0
+1698,"Orwell, George",1984,2716,Winston,person,0,0,0,1,0,0,0,0,0,0,0
+1714,"Orwell, George",1984,2748,Winston,person,0,1,0,0,0,2,0,1,1,0,-2
+1718,"Orwell, George",1984,2758,Comrade Ogilvy,person,1,1,0,0,1,1,2,0,2,2,1
+1738,"Orwell, George",1984,2788,O'Brien,person,0,0,0,0,0,1,0,1,0,0,-1
+1740,"Orwell, George",1984,2791,Big Brother,person,0,1,0,0,0,0,3,0,0,1,3
+1743,"Orwell, George",1984,2796,Winston,person,0,1,0,0,1,0,1,0,1,1,1
+1748,"Orwell, George",1984,2802,Winston,person,0,1,0,0,0,0,2,0,0,2,2
+1749,"Orwell, George",1984,2804,Winston,person,5,0,0,0,0,10,0,0,0,0,-10
+1750,"Orwell, George",1984,2804,Goldstein,person,5,0,0,0,0,10,0,0,0,0,-10
+1751,"Orwell, George",1984,2804,O'Brien,person,5,0,0,0,0,10,0,0,0,0,-10
+1756,"Orwell, George",1984,2809,Julia,person,0,0,0,2,0,2,2,2,0,0,0
+1758,"Orwell, George",1984,2815,Syme,person,0,0,0,0,3,0,3,0,0,3,3
+1764,"Orwell, George",1984,2822,Julia,person,0,2,0,0,2,2,6,0,0,0,4
+1774,"Orwell, George",1984,2834,Winston,person,0,2,0,0,2,0,4,0,0,4,4
+1775,"Orwell, George",1984,2834,Big Brother,person,0,2,0,0,2,0,4,0,0,4,4
+1784,"Orwell, George",1984,2854,Winston,person,4,0,0,2,0,4,0,4,0,2,-4
+1787,"Orwell, George",1984,2856,Jones,person,4,0,0,0,0,4,0,4,0,0,-4
+1788,"Orwell, George",1984,2856,Ruth,person,4,0,0,0,0,4,0,4,0,0,-4
+1808,"Orwell, George",1984,2884,Winston,person,0,2,0,2,4,0,4,0,0,4,4
+1809,"Orwell, George",1984,2884,O'Brien,person,0,2,0,2,4,0,4,0,0,4,4
+1815,"Orwell, George",1984,2891,Big Brother,person,2,2,0,2,0,2,8,2,2,6,6
+1816,"Orwell, George",1984,2893,Goldstein,person,0,0,4,0,0,0,0,0,0,0,0
+1832,"Orwell, George",1984,2914,O'Brien,person,0,0,1,0,0,0,0,0,0,0,0
+1839,"Orwell, George",1984,2933,Syme,person,0,2,0,0,1,2,2,0,1,0,0
+1842,"Orwell, George",1984,2938,Winston,person,0,2,0,1,0,3,1,3,1,0,-2
+1843,"Orwell, George",1984,2943,Winston,person,0,0,0,0,0,0,1,0,0,1,1
+1844,"Orwell, George",1984,2944,O'Brien,person,0,2,0,0,0,0,0,0,0,0,0
+1846,"Orwell, George",1984,2948,Winston,person,0,0,0,0,0,0,1,0,0,0,1
+1850,"Orwell, George",1984,2952,O'Brien,person,2,1,2,3,0,3,0,3,1,0,-3
+1851,"Orwell, George",1984,2953,O'Brien,person,0,1,0,0,1,0,2,0,1,1,2
+1853,"Orwell, George",1984,2957,Big Brother,person,0,0,0,0,0,0,2,0,0,2,2
+1861,"Orwell, George",1984,2967,Big Brother,person,2,2,4,2,0,4,6,4,2,4,2
+1869,"Orwell, George",1984,2985,Winston,person,0,0,0,1,0,1,0,0,0,0,-1
+1870,"Orwell, George",1984,2987,Winston,person,4,0,2,2,2,4,2,2,0,2,-2
+1872,"Orwell, George",1984,2988,Goldstein,person,0,0,0,2,0,2,0,2,0,0,-2
+1884,"Orwell, George",1984,3003,Winston,person,0,0,0,0,0,0,4,0,0,0,4
+1888,"Orwell, George",1984,3007,Winston,person,0,2,0,0,0,0,0,2,0,0,0
+1893,"Orwell, George",1984,3019,Big Brother,person,0,0,0,2,2,2,4,2,0,2,2
+1894,"Orwell, George",1984,3020,Winston,person,0,0,0,0,1,1,2,1,0,2,1
+1895,"Orwell, George",1984,3022,Winston,person,0,0,1,0,0,2,0,0,0,0,-2
+1897,"Orwell, George",1984,3025,O'Brien,person,0,0,0,2,0,2,0,0,0,2,-2
+1905,"Orwell, George",1984,3035,Winston,person,0,3,0,0,0,0,3,0,0,3,3
+1908,"Orwell, George",1984,3036,Julia,person,0,0,0,0,0,2,0,2,2,0,-2
+1912,"Orwell, George",1984,3041,Ingsoc,person,3,0,0,0,3,6,3,3,0,0,-3
+1925,"Orwell, George",1984,3068,O'Brien,person,1,1,2,1,2,3,2,2,0,2,-1
+1929,"Orwell, George",1984,3074,Winston,person,0,0,0,0,0,0,4,0,0,2,4
+1932,"Orwell, George",1984,3078,Julia,person,0,4,0,0,0,0,0,0,0,0,0
+1949,"Orwell, George",1984,3105,O'Brien,person,4,0,4,4,0,4,0,0,0,0,-4
+1961,"Orwell, George",1984,3125,Winston,person,0,0,0,0,0,0,1,0,1,0,1
+1962,"Orwell, George",1984,3126,Syme,person,0,0,0,0,0,0,0,0,0,1,0
+1970,"Orwell, George",1984,3139,Goldstein,person,0,3,0,0,3,0,6,0,3,6,6
+1983,"Orwell, George",1984,3164,Winston,person,1,1,1,2,1,2,1,2,1,1,-1
+1984,"Orwell, George",1984,3166,Winston,person,0,0,0,0,0,0,1,0,0,0,1
+1987,"Orwell, George",1984,3173,O'Brien,person,0,0,0,0,0,0,3,0,0,3,3
+2001,"Orwell, George",1984,3188,Big Brother,person,0,0,0,0,0,0,1,0,0,1,1
+2022,"Orwell, George",1984,3221,Comrade Ogilvy,person,0,1,0,0,1,0,2,1,0,1,2
+2036,"Orwell, George",1984,3244,O'Brien,person,0,0,0,0,0,0,0,3,0,0,0
+2039,"Orwell, George",1984,3246,Winston,person,1,1,1,1,1,2,2,1,1,1,0
+2043,"Orwell, George",1984,3256,O'Brien,person,1,0,1,1,0,1,0,1,0,0,-1
+2047,"Orwell, George",1984,3266,Winston,person,0,0,0,0,0,3,0,0,0,0,-3
+2048,"Orwell, George",1984,3266,Ampleforth,person,0,0,0,0,0,3,0,0,0,0,-3
+2050,"Orwell, George",1984,3267,Winston,person,0,2,0,0,0,0,4,0,0,4,4
+2052,"Orwell, George",1984,3269,Winston,person,0,0,0,0,1,0,1,0,0,1,1
+2053,"Orwell, George",1984,3270,Big Brother,person,0,0,0,0,0,0,1,0,0,1,1
+2057,"Orwell, George",1984,3273,Comrade Ogilvy,person,0,0,0,3,3,0,9,0,0,6,9
+2068,"Orwell, George",1984,3292,Winston,person,0,2,0,0,2,0,3,0,1,0,3
+2069,"Orwell, George",1984,3293,Winston,person,4,8,4,8,20,12,32,4,0,32,20
+2084,"Orwell, George",1984,3310,Big Brother,person,0,0,0,0,0,0,2,0,0,2,2
+2086,"Orwell, George",1984,3311,Winston,person,1,1,1,1,1,1,1,1,1,1,0
+2087,"Orwell, George",1984,3314,Winston,person,2,0,2,2,2,4,2,2,0,2,-2
+2088,"Orwell, George",1984,3314,O'Brien,person,2,0,2,2,2,4,2,2,0,2,-2
+2091,"Orwell, George",1984,3319,Charrington,person,0,0,0,0,0,0,0,1,0,0,0
+2092,"Orwell, George",1984,3320,Winston,person,0,0,0,1,1,0,1,0,0,1,1
+2097,"Orwell, George",1984,3334,O'Brien,person,0,0,0,2,0,1,0,1,0,0,-1
+2098,"Orwell, George",1984,3335,Winston,person,0,1,0,0,1,0,1,0,1,0,1
+2103,"Orwell, George",1984,3342,Winston,person,0,3,0,0,0,0,0,0,0,0,0
+2109,"Orwell, George",1984,3348,Winston,person,2,0,2,4,0,4,0,4,0,0,-4
+2116,"Orwell, George",1984,3353,Winston,person,0,0,0,0,1,1,1,0,0,1,0
+2119,"Orwell, George",1984,3357,Winston,person,0,2,0,0,2,0,2,0,0,2,2
+2127,"Orwell, George",1984,3361,INGSOC,person,4,0,0,0,0,8,8,0,0,0,0
+2131,"Orwell, George",1984,3364,O'Brien,person,0,1,0,0,1,0,1,0,0,2,1
+2143,"Orwell, George",1984,3387,Julia,person,0,0,0,0,0,2,0,2,0,0,-2
+2153,"Orwell, George",1984,3419,Winston,person,2,2,2,2,2,0,2,0,0,2,2
+2162,"Orwell, George",1984,3436,O'Brien,person,0,0,0,0,0,0,1,0,0,0,1
+2165,"Orwell, George",1984,3440,Winston,person,2,2,2,0,0,4,2,0,0,2,-2
+2173,"Orwell, George",1984,3468,O'Brien,person,0,0,0,0,1,0,1,0,0,0,1
+2175,"Orwell, George",1984,3472,Parsons,person,0,0,1,0,0,0,0,0,0,0,0
+2177,"Orwell, George",1984,3479,Winston,person,0,2,0,2,0,2,4,0,2,4,2
+2178,"Orwell, George",1984,3479,Big Brother,person,0,2,0,2,0,2,4,0,2,4,2
+2186,"Orwell, George",1984,3492,Winston,person,2,0,0,0,0,2,0,0,0,0,-2
+2190,"Orwell, George",1984,3495,Winston,person,0,0,0,0,0,0,4,0,0,0,4
+2191,"Orwell, George",1984,3495,Julia,person,0,0,0,0,0,0,4,0,0,0,4
+2207,"Orwell, George",1984,3512,O'Brien,person,0,0,0,0,0,0,2,0,0,1,2
+2208,"Orwell, George",1984,3513,Ingsoc,person,2,2,0,0,2,4,8,0,0,4,4
+2213,"Orwell, George",1984,3525,Winston,person,0,0,0,0,0,1,1,1,0,0,0
+2220,"Orwell, George",1984,3534,Winston,person,1,0,0,1,1,4,1,3,1,0,-3
+2224,"Orwell, George",1984,3539,Winston,person,1,0,0,2,0,2,0,2,1,0,-2
+2225,"Orwell, George",1984,3543,Winston,person,0,0,0,0,0,0,1,0,0,0,1
+2228,"Orwell, George",1984,3551,O'Brien,person,0,1,0,0,0,2,1,0,0,0,-1
+2233,"Orwell, George",1984,3565,Winston,person,2,2,2,0,0,2,0,0,0,0,-2
+2234,"Orwell, George",1984,3565,Syme,person,2,2,2,0,0,2,0,0,0,0,-2
+2236,"Orwell, George",1984,3570,Winston,person,0,0,0,2,0,2,0,2,0,0,-2
+2238,"Orwell, George",1984,3571,Winston,person,0,0,0,0,0,1,0,0,0,0,-1
+2248,"Orwell, George",1984,3591,O'Brien,person,2,2,2,4,4,4,6,4,2,6,2
+2252,"Orwell, George",1984,3596,O'Brien,person,0,0,0,0,0,0,1,0,0,0,1
+2253,"Orwell, George",1984,3599,Big Brother,person,2,2,1,2,1,3,5,1,1,3,2
+2254,"Orwell, George",1984,3601,Winston,person,0,1,0,0,1,0,1,0,0,1,1
+2262,"Orwell, George",1984,3613,Winston,person,3,3,3,3,0,3,0,3,0,0,-3
+2265,"Orwell, George",1984,3616,Winston,person,4,0,4,4,0,4,4,4,0,0,0
+2266,"Orwell, George",1984,3616,Goldstein,person,4,0,4,4,0,4,4,4,0,0,0
+2280,"Orwell, George",1984,3636,Lord Mayors Banquet,person,0,6,3,0,3,6,9,0,0,3,3
+2283,"Orwell, George",1984,3645,Ingsoc,person,0,0,4,4,0,0,4,0,0,4,4
+2288,"Orwell, George",1984,3654,Winston,person,1,1,1,1,1,1,1,1,1,1,0
+2294,"Orwell, George",1984,3666,Winston,person,1,1,0,0,0,1,0,1,0,0,-1
+2319,"Orwell, George",1984,3710,Julia,person,0,0,0,0,0,0,6,0,0,0,6
+2332,"Orwell, George",1984,3730,Winston,person,1,0,0,0,0,1,0,0,0,0,-1
+2334,"Orwell, George",1984,3732,Winston,person,1,1,0,1,0,1,1,0,0,1,0
+2335,"Orwell, George",1984,3735,Parsons,person,1,0,1,2,1,1,1,0,0,1,0
+2342,"Orwell, George",1984,3743,Big Brother,person,0,0,0,0,0,0,1,0,0,1,1
+2348,"Orwell, George",1984,3756,Winston,person,0,2,0,0,0,0,0,0,0,0,0
+2350,"Orwell, George",1984,3760,Ingsoc,person,2,0,0,2,0,2,4,0,0,2,2
+2352,"Orwell, George",1984,3764,Winston,person,0,1,0,0,2,1,2,1,0,3,1
+2357,"Orwell, George",1984,3773,Winston,person,0,0,0,0,1,0,1,0,0,1,1
+2361,"Orwell, George",1984,3782,Nick,person,1,0,0,0,0,0,1,0,0,0,1
+2362,"Orwell, George",1984,3783,O'Brien,person,3,1,1,1,0,2,0,2,0,0,-2
+2364,"Orwell, George",1984,3787,Julia,person,2,0,0,0,0,0,0,0,0,0,0
+2366,"Orwell, George",1984,3788,O'Brien,person,0,0,1,0,0,0,0,0,1,1,0
+2369,"Orwell, George",1984,3798,Julia,person,4,0,4,12,0,8,0,4,0,0,-8
+2370,"Orwell, George",1984,3798,O'Brien,person,4,0,4,12,0,8,0,4,0,0,-8
+2374,"Orwell, George",1984,3800,Syme,person,0,2,0,0,0,0,0,0,0,0,0
+2375,"Orwell, George",1984,3800,Don,person,0,2,0,0,0,0,0,0,0,0,0
+2385,"Orwell, George",1984,3814,O'Brien,person,3,1,3,3,1,5,1,2,1,1,-4
+2387,"Orwell, George",1984,3815,Cock Robin,person,2,2,2,2,0,2,0,2,2,0,-2
+2391,"Orwell, George",1984,3822,Goldstein,person,0,8,0,6,2,4,6,2,4,2,2
+2396,"Orwell, George",1984,3826,Big Brother,person,0,0,0,0,0,0,2,0,0,2,2
+2399,"Orwell, George",1984,3831,Ingsoc,person,0,0,0,0,0,0,3,0,0,3,3
+2407,"Orwell, George",1984,3843,O'Brien,person,0,2,0,0,0,2,0,0,0,0,-2
+2425,"Orwell, George",1984,3883,Ingsoc,person,0,0,0,0,0,2,0,0,0,0,-2
+2433,"Orwell, George",1984,3899,Winston,person,0,0,0,2,0,2,0,0,0,0,-2
+2434,"Orwell, George",1984,3900,Winston,person,0,2,0,0,0,0,2,0,0,2,2
+2441,"Orwell, George",1984,3931,Winston,person,0,0,0,0,0,0,0,0,1,0,0
+2457,"Orwell, George",1984,3957,Winston,person,8,4,12,12,0,16,16,8,0,16,0
+2458,"Orwell, George",1984,3957,Goldstein,person,8,4,12,12,0,16,16,8,0,16,0
+2459,"Orwell, George",1984,3957,Big Brother,person,8,4,12,12,0,16,16,8,0,16,0
+2463,"Orwell, George",1984,3966,Julia,person,0,3,0,0,0,0,0,0,0,0,0
+2471,"Orwell, George",1984,3977,Nick,person,0,1,0,0,1,0,1,0,1,1,1
+2473,"Orwell, George",1984,3980,Winston,person,0,0,0,0,0,0,2,0,0,2,2
+2475,"Orwell, George",1984,3985,Comrade Ogilvy,person,1,0,0,1,0,2,2,1,0,1,0
+2478,"Orwell, George",1984,3989,Big Brother,person,0,1,0,0,1,1,6,1,0,4,5
+2494,"Orwell, George",1984,4017,Parsons,person,4,2,4,4,2,4,2,2,2,0,-2
+2511,"Orwell, George",1984,4039,Winston,person,0,2,0,0,0,4,0,0,0,0,-4
+2517,"Orwell, George",1984,4055,Winston,person,0,0,0,0,0,1,0,0,0,0,-1
+2522,"Orwell, George",1984,4060,Winston,person,1,1,1,1,0,2,2,2,0,1,0
+2527,"Orwell, George",1984,4072,O'Brien,person,1,0,1,2,1,2,1,2,0,1,-1
+2543,"Orwell, George",1984,4092,Goldstein,person,0,0,0,0,0,3,0,0,0,0,-3
+2551,"Orwell, George",1984,4102,Julia,person,2,4,0,0,2,2,2,0,2,2,0
+2554,"Orwell, George",1984,4105,Goldstein,person,2,0,2,2,0,2,2,0,0,2,0
+2569,"Orwell, George",1984,4132,Syme,person,0,0,0,0,0,1,0,1,0,0,-1
+2570,"Orwell, George",1984,4137,Winston,person,3,0,3,3,0,3,0,3,0,0,-3
+2573,"Orwell, George",1984,4140,Winston,person,0,0,0,0,0,0,2,0,0,0,2
+2584,"Orwell, George",1984,4173,Goldstein,person,0,0,0,0,0,3,0,0,0,0,-3
+2587,"Orwell, George",1984,4180,O'Brien,person,0,0,0,1,0,1,0,0,1,0,-1
+2589,"Orwell, George",1984,4188,Winston,person,2,0,2,2,0,2,0,0,0,0,-2
+2591,"Orwell, George",1984,4190,Goldstein,person,0,2,0,2,0,2,2,2,0,2,0
+2599,"Orwell, George",1984,4203,Adam,person,0,2,0,0,0,0,0,0,4,0,0
+2609,"Orwell, George",1984,4224,Big Brother,person,0,0,0,0,0,0,4,0,0,2,4
+2611,"Orwell, George",1984,4233,Parsons,person,0,1,0,0,0,0,0,0,0,0,0
+2613,"Orwell, George",1984,4243,Winston,person,0,1,1,0,1,2,1,0,0,1,-1
+2615,"Orwell, George",1984,4250,Winston,person,0,0,0,0,0,0,1,0,0,0,1
+2625,"Orwell, George",1984,4276,Winston,person,0,1,0,0,0,0,0,0,0,0,0
+2632,"Orwell, George",1984,4321,Ingsoc,person,2,0,2,2,0,4,4,2,0,2,0
+2643,"Orwell, George",1984,4337,INGSOC,person,4,0,0,4,0,0,8,0,0,8,8
+2649,"Orwell, George",1984,4342,Ingsoc,person,3,0,0,0,3,6,3,3,0,0,-3
+2667,"Orwell, George",1984,4358,Clarisse,person,0,12,0,0,12,0,20,0,8,8,20
+2677,"Orwell, George",1984,4365,Ingsoc,person,0,2,0,0,2,0,6,0,0,2,6
+2680,"Orwell, George",1984,4366,Milton,person,4,0,0,4,0,4,8,4,0,4,4
+2682,"Orwell, George",1984,4366,Byron,person,4,0,0,4,0,4,8,4,0,4,4
+2863,"Bradbury, Ray",Fahrenheit 451,4796,Guy,person,0,0,5,0,5,5,5,0,0,0,0
+2868,"Bradbury, Ray",Fahrenheit 451,4801,Mildred Montag,person,0,0,0,0,2,0,2,0,0,2,2
+2872,"Bradbury, Ray",Fahrenheit 451,4805,Guy,person,0,3,0,0,0,0,0,0,0,0,0
+2883,"Bradbury, Ray",Fahrenheit 451,4815,Guy,person,0,0,0,0,10,5,10,0,0,10,5
+2885,"Bradbury, Ray",Fahrenheit 451,4815,Willie,person,0,0,0,0,10,5,10,0,0,10,5
+2888,"Bradbury, Ray",Fahrenheit 451,4818,Guy,person,3,3,3,0,3,0,3,0,3,3,3
+2892,"Bradbury, Ray",Fahrenheit 451,4819,Guy,person,0,0,0,0,6,6,12,0,0,6,6
+2905,"Bradbury, Ray",Fahrenheit 451,4836,Guy,person,0,4,0,0,0,0,0,0,0,0,0
+2919,"Bradbury, Ray",Fahrenheit 451,4849,Guy,person,0,0,0,0,0,3,0,3,3,0,-3
+2924,"Bradbury, Ray",Fahrenheit 451,4851,Faber,person,3,3,3,3,0,3,0,3,0,0,-3
+2927,"Bradbury, Ray",Fahrenheit 451,4861,Beatty,person,2,0,2,2,2,6,0,2,0,0,-6
+2935,"Bradbury, Ray",Fahrenheit 451,4878,Don,person,0,0,1,0,0,1,0,0,0,0,-1
+2941,"Bradbury, Ray",Fahrenheit 451,4893,Guy,person,0,0,0,0,0,4,0,0,0,0,-4
+2945,"Bradbury, Ray",Fahrenheit 451,4895,Louis,person,0,0,0,0,0,0,3,0,0,3,3
+2946,"Bradbury, Ray",Fahrenheit 451,4895,Aunt Maude,person,0,0,0,0,0,0,3,0,0,3,3
+2948,"Bradbury, Ray",Fahrenheit 451,4898,Guy,person,0,0,0,3,0,6,0,0,0,0,-6
+2956,"Bradbury, Ray",Fahrenheit 451,4915,Mildred Montag,person,0,0,0,0,0,2,2,2,0,2,0
+2961,"Bradbury, Ray",Fahrenheit 451,4920,Guy,person,0,0,0,3,0,6,0,0,0,0,-6
+2964,"Bradbury, Ray",Fahrenheit 451,4921,Guy,person,3,6,3,3,0,6,0,3,0,0,-6
+2974,"Bradbury, Ray",Fahrenheit 451,4940,Mrs Black,person,6,24,12,6,18,18,24,12,18,12,6
+2979,"Bradbury, Ray",Fahrenheit 451,4940,Faber,person,6,24,12,6,18,18,24,12,18,12,6
+2993,"Bradbury, Ray",Fahrenheit 451,4958,Mildred Montag,person,0,0,0,0,0,2,0,2,0,0,-2
+2996,"Bradbury, Ray",Fahrenheit 451,4964,Beatty,person,0,0,0,1,0,1,0,1,0,0,-1
+2998,"Bradbury, Ray",Fahrenheit 451,4970,Guy,person,0,0,0,0,0,4,4,4,0,4,0
+3002,"Bradbury, Ray",Fahrenheit 451,4971,Guy,person,0,0,0,3,3,0,3,3,0,0,3
+3015,"Bradbury, Ray",Fahrenheit 451,4989,Beatty,person,0,0,0,1,0,1,0,1,0,0,-1
+3020,"Bradbury, Ray",Fahrenheit 451,4994,Guy,person,0,5,0,5,0,10,0,0,0,0,-10
+3025,"Bradbury, Ray",Fahrenheit 451,4997,Guy,person,0,8,0,0,4,4,8,0,0,4,4
+3029,"Bradbury, Ray",Fahrenheit 451,4998,Guy,person,4,32,4,8,16,4,28,4,8,20,24
+3032,"Bradbury, Ray",Fahrenheit 451,5001,Clarisse,person,1,0,1,1,0,1,1,2,0,0,0
+3034,"Bradbury, Ray",Fahrenheit 451,5003,Guy,person,0,0,0,0,0,4,0,0,0,0,-4
+3036,"Bradbury, Ray",Fahrenheit 451,5003,Faber,person,0,0,0,0,0,4,0,0,0,0,-4
+3043,"Bradbury, Ray",Fahrenheit 451,5025,Guy,person,4,0,0,4,0,4,4,0,0,0,0
+3049,"Bradbury, Ray",Fahrenheit 451,5037,Guy,person,0,0,3,0,0,3,0,0,0,0,-3
+3056,"Bradbury, Ray",Fahrenheit 451,5046,Mrs Phelps,person,4,4,8,0,4,8,8,0,4,8,0
+3057,"Bradbury, Ray",Fahrenheit 451,5051,Beatty,person,0,0,0,0,0,5,0,5,0,0,-5
+3059,"Bradbury, Ray",Fahrenheit 451,5051,Guy,person,0,0,0,0,0,5,0,5,0,0,-5
+3065,"Bradbury, Ray",Fahrenheit 451,5057,Clarisse,person,0,0,0,0,1,1,1,0,0,1,0
+3077,"Bradbury, Ray",Fahrenheit 451,5086,Clarisse,person,0,15,0,3,9,9,12,0,6,15,3
+3084,"Bradbury, Ray",Fahrenheit 451,5092,Beatty,person,0,0,0,0,0,0,0,0,0,1,0
+3091,"Bradbury, Ray",Fahrenheit 451,5100,Guy,person,3,3,0,0,3,3,3,0,0,3,0
+3095,"Bradbury, Ray",Fahrenheit 451,5112,Faber,person,0,0,0,0,0,2,0,2,0,0,-2
+3099,"Bradbury, Ray",Fahrenheit 451,5115,Guy,person,4,12,4,12,4,12,20,0,4,4,8
+3106,"Bradbury, Ray",Fahrenheit 451,5130,Mildred Montag,person,1,0,1,1,0,1,0,1,0,0,-1
+3109,"Bradbury, Ray",Fahrenheit 451,5143,Guy,person,6,3,6,9,3,18,3,6,9,6,-15
+3113,"Bradbury, Ray",Fahrenheit 451,5153,Guy,person,0,0,3,0,0,3,0,0,0,0,-3
+3118,"Bradbury, Ray",Fahrenheit 451,5159,Clarisse,person,3,6,0,0,0,3,0,0,0,0,-3
+3121,"Bradbury, Ray",Fahrenheit 451,5162,Mildred Montag,person,0,1,0,0,0,1,0,0,0,0,-1
+3123,"Bradbury, Ray",Fahrenheit 451,5165,Guy,person,0,3,0,0,0,0,0,0,0,0,0
+3128,"Bradbury, Ray",Fahrenheit 451,5168,Guy,person,0,0,0,0,0,5,0,0,0,0,-5
+3131,"Bradbury, Ray",Fahrenheit 451,5168,Faber,person,0,0,0,0,0,5,0,0,0,0,-5
+3136,"Bradbury, Ray",Fahrenheit 451,5172,Guy,person,0,5,0,0,0,10,0,0,0,0,-10
+3148,"Bradbury, Ray",Fahrenheit 451,5208,Don,person,0,0,0,0,1,0,2,1,0,0,2
+3150,"Bradbury, Ray",Fahrenheit 451,5215,Beatty,person,0,0,0,2,0,2,0,2,0,0,-2
+3156,"Bradbury, Ray",Fahrenheit 451,5223,Guy,person,0,0,0,0,0,0,3,0,0,0,3
+3162,"Bradbury, Ray",Fahrenheit 451,5231,Mildred Montag,person,0,0,0,0,0,0,0,0,2,0,0
+3167,"Bradbury, Ray",Fahrenheit 451,5234,Beatty,person,0,0,0,0,0,0,1,0,0,0,1
+3174,"Bradbury, Ray",Fahrenheit 451,5259,Guy,person,0,0,0,3,0,0,0,12,0,0,0
+3177,"Bradbury, Ray",Fahrenheit 451,5260,Mrs Phelps,person,2,0,2,2,0,2,0,2,0,0,-2
+3187,"Bradbury, Ray",Fahrenheit 451,5284,Beatty,person,1,1,0,2,0,2,0,0,1,0,-2
+3190,"Bradbury, Ray",Fahrenheit 451,5292,Beatty,person,0,2,0,1,0,2,1,1,0,0,-1
+3193,"Bradbury, Ray",Fahrenheit 451,5297,Guy,person,4,4,4,0,0,4,4,0,0,4,0
+3204,"Bradbury, Ray",Fahrenheit 451,5313,Faber,person,0,0,0,2,0,2,0,2,0,0,-2
+3213,"Bradbury, Ray",Fahrenheit 451,5337,Guy,person,3,0,0,0,0,0,0,0,0,0,0
+3220,"Bradbury, Ray",Fahrenheit 451,5354,Guy,person,0,0,0,0,0,0,3,0,0,3,3
+3233,"Bradbury, Ray",Fahrenheit 451,5391,Guy,person,0,3,0,0,0,0,0,0,0,0,0
+3246,"Bradbury, Ray",Fahrenheit 451,5405,Guy,person,0,0,0,0,0,4,4,4,4,0,0
+3248,"Bradbury, Ray",Fahrenheit 451,5405,Faber,person,0,0,0,0,0,4,4,4,4,0,0
+3252,"Bradbury, Ray",Fahrenheit 451,5410,Guy,person,0,0,0,10,0,0,0,0,0,0,0
+3254,"Bradbury, Ray",Fahrenheit 451,5410,Faber,person,0,0,0,10,0,0,0,0,0,0,0
+3263,"Bradbury, Ray",Fahrenheit 451,5430,Guy,person,0,4,0,0,0,0,0,0,0,0,0
+3275,"Bradbury, Ray",Fahrenheit 451,5456,Guy,person,0,0,0,10,0,10,0,5,5,0,-10
+3287,"Bradbury, Ray",Fahrenheit 451,5477,Guy,person,0,0,0,0,0,3,0,0,0,0,-3
+3294,"Bradbury, Ray",Fahrenheit 451,5497,Guy,person,3,0,0,0,0,0,3,0,0,0,3
+3297,"Bradbury, Ray",Fahrenheit 451,5498,Whitman,person,0,0,0,0,0,4,0,4,0,0,-4
+3298,"Bradbury, Ray",Fahrenheit 451,5498,Friday Faulkner,person,0,0,0,0,0,4,0,4,0,0,-4
+3302,"Bradbury, Ray",Fahrenheit 451,5511,Guy,person,0,0,0,0,0,0,5,0,0,5,5
+3306,"Bradbury, Ray",Fahrenheit 451,5518,Beatty,person,0,0,0,0,0,6,3,0,0,0,-3
+3307,"Bradbury, Ray",Fahrenheit 451,5518,Captain Beatty,person,0,0,0,0,0,6,3,0,0,0,-3
+3311,"Bradbury, Ray",Fahrenheit 451,5520,Guy,person,0,5,0,0,0,0,10,0,0,0,10
+3315,"Bradbury, Ray",Fahrenheit 451,5522,Noble,person,0,0,0,0,0,0,4,0,0,4,4
+3321,"Bradbury, Ray",Fahrenheit 451,5534,Guy,person,0,0,6,0,0,6,0,0,0,0,-6
+3336,"Bradbury, Ray",Fahrenheit 451,5569,Beatty,person,0,3,0,0,0,0,3,0,0,0,3
+3337,"Bradbury, Ray",Fahrenheit 451,5569,Captain Beatty,person,0,3,0,0,0,0,3,0,0,0,3
+3348,"Bradbury, Ray",Fahrenheit 451,5587,Beatty,person,0,0,3,0,0,3,6,0,0,3,3
+3349,"Bradbury, Ray",Fahrenheit 451,5587,Captain Beatty,person,0,0,3,0,0,3,6,0,0,3,3
+3351,"Bradbury, Ray",Fahrenheit 451,5591,Beatty,person,0,0,0,0,0,0,1,0,0,0,1
+3356,"Bradbury, Ray",Fahrenheit 451,5596,Mildred Montag,person,0,0,0,0,0,0,1,0,0,1,1
+3365,"Bradbury, Ray",Fahrenheit 451,5604,Guy,person,0,6,0,3,3,3,3,3,0,0,0
+3371,"Bradbury, Ray",Fahrenheit 451,5616,Beatty,person,0,0,1,0,0,1,0,1,0,0,-1
+3374,"Bradbury, Ray",Fahrenheit 451,5626,Beatty,person,3,6,0,0,6,3,6,0,3,3,3
+3377,"Bradbury, Ray",Fahrenheit 451,5629,Beatty,person,0,0,0,0,0,0,3,0,0,0,3
+3378,"Bradbury, Ray",Fahrenheit 451,5629,Captain Beatty,person,0,0,0,0,0,0,3,0,0,0,3
+3380,"Bradbury, Ray",Fahrenheit 451,5631,Guy,person,0,5,0,0,5,0,10,0,0,0,10
+3383,"Bradbury, Ray",Fahrenheit 451,5631,Helen,person,0,5,0,0,5,0,10,0,0,0,10
+3386,"Bradbury, Ray",Fahrenheit 451,5634,Guy,person,0,6,3,0,3,0,3,0,3,3,3
+3388,"Bradbury, Ray",Fahrenheit 451,5638,Beatty,person,0,0,0,0,0,0,3,0,0,0,3
+3389,"Bradbury, Ray",Fahrenheit 451,5638,Captain Beatty,person,0,0,0,0,0,0,3,0,0,0,3
+3393,"Bradbury, Ray",Fahrenheit 451,5639,Guy,person,10,5,5,15,5,25,5,15,5,5,-20
+3397,"Bradbury, Ray",Fahrenheit 451,5640,Guy,person,4,0,4,0,8,4,8,0,0,8,4
+3403,"Bradbury, Ray",Fahrenheit 451,5644,Guy,person,0,6,0,6,6,3,6,0,3,6,3
+3406,"Bradbury, Ray",Fahrenheit 451,5646,Guy,person,0,3,0,0,3,6,6,0,0,0,0
+3411,"Bradbury, Ray",Fahrenheit 451,5648,Guy,person,0,0,0,7,0,7,0,0,0,0,-7
+3419,"Bradbury, Ray",Fahrenheit 451,5670,Granger,person,0,0,2,0,0,2,0,0,0,0,-2
+3421,"Bradbury, Ray",Fahrenheit 451,5673,Faber,person,0,0,0,0,0,0,2,0,0,0,2
+3423,"Bradbury, Ray",Fahrenheit 451,5674,Guy,person,0,0,0,0,0,3,0,0,0,0,-3
+3426,"Bradbury, Ray",Fahrenheit 451,5676,Guy,person,0,0,0,0,0,0,3,0,0,3,3
+3433,"Bradbury, Ray",Fahrenheit 451,5684,Guy,person,16,0,16,12,0,16,0,12,0,0,-16
+3437,"Bradbury, Ray",Fahrenheit 451,5685,Guy,person,0,0,0,0,0,0,0,6,0,0,0
+3443,"Bradbury, Ray",Fahrenheit 451,5692,Don,person,1,0,0,0,0,1,0,0,0,0,-1
+3444,"Bradbury, Ray",Fahrenheit 451,5698,Mildred Montag,person,0,1,0,2,1,3,1,2,0,1,-2
+3451,"Bradbury, Ray",Fahrenheit 451,5707,Beatty,person,0,0,0,2,0,2,0,0,0,0,-2
+3454,"Bradbury, Ray",Fahrenheit 451,5711,Faber,person,0,2,0,0,0,0,0,0,0,0,0
+3457,"Bradbury, Ray",Fahrenheit 451,5719,Granger,person,2,0,0,2,0,2,2,0,0,0,0
+3458,"Bradbury, Ray",Fahrenheit 451,5720,Faber,person,0,0,0,0,0,1,0,0,0,0,-1
+3463,"Bradbury, Ray",Fahrenheit 451,5727,Guy,person,3,3,0,3,0,9,0,9,0,0,-9
+3470,"Bradbury, Ray",Fahrenheit 451,5733,Guy,person,0,0,0,0,0,0,3,0,0,0,3
+3474,"Bradbury, Ray",Fahrenheit 451,5737,Ruth,person,0,0,0,0,0,0,5,0,0,0,5
+3476,"Bradbury, Ray",Fahrenheit 451,5737,Helen,person,0,0,0,0,0,0,5,0,0,0,5
+3480,"Bradbury, Ray",Fahrenheit 451,5740,Denhams Dentifrice,person,0,0,2,0,0,2,2,0,0,0,0
+3486,"Bradbury, Ray",Fahrenheit 451,5747,Guy,person,0,5,0,0,0,0,0,0,0,0,0
+3489,"Bradbury, Ray",Fahrenheit 451,5747,Faber,person,0,5,0,0,0,0,0,0,0,0,0
+3498,"Bradbury, Ray",Fahrenheit 451,5754,Faber,person,0,0,2,0,0,2,0,0,0,0,-2
+3513,"Bradbury, Ray",Fahrenheit 451,5768,Don,person,0,0,0,0,3,6,3,3,3,3,-3
+3514,"Bradbury, Ray",Fahrenheit 451,5768,Faber,person,0,0,0,0,3,6,3,3,3,3,-3
+3516,"Bradbury, Ray",Fahrenheit 451,5774,Winston,person,0,0,0,2,0,2,2,2,0,2,0
+3517,"Bradbury, Ray",Fahrenheit 451,5774,Noble,person,0,0,0,2,0,2,2,2,0,2,0
+3523,"Bradbury, Ray",Fahrenheit 451,5780,Guy,person,0,0,0,0,0,0,3,0,0,0,3
+3526,"Bradbury, Ray",Fahrenheit 451,5781,Guy,person,3,0,0,0,0,6,0,0,0,0,-6
+3533,"Bradbury, Ray",Fahrenheit 451,5791,Faber,person,0,2,0,0,0,0,2,0,0,0,2
+3541,"Bradbury, Ray",Fahrenheit 451,5801,Winston,person,0,0,0,0,0,0,4,0,0,4,4
+3543,"Bradbury, Ray",Fahrenheit 451,5801,Noble,person,0,0,0,0,0,0,4,0,0,4,4
+3544,"Bradbury, Ray",Fahrenheit 451,5801,Hubert Hoag,person,0,0,0,0,0,0,4,0,0,4,4
+3546,"Bradbury, Ray",Fahrenheit 451,5804,Guy,person,0,3,0,0,0,3,0,0,0,0,-3
+3549,"Bradbury, Ray",Fahrenheit 451,5805,Guy,person,4,0,0,8,0,8,0,0,0,0,-8
+3555,"Bradbury, Ray",Fahrenheit 451,5807,Beatty,person,4,4,4,8,0,4,0,4,0,0,-4
+3557,"Bradbury, Ray",Fahrenheit 451,5807,Guy,person,4,4,4,8,0,4,0,4,0,0,-4
+3565,"Bradbury, Ray",Fahrenheit 451,5813,Mildred Montag,person,4,8,0,8,8,4,8,0,4,8,4
+3569,"Bradbury, Ray",Fahrenheit 451,5815,Beatty,person,0,0,0,0,0,0,3,0,0,0,3
+3570,"Bradbury, Ray",Fahrenheit 451,5815,Captain Beatty,person,0,0,0,0,0,0,3,0,0,0,3
+3574,"Bradbury, Ray",Fahrenheit 451,5822,Beatty,person,0,0,0,0,0,7,14,0,0,0,7
+3575,"Bradbury, Ray",Fahrenheit 451,5822,Mildred Montag,person,0,0,0,0,0,7,14,0,0,0,7
+3577,"Bradbury, Ray",Fahrenheit 451,5822,Guy,person,0,0,0,0,0,7,14,0,0,0,7
+3578,"Bradbury, Ray",Fahrenheit 451,5822,Captain Beatty,person,0,0,0,0,0,7,14,0,0,0,7
+3583,"Bradbury, Ray",Fahrenheit 451,5830,Guy,person,3,0,3,6,0,6,0,3,0,0,-6
+3588,"Bradbury, Ray",Fahrenheit 451,5835,Mildred Montag,person,4,4,4,8,0,16,8,8,4,4,-8
+3590,"Bradbury, Ray",Fahrenheit 451,5835,Guy,person,4,4,4,8,0,16,8,8,4,4,-8
+3593,"Bradbury, Ray",Fahrenheit 451,5842,Mildred Montag,person,0,1,0,0,0,0,0,0,0,0,0
+3600,"Bradbury, Ray",Fahrenheit 451,5850,Guy,person,0,0,0,0,0,0,0,0,3,0,0
+3603,"Bradbury, Ray",Fahrenheit 451,5851,Noble,person,0,0,0,0,0,0,2,0,0,2,2
+3616,"Bradbury, Ray",Fahrenheit 451,5874,Guy,person,0,0,5,5,0,5,0,5,0,0,-5
+3623,"Bradbury, Ray",Fahrenheit 451,5879,Guy,person,4,0,0,4,4,4,8,4,0,0,4
+3628,"Bradbury, Ray",Fahrenheit 451,5895,Mrs Black,person,0,2,0,0,0,2,0,2,0,0,-2
+3632,"Bradbury, Ray",Fahrenheit 451,5896,Granger,person,0,3,0,0,0,3,0,0,0,0,-3
+3636,"Bradbury, Ray",Fahrenheit 451,5901,Guy,person,0,3,0,0,0,0,0,0,0,0,0
+3638,"Bradbury, Ray",Fahrenheit 451,5904,Mildred Montag,person,1,0,0,0,0,0,0,0,1,0,0
+3640,"Bradbury, Ray",Fahrenheit 451,5909,Mildred Montag,person,1,0,1,2,0,2,0,0,1,0,-2
+3641,"Bradbury, Ray",Fahrenheit 451,5914,Mildred Montag,person,1,0,0,2,0,1,0,1,1,0,-1
+3644,"Bradbury, Ray",Fahrenheit 451,5916,Granger,person,0,0,0,0,0,0,2,0,0,0,2
+3646,"Bradbury, Ray",Fahrenheit 451,5925,Mildred Montag,person,6,6,0,0,6,6,6,6,6,6,0
+3648,"Bradbury, Ray",Fahrenheit 451,5925,Guy,person,6,6,0,0,6,6,6,6,6,6,0
+3651,"Bradbury, Ray",Fahrenheit 451,5925,Mrs Phelps,person,6,6,0,0,6,6,6,6,6,6,0
+3661,"Bradbury, Ray",Fahrenheit 451,5931,Mildred Montag,person,5,0,5,0,0,5,5,0,0,0,0
+3664,"Bradbury, Ray",Fahrenheit 451,5931,Guy,person,5,0,5,0,0,5,5,0,0,0,0
+3673,"Bradbury, Ray",Fahrenheit 451,5942,Beatty,person,0,0,0,1,0,0,0,0,0,0,0
+3675,"Bradbury, Ray",Fahrenheit 451,5943,Guy,person,0,4,0,8,0,0,0,4,0,0,0
+3681,"Bradbury, Ray",Fahrenheit 451,5946,Don,person,0,1,0,1,0,1,0,1,0,0,-1
+3685,"Bradbury, Ray",Fahrenheit 451,5949,Guy,person,0,0,0,0,0,3,0,0,0,0,-3
+3690,"Bradbury, Ray",Fahrenheit 451,5955,Guy,person,0,2,0,2,0,2,0,0,0,0,-2
+3700,"Bradbury, Ray",Fahrenheit 451,5968,Guy,person,0,4,0,4,4,0,4,0,0,4,4
+3703,"Bradbury, Ray",Fahrenheit 451,5969,Mildred Montag,person,0,1,0,0,0,0,0,0,0,0,0
+3704,"Bradbury, Ray",Fahrenheit 451,5977,Beatty,person,0,0,0,0,0,1,0,1,0,0,-1
+3707,"Bradbury, Ray",Fahrenheit 451,5980,Granger,person,0,0,0,2,0,0,2,0,0,2,2
+3708,"Bradbury, Ray",Fahrenheit 451,5982,Beatty,person,0,0,0,0,0,0,4,0,0,0,4
+3710,"Bradbury, Ray",Fahrenheit 451,5982,Captain Beatty,person,0,0,0,0,0,0,4,0,0,0,4
+3715,"Bradbury, Ray",Fahrenheit 451,5988,Beatty,person,0,3,0,0,3,3,6,0,0,0,3
+3716,"Bradbury, Ray",Fahrenheit 451,5988,Captain Beatty,person,0,3,0,0,3,3,6,0,0,0,3
+3721,"Bradbury, Ray",Fahrenheit 451,5993,Beatty,person,0,3,0,0,3,0,6,0,3,3,6
+3722,"Bradbury, Ray",Fahrenheit 451,5993,Captain Beatty,person,0,3,0,0,3,0,6,0,3,3,6
+3725,"Bradbury, Ray",Fahrenheit 451,6001,Guy,person,6,0,6,0,0,6,0,0,0,0,-6
+3728,"Bradbury, Ray",Fahrenheit 451,6002,Guy,person,0,0,0,0,0,0,3,0,0,0,3
+3734,"Bradbury, Ray",Fahrenheit 451,6013,Beatty,person,0,0,0,0,0,1,0,0,0,0,-1
+3739,"Bradbury, Ray",Fahrenheit 451,6038,Guy,person,3,0,3,3,0,6,0,3,0,0,-6
+3745,"Bradbury, Ray",Fahrenheit 451,6044,Guy,person,4,8,4,4,0,20,0,4,4,4,-20
+3748,"Bradbury, Ray",Fahrenheit 451,6051,Denhams Dentifrice,person,4,2,2,2,2,6,4,0,0,2,-2
+3753,"Bradbury, Ray",Fahrenheit 451,6054,Guy,person,0,5,5,0,0,10,5,0,0,5,-5
+3757,"Bradbury, Ray",Fahrenheit 451,6055,Guy,person,0,0,0,0,0,3,0,0,0,0,-3
+3770,"Bradbury, Ray",Fahrenheit 451,6089,Guy,person,0,3,0,0,0,0,0,0,0,0,0
+3773,"Bradbury, Ray",Fahrenheit 451,6100,Granger,person,0,0,0,2,0,0,0,0,0,0,0
+3779,"Bradbury, Ray",Fahrenheit 451,6125,Guy,person,0,0,0,0,3,0,3,0,0,3,3
+3782,"Bradbury, Ray",Fahrenheit 451,6126,Granger,person,0,0,0,0,0,0,0,0,3,0,0
+3785,"Bradbury, Ray",Fahrenheit 451,6127,Guy,person,0,0,0,0,0,0,3,0,0,0,3
+3789,"Bradbury, Ray",Fahrenheit 451,6132,Guy,person,6,3,0,0,0,3,0,0,0,0,-3
+3792,"Bradbury, Ray",Fahrenheit 451,6143,Guy,person,4,4,4,4,4,4,4,4,0,4,0
+3795,"Atwood, Margaret",The Handmaid's Tale,6149,Martha,person,0,2,0,0,0,0,0,0,0,0,0
+3797,"Atwood, Margaret",The Handmaid's Tale,6150,Elizabeth,person,0,0,0,0,0,0,1,0,0,1,1
+3799,"Atwood, Margaret",The Handmaid's Tale,6151,Luke,person,0,0,0,0,0,2,0,2,0,0,-2
+3802,"Atwood, Margaret",The Handmaid's Tale,6155,Ofglen,person,2,2,0,0,0,2,0,0,0,0,-2
+3808,"Atwood, Margaret",The Handmaid's Tale,6165,Luke,person,0,0,0,0,0,0,1,0,0,0,1
+3812,"Atwood, Margaret",The Handmaid's Tale,6170,Luke,person,0,0,0,0,0,4,16,4,0,8,12
+3819,"Atwood, Margaret",The Handmaid's Tale,6183,Rita,person,0,2,0,0,1,0,3,0,0,2,3
+3825,"Atwood, Margaret",The Handmaid's Tale,6193,Janine,person,0,0,0,0,0,0,2,0,0,0,2
+3829,"Atwood, Margaret",The Handmaid's Tale,6202,Aunt Lydia,person,0,0,0,2,0,0,4,0,0,4,4
+3832,"Atwood, Margaret",The Handmaid's Tale,6207,Aunt Lydia,person,0,0,0,0,4,0,6,0,0,6,6
+3834,"Atwood, Margaret",The Handmaid's Tale,6212,Nick,person,0,0,0,2,0,2,0,0,0,0,-2
+3838,"Atwood, Margaret",The Handmaid's Tale,6218,Martha,person,0,4,0,0,0,0,0,0,0,0,0
+3843,"Atwood, Margaret",The Handmaid's Tale,6226,Martha,person,0,0,0,2,0,2,0,0,0,0,-2
+3848,"Atwood, Margaret",The Handmaid's Tale,6236,Moira,person,0,0,1,1,0,1,0,1,0,0,-1
+3867,"Atwood, Margaret",The Handmaid's Tale,6270,Aunt Lydia,person,0,4,0,0,4,0,8,0,4,8,8
+3869,"Atwood, Margaret",The Handmaid's Tale,6270,Janine,person,0,4,0,0,4,0,8,0,4,8,8
+3874,"Atwood, Margaret",The Handmaid's Tale,6276,Luke,person,1,0,0,0,0,1,0,1,0,0,-1
+3881,"Atwood, Margaret",The Handmaid's Tale,6289,Moira,person,0,4,0,0,0,0,0,0,0,0,0
+3894,"Atwood, Margaret",The Handmaid's Tale,6310,Martha,person,0,1,0,0,1,1,2,1,0,2,1
+3895,"Atwood, Margaret",The Handmaid's Tale,6311,Aunt Lydia,person,0,0,1,1,0,1,1,1,0,1,0
+3899,"Atwood, Margaret",The Handmaid's Tale,6327,Luke,person,0,0,0,0,0,0,0,0,0,1,0
+3908,"Atwood, Margaret",The Handmaid's Tale,6337,Aunt Lydia,person,0,3,0,0,0,6,3,0,0,6,-3
+3910,"Atwood, Margaret",The Handmaid's Tale,6340,Aunt Lydia,person,0,0,0,0,0,0,3,0,0,1,3
+3930,"Atwood, Margaret",The Handmaid's Tale,6386,Moira,person,4,0,0,4,0,4,0,4,4,0,-4
+3937,"Atwood, Margaret",The Handmaid's Tale,6398,Aunt Lydia,person,0,0,0,0,0,0,1,0,1,1,1
+3961,"Atwood, Margaret",The Handmaid's Tale,6434,Moira,person,0,0,0,1,0,4,0,1,1,0,-4
+3964,"Atwood, Margaret",The Handmaid's Tale,6439,Aunt Lydia,person,3,0,3,3,0,3,3,3,0,3,0
+3965,"Atwood, Margaret",The Handmaid's Tale,6439,Janine,person,3,0,3,3,0,3,3,3,0,3,0
+3991,"Atwood, Margaret",The Handmaid's Tale,6485,Luke,person,0,0,2,0,0,2,0,0,0,0,-2
+3997,"Atwood, Margaret",The Handmaid's Tale,6498,Don,person,2,0,2,2,0,2,0,0,2,0,-2
+4020,"Atwood, Margaret",The Handmaid's Tale,6542,Ofglen,person,0,2,0,0,2,0,2,0,0,0,2
+4031,"Atwood, Margaret",The Handmaid's Tale,6562,Ofglen,person,1,0,0,0,0,0,0,0,0,1,0
+4032,"Atwood, Margaret",The Handmaid's Tale,6566,Elizabeth,person,0,0,0,0,0,0,1,0,0,1,1
+4040,"Atwood, Margaret",The Handmaid's Tale,6580,Aunt Lydia,person,0,2,1,0,3,1,5,0,2,3,4
+4057,"Atwood, Margaret",The Handmaid's Tale,6603,Luke,person,0,0,0,0,0,0,3,0,0,0,3
+4065,"Atwood, Margaret",The Handmaid's Tale,6613,Luke,person,0,2,0,2,0,0,0,0,0,0,0
+4066,"Atwood, Margaret",The Handmaid's Tale,6617,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,1,1
+4084,"Atwood, Margaret",The Handmaid's Tale,6651,Ben,person,0,0,0,0,0,0,0,1,0,0,0
+4093,"Atwood, Margaret",The Handmaid's Tale,6667,Serena,person,0,5,0,0,5,0,5,0,0,0,5
+4101,"Atwood, Margaret",The Handmaid's Tale,6674,Martha,person,0,0,0,0,4,4,4,4,0,4,0
+4105,"Atwood, Margaret",The Handmaid's Tale,6688,Aunt Lydia,person,0,0,0,0,0,0,2,0,0,2,2
+4106,"Atwood, Margaret",The Handmaid's Tale,6688,Don,person,0,0,0,0,0,0,2,0,0,2,2
+4111,"Atwood, Margaret",The Handmaid's Tale,6696,Aunt Lydia,person,0,0,0,0,0,1,1,0,0,1,0
+4130,"Atwood, Margaret",The Handmaid's Tale,6748,Moira,person,0,0,0,0,0,0,2,0,0,0,2
+4137,"Atwood, Margaret",The Handmaid's Tale,6759,Aunt Lydia,person,0,0,0,0,0,0,2,2,0,2,2
+4139,"Atwood, Margaret",The Handmaid's Tale,6762,Ofglen,person,0,1,1,0,1,0,1,0,1,1,1
+4153,"Atwood, Margaret",The Handmaid's Tale,6788,Serena,person,0,5,0,5,10,0,20,5,5,10,20
+4172,"Atwood, Margaret",The Handmaid's Tale,6833,Rita,person,0,3,0,0,0,0,0,0,0,0,0
+4174,"Atwood, Margaret",The Handmaid's Tale,6836,Aunt Lydia,person,0,0,2,0,0,2,2,0,0,2,0
+4181,"Atwood, Margaret",The Handmaid's Tale,6846,Moira,person,0,3,0,3,3,0,3,0,0,3,3
+4191,"Atwood, Margaret",The Handmaid's Tale,6860,Luke,person,0,2,0,0,2,0,4,0,2,2,4
+4194,"Atwood, Margaret",The Handmaid's Tale,6866,Moira,person,0,1,0,0,0,0,1,0,0,0,1
+4212,"Atwood, Margaret",The Handmaid's Tale,6901,Aunt Lydia,person,0,0,0,0,0,0,3,0,0,3,3
+4213,"Atwood, Margaret",The Handmaid's Tale,6901,Janine,person,0,0,0,0,0,0,3,0,0,3,3
+4218,"Atwood, Margaret",The Handmaid's Tale,6917,Serena,person,0,0,0,0,0,1,0,0,0,0,-1
+4226,"Atwood, Margaret",The Handmaid's Tale,6930,Ofglen,person,0,4,0,0,2,0,2,0,2,2,2
+4234,"Atwood, Margaret",The Handmaid's Tale,6942,Elizabeth,person,0,0,3,0,0,3,6,0,0,3,3
+4235,"Atwood, Margaret",The Handmaid's Tale,6942,Janine,person,0,0,3,0,0,3,6,0,0,3,3
+4247,"Atwood, Margaret",The Handmaid's Tale,6971,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,1,1
+4253,"Atwood, Margaret",The Handmaid's Tale,6988,Aunt Lydia,person,0,0,0,0,0,0,3,0,0,3,3
+4254,"Atwood, Margaret",The Handmaid's Tale,6988,Janine,person,0,0,0,0,0,0,3,0,0,3,3
+4264,"Atwood, Margaret",The Handmaid's Tale,7011,Rita,person,0,0,0,0,0,0,3,0,1,0,3
+4270,"Atwood, Margaret",The Handmaid's Tale,7021,Ofglen,person,0,2,0,0,2,0,4,0,2,2,4
+4276,"Atwood, Margaret",The Handmaid's Tale,7032,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,1,1
+4282,"Atwood, Margaret",The Handmaid's Tale,7049,Aunt Lydia,person,0,0,0,0,0,0,3,3,0,3,3
+4285,"Atwood, Margaret",The Handmaid's Tale,7058,Luke,person,0,1,0,0,0,0,0,0,0,0,0
+4295,"Atwood, Margaret",The Handmaid's Tale,7076,Martha,person,0,0,0,0,0,0,1,0,0,0,1
+4299,"Atwood, Margaret",The Handmaid's Tale,7083,Ofglen,person,0,0,0,0,0,2,0,2,2,0,-2
+4302,"Atwood, Margaret",The Handmaid's Tale,7092,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,1,1
+4313,"Atwood, Margaret",The Handmaid's Tale,7106,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,1,1
+4328,"Atwood, Margaret",The Handmaid's Tale,7141,Ofglen,person,0,0,0,0,0,0,1,0,0,0,1
+4330,"Atwood, Margaret",The Handmaid's Tale,7146,Alma,person,0,0,0,0,0,0,0,0,0,4,0
+4332,"Atwood, Margaret",The Handmaid's Tale,7146,Janine,person,0,0,0,0,0,0,0,0,0,4,0
+4337,"Atwood, Margaret",The Handmaid's Tale,7153,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,1,1
+4338,"Atwood, Margaret",The Handmaid's Tale,7158,Don,person,0,0,0,0,0,0,1,0,0,0,1
+4343,"Atwood, Margaret",The Handmaid's Tale,7162,Moira,person,3,0,0,0,0,3,0,0,3,0,-3
+4356,"Atwood, Margaret",The Handmaid's Tale,7190,Moira,person,0,2,0,0,0,0,0,0,0,0,0
+4367,"Atwood, Margaret",The Handmaid's Tale,7202,Martha,person,0,0,0,0,1,0,1,0,0,1,1
+4388,"Atwood, Margaret",The Handmaid's Tale,7237,Aunt Lydia,person,2,0,2,0,0,2,2,2,0,2,0
+4393,"Atwood, Margaret",The Handmaid's Tale,7240,Ofglen,person,0,0,1,0,0,0,0,0,0,0,0
+4394,"Atwood, Margaret",The Handmaid's Tale,7245,Serena,person,0,0,0,0,4,0,4,0,0,0,4
+4399,"Atwood, Margaret",The Handmaid's Tale,7246,Katharine Hepburn,person,0,2,0,0,2,0,2,0,2,0,2
+4410,"Atwood, Margaret",The Handmaid's Tale,7266,Nick,person,0,0,0,0,0,0,6,0,0,0,6
+4414,"Atwood, Margaret",The Handmaid's Tale,7271,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,1,1
+4442,"Atwood, Margaret",The Handmaid's Tale,7315,Steven,person,2,0,0,0,0,2,0,0,0,0,-2
+4443,"Atwood, Margaret",The Handmaid's Tale,7316,Aunt Lydia,person,0,0,0,0,0,0,3,0,0,3,3
+4444,"Atwood, Margaret",The Handmaid's Tale,7316,Janine,person,0,0,0,0,0,0,3,0,0,3,3
+4451,"Atwood, Margaret",The Handmaid's Tale,7324,Moira,person,0,0,3,0,0,3,0,0,0,0,-3
+4455,"Atwood, Margaret",The Handmaid's Tale,7326,Serena,person,0,0,0,0,4,0,4,0,0,0,4
+4465,"Atwood, Margaret",The Handmaid's Tale,7337,Janine,person,3,0,3,0,3,3,6,0,0,9,3
+4497,"Atwood, Margaret",The Handmaid's Tale,7385,Don,person,0,1,0,1,0,1,0,1,0,0,-1
+4498,"Atwood, Margaret",The Handmaid's Tale,7391,Serena,person,0,0,0,0,5,0,10,0,0,5,10
+4515,"Atwood, Margaret",The Handmaid's Tale,7421,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,1,1
+4519,"Atwood, Margaret",The Handmaid's Tale,7435,Moira,person,0,0,0,0,0,2,0,0,0,0,-2
+4538,"Atwood, Margaret",The Handmaid's Tale,7469,Ofglen,person,0,0,0,1,0,1,0,1,0,0,-1
+4555,"Atwood, Margaret",The Handmaid's Tale,7506,Aunt Lydia,person,0,0,0,0,0,4,8,0,0,4,4
+4557,"Atwood, Margaret",The Handmaid's Tale,7506,Janine,person,0,0,0,0,0,4,8,0,0,4,4
+4566,"Atwood, Margaret",The Handmaid's Tale,7524,Serena,person,0,2,0,0,0,0,1,0,0,0,1
+4578,"Atwood, Margaret",The Handmaid's Tale,7553,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,2,1
+4584,"Atwood, Margaret",The Handmaid's Tale,7566,Luke,person,0,2,0,0,0,0,0,0,0,0,0
+4594,"Atwood, Margaret",The Handmaid's Tale,7581,Ofglen,person,0,3,0,0,3,0,3,0,0,3,3
+4600,"Atwood, Margaret",The Handmaid's Tale,7590,Luke,person,3,0,3,3,0,6,0,6,3,3,-6
+4614,"Atwood, Margaret",The Handmaid's Tale,7609,Aunt Lydia,person,0,0,0,0,0,0,3,0,0,3,3
+4615,"Atwood, Margaret",The Handmaid's Tale,7609,Janine,person,0,0,0,0,0,0,3,0,0,3,3
+4642,"Atwood, Margaret",The Handmaid's Tale,7659,Serena,person,0,0,0,0,4,0,4,0,0,0,4
+4646,"Atwood, Margaret",The Handmaid's Tale,7664,Moira,person,0,0,0,0,1,0,1,0,0,1,1
+4647,"Atwood, Margaret",The Handmaid's Tale,7670,Aunt Lydia,person,0,0,0,0,3,0,6,0,0,3,6
+4648,"Atwood, Margaret",The Handmaid's Tale,7670,Janine,person,0,0,0,0,3,0,6,0,0,3,6
+4650,"Atwood, Margaret",The Handmaid's Tale,7673,Aunt Lydia,person,0,0,0,1,0,0,1,0,0,1,1
+4651,"Atwood, Margaret",The Handmaid's Tale,7677,Aunt Lydia,person,0,0,0,0,0,0,2,0,0,1,2
+4659,"Atwood, Margaret",The Handmaid's Tale,7683,Serena,person,0,0,0,0,4,4,4,0,0,0,0
+4673,"Atwood, Margaret",The Handmaid's Tale,7707,Aunt Lydia,person,0,0,1,1,0,1,1,1,0,1,0
+4700,"Atwood, Margaret",The Handmaid's Tale,7768,Aunt Lydia,person,0,0,0,0,0,0,2,0,0,2,2
+4705,"Atwood, Margaret",The Handmaid's Tale,7780,Aunt Lydia,person,1,0,1,1,0,1,2,1,0,1,1
+4706,"Atwood, Margaret",The Handmaid's Tale,7783,Serena,person,12,4,4,4,8,0,8,0,4,4,8
+4741,"Atwood, Margaret",The Handmaid's Tale,7861,Janine,person,0,0,0,0,0,0,0,0,0,2,0
+4743,"Atwood, Margaret",The Handmaid's Tale,7865,Moira,person,0,0,0,0,0,0,1,0,0,0,1
+4748,"Atwood, Margaret",The Handmaid's Tale,7873,Serena,person,0,0,0,0,4,0,8,0,0,0,8
+4778,"Atwood, Margaret",The Handmaid's Tale,7941,Elizabeth,person,0,0,0,0,0,0,1,0,0,1,1
+4799,"Atwood, Margaret",The Handmaid's Tale,7982,Moira,person,0,0,0,0,0,0,0,0,1,0,0
+4809,"Atwood, Margaret",The Handmaid's Tale,8005,Elizabeth,person,0,0,0,0,0,0,4,0,0,4,4
+4810,"Atwood, Margaret",The Handmaid's Tale,8005,Moira,person,0,0,0,0,0,0,4,0,0,4,4
+4830,"Atwood, Margaret",The Handmaid's Tale,8034,Serena,person,0,0,0,0,4,0,4,0,0,0,4
+4838,"Atwood, Margaret",The Handmaid's Tale,8040,Janine,person,0,3,3,0,3,3,6,0,0,6,3
+4842,"Atwood, Margaret",The Handmaid's Tale,8041,Ofglen,person,0,0,3,3,0,0,3,0,0,0,3
+4872,"Atwood, Margaret",The Handmaid's Tale,8094,Don,person,0,0,0,4,0,2,2,0,0,2,0
+4874,"Atwood, Margaret",The Handmaid's Tale,8096,Martha,person,0,0,0,0,0,0,2,0,0,2,2
+4883,"Atwood, Margaret",The Handmaid's Tale,8106,Ofglen,person,2,2,0,2,0,2,2,0,2,0,0
+4892,"Atwood, Margaret",The Handmaid's Tale,8120,Alma,person,0,0,0,0,0,0,2,0,0,2,2
+4894,"Atwood, Margaret",The Handmaid's Tale,8122,Elizabeth,person,0,0,2,0,0,2,4,0,0,4,2
+4895,"Atwood, Margaret",The Handmaid's Tale,8122,Moira,person,0,0,2,0,0,2,4,0,0,4,2
+4902,"Atwood, Margaret",The Handmaid's Tale,8137,Luke,person,0,3,0,0,3,0,3,0,3,3,3
+4923,"Atwood, Margaret",The Handmaid's Tale,8170,Aunt Lydia,person,1,0,1,1,0,1,1,1,0,1,0
+4937,"Atwood, Margaret",The Handmaid's Tale,8200,Elizabeth,person,2,4,0,0,2,2,4,0,4,2,2
+4939,"Atwood, Margaret",The Handmaid's Tale,8201,Aunt Lydia,person,4,0,0,4,0,4,4,0,0,4,0
+4941,"Atwood, Margaret",The Handmaid's Tale,8201,Janine,person,4,0,0,4,0,4,4,0,0,4,0
+4944,"Atwood, Margaret",The Handmaid's Tale,8203,Serena,person,0,0,0,0,4,0,8,0,0,4,8
+4951,"Atwood, Margaret",The Handmaid's Tale,8211,Don,person,0,0,0,0,0,1,0,0,0,1,-1
+4955,"Atwood, Margaret",The Handmaid's Tale,8217,Aunt Lydia,person,0,3,0,0,6,0,9,0,0,9,9
+4956,"Atwood, Margaret",The Handmaid's Tale,8217,Moira,person,0,3,0,0,6,0,9,0,0,9,9
+4961,"Atwood, Margaret",The Handmaid's Tale,8223,Aunt Lydia,person,0,0,0,0,0,0,2,0,0,2,2
+4984,"Atwood, Margaret",The Handmaid's Tale,8266,Serena,person,0,6,0,6,0,3,3,3,0,3,0
+5005,"Atwood, Margaret",The Handmaid's Tale,8314,Ofglen,person,0,2,0,2,0,2,0,0,0,0,-2
+5009,"Atwood, Margaret",The Handmaid's Tale,8321,Luke,person,0,1,0,0,1,0,1,0,1,1,1
+5015,"Atwood, Margaret",The Handmaid's Tale,8333,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,1,1
+5026,"Atwood, Margaret",The Handmaid's Tale,8351,Don,person,1,0,1,1,0,2,0,1,0,0,-2
+5039,"Atwood, Margaret",The Handmaid's Tale,8367,Don,person,1,0,0,0,0,1,0,0,0,0,-1
+5060,"Atwood, Margaret",The Handmaid's Tale,8411,Moira,person,0,0,0,0,0,1,0,0,0,0,-1
+5069,"Atwood, Margaret",The Handmaid's Tale,8422,Luke,person,0,6,0,0,6,0,9,0,0,6,9
+5096,"Atwood, Margaret",The Handmaid's Tale,8468,Ofglen,person,0,0,2,0,0,0,0,0,0,0,0
+5102,"Atwood, Margaret",The Handmaid's Tale,8477,Moira,person,0,0,0,0,0,1,1,0,0,0,0
+5106,"Atwood, Margaret",The Handmaid's Tale,8490,Serena,person,0,0,0,0,0,1,0,0,0,0,-1
+5107,"Atwood, Margaret",The Handmaid's Tale,8496,Luke,person,0,1,0,0,2,0,2,0,0,1,2
+5115,"Atwood, Margaret",The Handmaid's Tale,8516,Aunt Lydia,person,0,0,0,0,0,0,3,0,0,3,3
+5120,"Atwood, Margaret",The Handmaid's Tale,8527,Luke,person,1,0,0,1,0,1,1,1,0,2,0
+5126,"Atwood, Margaret",The Handmaid's Tale,8541,Moira,person,0,6,0,3,3,0,3,0,3,3,3
+5134,"Atwood, Margaret",The Handmaid's Tale,8554,Aunt Lydia,person,0,0,0,0,0,0,2,0,0,1,2
+5137,"Atwood, Margaret",The Handmaid's Tale,8562,Elizabeth,person,0,0,0,4,2,4,4,4,0,2,0
+5143,"Atwood, Margaret",The Handmaid's Tale,8571,Rita,person,0,0,0,0,0,0,2,0,0,2,2
+5145,"Atwood, Margaret",The Handmaid's Tale,8575,Moira,person,0,0,0,0,0,0,1,0,0,1,1
+5179,"Atwood, Margaret",The Handmaid's Tale,8632,Luke,person,0,6,0,0,0,0,0,0,0,0,0
+5182,"Atwood, Margaret",The Handmaid's Tale,8633,Aunt Lydia,person,0,3,0,3,0,0,3,0,0,3,3
+5189,"Atwood, Margaret",The Handmaid's Tale,8644,Aunt Lydia,person,2,0,0,2,0,4,6,0,0,4,2
+5190,"Atwood, Margaret",The Handmaid's Tale,8644,Elizabeth,person,2,0,0,2,0,4,6,0,0,4,2
+5200,"Atwood, Margaret",The Handmaid's Tale,8668,Don,person,0,1,0,1,0,1,1,1,0,1,0
+5213,"Atwood, Margaret",The Handmaid's Tale,8697,Aunt Lydia,person,0,2,0,0,2,0,4,0,2,4,4
+5214,"Atwood, Margaret",The Handmaid's Tale,8697,Saint Paul,person,0,2,0,0,2,0,4,0,2,4,4
+5215,"Atwood, Margaret",The Handmaid's Tale,8699,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,1,1
+5229,"Atwood, Margaret",The Handmaid's Tale,8727,Janine,person,2,6,0,2,2,2,2,2,0,4,0
+5251,"Atwood, Margaret",The Handmaid's Tale,8766,Ofglen,person,3,0,0,3,0,3,0,3,3,3,-3
+5273,"Atwood, Margaret",The Handmaid's Tale,8810,Elizabeth,person,0,0,0,0,0,0,3,0,0,3,3
+5278,"Atwood, Margaret",The Handmaid's Tale,8814,Nick,person,0,2,0,2,0,0,0,0,0,0,0
+5286,"Atwood, Margaret",The Handmaid's Tale,8821,Moira,person,4,0,4,4,0,4,0,4,0,0,-4
+5302,"Atwood, Margaret",The Handmaid's Tale,8830,Aunt Lydia,person,0,3,3,3,0,3,3,3,0,3,0
+5304,"Atwood, Margaret",The Handmaid's Tale,8833,Serena,person,0,8,0,0,4,0,4,0,0,0,4
+5320,"Atwood, Margaret",The Handmaid's Tale,8856,Don,person,0,0,0,0,0,1,0,0,0,0,-1
+5339,"Atwood, Margaret",The Handmaid's Tale,8882,Moira,person,0,0,0,3,0,3,0,3,0,0,-3
+5343,"Atwood, Margaret",The Handmaid's Tale,8891,Serena,person,0,4,4,4,8,4,8,4,4,4,4
+5356,"Atwood, Margaret",The Handmaid's Tale,8914,Elizabeth,person,0,0,0,0,0,0,1,0,0,1,1
+5363,"Atwood, Margaret",The Handmaid's Tale,8933,Rita,person,2,0,2,2,0,2,0,2,0,0,-2
+5365,"Atwood, Margaret",The Handmaid's Tale,8935,Janine,person,0,4,0,0,0,4,4,0,0,4,0
+5370,"Atwood, Margaret",The Handmaid's Tale,8942,Aunt Lydia,person,1,3,1,1,2,1,3,1,2,3,2
+5372,"Atwood, Margaret",The Handmaid's Tale,8944,Serena,person,0,6,0,0,6,0,6,0,0,6,6
+5399,"Atwood, Margaret",The Handmaid's Tale,8989,Janine,person,4,0,6,4,0,6,0,2,4,0,-6
+5429,"Atwood, Margaret",The Handmaid's Tale,9041,Aunt Lydia,person,0,0,0,0,0,0,2,0,0,1,2
+5453,"Atwood, Margaret",The Handmaid's Tale,9096,Elizabeth,person,0,0,0,0,0,0,1,0,0,1,1
+5455,"Atwood, Margaret",The Handmaid's Tale,9097,Luke,person,0,0,0,0,0,2,0,0,0,0,-2
+5464,"Atwood, Margaret",The Handmaid's Tale,9110,Luke,person,0,0,0,0,0,0,1,0,0,0,1
+5472,"Atwood, Margaret",The Handmaid's Tale,9121,Elizabeth,person,0,0,0,1,0,1,1,0,0,1,0
+5478,"Atwood, Margaret",The Handmaid's Tale,9132,Rita,person,0,2,0,0,1,0,3,0,0,2,3
+5483,"Atwood, Margaret",The Handmaid's Tale,9149,Aunt Lydia,person,0,0,0,2,0,0,4,0,0,4,4
+5492,"Atwood, Margaret",The Handmaid's Tale,9158,Aunt Lydia,person,0,0,0,0,4,0,6,0,0,6,6
+5496,"Atwood, Margaret",The Handmaid's Tale,9164,Moira,person,0,2,0,2,2,6,2,2,0,0,-4
+5498,"Atwood, Margaret",The Handmaid's Tale,9165,Don,person,0,1,0,0,1,1,1,1,0,1,0
+5502,"Atwood, Margaret",The Handmaid's Tale,9170,Serena,person,0,0,0,0,4,0,4,0,0,0,4
+5508,"Atwood, Margaret",The Handmaid's Tale,9174,Luke,person,2,0,2,0,0,2,0,0,0,0,-2
+5517,"Atwood, Margaret",The Handmaid's Tale,9184,Moira,person,0,0,1,1,0,1,0,1,0,0,-1
+5527,"Atwood, Margaret",The Handmaid's Tale,9207,Aunt Lydia,person,0,0,0,0,0,1,1,0,0,1,0
+5536,"Atwood, Margaret",The Handmaid's Tale,9221,Aunt Lydia,person,0,4,0,0,4,0,8,0,4,8,8
+5538,"Atwood, Margaret",The Handmaid's Tale,9221,Janine,person,0,4,0,0,4,0,8,0,4,8,8
+5543,"Atwood, Margaret",The Handmaid's Tale,9225,Serena,person,5,0,5,10,10,10,10,10,0,0,0
+5548,"Atwood, Margaret",The Handmaid's Tale,9228,Luke,person,1,0,0,0,0,1,0,1,0,0,-1
+5568,"Atwood, Margaret",The Handmaid's Tale,9261,Martha,person,0,1,0,0,1,1,2,1,0,2,1
+5569,"Atwood, Margaret",The Handmaid's Tale,9262,Aunt Lydia,person,0,0,1,1,0,1,1,1,0,1,0
+5573,"Atwood, Margaret",The Handmaid's Tale,9274,Janine,person,0,0,0,0,0,4,2,4,2,0,-2
+5575,"Atwood, Margaret",The Handmaid's Tale,9279,Luke,person,0,0,0,0,0,0,0,0,0,1,0
+5593,"Atwood, Margaret",The Handmaid's Tale,9318,Rita,person,1,1,1,0,1,1,2,0,1,2,1
+5601,"Atwood, Margaret",The Handmaid's Tale,9336,Moira,person,4,0,0,4,0,4,0,4,4,0,-4
+5622,"Atwood, Margaret",The Handmaid's Tale,9376,Luke,person,3,0,0,6,0,9,6,9,3,3,-3
+5624,"Atwood, Margaret",The Handmaid's Tale,9380,Aunt Lydia,person,3,0,3,3,0,3,3,3,0,3,0
+5625,"Atwood, Margaret",The Handmaid's Tale,9380,Janine,person,3,0,3,3,0,3,3,3,0,3,0
+5630,"Atwood, Margaret",The Handmaid's Tale,9386,Don,person,0,0,0,0,0,0,0,0,1,0,0
+5640,"Atwood, Margaret",The Handmaid's Tale,9409,Serena,person,0,0,0,0,4,0,4,0,0,0,4
+5647,"Atwood, Margaret",The Handmaid's Tale,9417,Rita,person,1,0,1,1,0,1,0,1,0,0,-1
+5653,"Atwood, Margaret",The Handmaid's Tale,9421,Luke,person,0,0,2,0,0,2,0,0,0,0,-2
+5655,"Atwood, Margaret",The Handmaid's Tale,9423,Moira,person,1,0,2,0,0,2,0,0,0,0,-2
+5659,"Atwood, Margaret",The Handmaid's Tale,9432,Don,person,2,0,2,2,0,2,0,0,2,0,-2
+5664,"Atwood, Margaret",The Handmaid's Tale,9446,Aunt Lydia,person,0,1,0,0,0,0,1,0,0,1,1
+5674,"Atwood, Margaret",The Handmaid's Tale,9465,Aunt Lydia,person,0,0,0,0,2,0,4,0,2,4,4
+5687,"Atwood, Margaret",The Handmaid's Tale,9492,Rita,person,1,1,0,3,0,4,0,3,1,0,-4
+5693,"Atwood, Margaret",The Handmaid's Tale,9508,Janine,person,2,0,2,2,0,2,0,2,0,0,-2
+5703,"Atwood, Margaret",The Handmaid's Tale,9527,Aunt Lydia,person,0,2,1,0,3,1,5,0,2,3,4
+5716,"Atwood, Margaret",The Handmaid's Tale,9546,Rita,person,1,0,2,1,0,4,2,0,0,1,-2
+5717,"Atwood, Margaret",The Handmaid's Tale,9547,Moira,person,0,0,0,0,0,0,0,0,1,0,0
+5728,"Atwood, Margaret",The Handmaid's Tale,9558,Luke,person,0,2,0,2,0,0,0,0,0,0,0
+5729,"Atwood, Margaret",The Handmaid's Tale,9560,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,1,1
+5736,"Atwood, Margaret",The Handmaid's Tale,9569,Elizabeth,person,0,3,0,0,3,0,6,0,3,6,6
+5742,"Atwood, Margaret",The Handmaid's Tale,9576,Rita,person,2,0,1,2,0,4,1,2,0,1,-3
+5756,"Atwood, Margaret",The Handmaid's Tale,9610,Nick,person,0,2,0,2,0,2,2,0,2,2,0
+5767,"Atwood, Margaret",The Handmaid's Tale,9646,Elizabeth,person,0,2,2,0,0,4,2,0,0,2,-2
+5768,"Atwood, Margaret",The Handmaid's Tale,9646,Moira,person,0,2,2,0,0,4,2,0,0,2,-2
+5792,"Atwood, Margaret",The Handmaid's Tale,9691,Luke,person,1,0,1,1,0,1,0,1,0,0,-1
+5795,"Atwood, Margaret",The Handmaid's Tale,9700,Moira,person,0,0,0,0,0,0,2,0,0,0,2
+5802,"Atwood, Margaret",The Handmaid's Tale,9713,Aunt Lydia,person,0,0,0,0,0,0,2,2,0,2,2
+5804,"Atwood, Margaret",The Handmaid's Tale,9716,Ofglen,person,0,1,1,0,1,0,1,0,1,1,1
+5805,"Atwood, Margaret",The Handmaid's Tale,9717,Serena,person,5,5,0,5,5,0,5,0,0,5,5
+5820,"Atwood, Margaret",The Handmaid's Tale,9734,Luke,person,0,0,0,0,3,3,6,3,0,0,3
+5823,"Atwood, Margaret",The Handmaid's Tale,9741,Serena,person,0,5,0,5,10,0,20,5,5,10,20
+5830,"Atwood, Margaret",The Handmaid's Tale,9746,Luke,person,2,0,2,0,0,2,0,0,0,0,-2
+5839,"Atwood, Margaret",The Handmaid's Tale,9769,Serena,person,0,0,0,0,0,1,0,0,1,0,-1
+5840,"Atwood, Margaret",The Handmaid's Tale,9770,Don,person,1,0,1,1,0,1,1,1,1,0,0
+5862,"Atwood, Margaret",The Handmaid's Tale,9805,Luke,person,0,2,0,0,2,0,4,0,2,2,4
+5868,"Atwood, Margaret",The Handmaid's Tale,9812,Luke,person,1,0,0,1,0,1,0,1,0,0,-1
+5872,"Atwood, Margaret",The Handmaid's Tale,9825,Adam,person,0,4,0,4,4,0,4,0,0,4,4
+5886,"Atwood, Margaret",The Handmaid's Tale,9844,Aunt Lydia,person,0,0,0,0,0,0,3,0,0,3,3
+5887,"Atwood, Margaret",The Handmaid's Tale,9844,Janine,person,0,0,0,0,0,0,3,0,0,3,3
+5895,"Atwood, Margaret",The Handmaid's Tale,9879,Elizabeth,person,0,0,3,0,0,3,6,0,0,3,3
+5896,"Atwood, Margaret",The Handmaid's Tale,9879,Janine,person,0,0,3,0,0,3,6,0,0,3,3
+5904,"Atwood, Margaret",The Handmaid's Tale,9897,Aunt Lydia,person,3,0,3,3,0,6,3,3,0,3,-3
+5909,"Atwood, Margaret",The Handmaid's Tale,9903,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,1,1
+5915,"Atwood, Margaret",The Handmaid's Tale,9916,Luke,person,1,0,1,0,0,1,0,0,0,0,-1
+5920,"Atwood, Margaret",The Handmaid's Tale,9927,Aunt Lydia,person,0,0,0,0,0,0,3,0,0,3,3
+5921,"Atwood, Margaret",The Handmaid's Tale,9927,Janine,person,0,0,0,0,0,0,3,0,0,3,3
+5926,"Atwood, Margaret",The Handmaid's Tale,9938,Rachel,person,0,0,0,0,0,0,2,0,0,2,2
+5930,"Atwood, Margaret",The Handmaid's Tale,9941,Rita,person,0,0,0,0,0,0,3,0,1,0,3
+5941,"Atwood, Margaret",The Handmaid's Tale,9968,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,1,1
+5948,"Atwood, Margaret",The Handmaid's Tale,9973,Luke,person,0,3,0,0,0,0,0,0,0,3,0
+5955,"Atwood, Margaret",The Handmaid's Tale,9992,Luke,person,0,1,0,0,0,0,0,0,0,0,0
+5961,"Atwood, Margaret",The Handmaid's Tale,10006,Martha,person,0,0,0,0,0,0,1,0,0,0,1
+5966,"Atwood, Margaret",The Handmaid's Tale,10012,Ofglen,person,0,0,0,0,0,2,0,2,2,0,-2
+5969,"Atwood, Margaret",The Handmaid's Tale,10015,Nick,person,6,0,2,2,0,6,2,2,0,0,-4
+5983,"Atwood, Margaret",The Handmaid's Tale,10035,Ofglen,person,0,0,0,0,0,0,3,0,0,0,3
+6000,"Atwood, Margaret",The Handmaid's Tale,10083,Don,person,0,0,0,0,0,0,1,0,0,0,1
+6021,"Atwood, Margaret",The Handmaid's Tale,10139,Serena,person,0,5,0,0,5,0,5,0,5,0,5
+6028,"Atwood, Margaret",The Handmaid's Tale,10142,Luke,person,0,0,0,0,1,0,1,0,0,1,1
+6034,"Atwood, Margaret",The Handmaid's Tale,10152,Mildred Montag,person,2,2,0,2,0,2,0,2,0,0,-2
+6048,"Atwood, Margaret",The Handmaid's Tale,10173,Aunt Lydia,person,2,0,2,0,0,2,2,2,0,2,0
+6050,"Atwood, Margaret",The Handmaid's Tale,10175,Ofglen,person,0,0,1,0,0,0,0,0,0,0,0
+6051,"Atwood, Margaret",The Handmaid's Tale,10179,Serena,person,0,0,0,0,4,0,4,0,0,0,4
+6056,"Atwood, Margaret",The Handmaid's Tale,10181,Katharine Hepburn,person,0,2,0,0,2,0,2,0,2,0,2
+6063,"Atwood, Margaret",The Handmaid's Tale,10191,Moira,person,6,0,6,6,0,6,0,6,0,0,-6
+6065,"Atwood, Margaret",The Handmaid's Tale,10191,Don,person,6,0,6,6,0,6,0,6,0,0,-6
+6067,"Atwood, Margaret",The Handmaid's Tale,10198,Nick,person,0,0,0,0,0,0,6,0,0,0,6
+6085,"Atwood, Margaret",The Handmaid's Tale,10255,Steven,person,2,0,0,0,0,2,0,0,0,0,-2
+6088,"Atwood, Margaret",The Handmaid's Tale,10261,Aunt Lydia,person,0,0,0,0,0,0,3,0,0,3,3
+6095,"Atwood, Margaret",The Handmaid's Tale,10268,Serena,person,0,0,0,0,4,0,4,0,0,0,4
+6109,"Atwood, Margaret",The Handmaid's Tale,10283,Janine,person,3,0,3,0,3,3,6,0,0,9,3
+6117,"Atwood, Margaret",The Handmaid's Tale,10293,Serena,person,0,0,0,0,1,0,1,0,0,1,1
+6121,"Atwood, Margaret",The Handmaid's Tale,10301,Moira,person,0,0,0,0,0,1,0,0,0,0,-1
+6141,"Atwood, Margaret",The Handmaid's Tale,10324,Don,person,0,1,0,1,0,1,0,1,0,0,-1
+6159,"Atwood, Margaret",The Handmaid's Tale,10369,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,1,1
+6160,"Atwood, Margaret",The Handmaid's Tale,10376,Luke,person,1,1,0,1,1,0,1,0,1,1,1
+6161,"Atwood, Margaret",The Handmaid's Tale,10382,Serena,person,0,0,0,0,4,0,4,0,0,0,4
+6167,"Atwood, Margaret",The Handmaid's Tale,10389,Moira,person,0,0,0,0,0,0,1,0,0,0,1
+6173,"Atwood, Margaret",The Handmaid's Tale,10406,Luke,person,2,2,0,0,0,2,0,0,0,2,-2
+6196,"Atwood, Margaret",The Handmaid's Tale,10461,Aunt Lydia,person,0,0,0,0,0,4,8,0,0,4,4
+6198,"Atwood, Margaret",The Handmaid's Tale,10461,Janine,person,0,0,0,0,0,4,8,0,0,4,4
+6207,"Atwood, Margaret",The Handmaid's Tale,10481,Serena,person,0,2,0,0,0,0,1,0,0,0,1
+6209,"Atwood, Margaret",The Handmaid's Tale,10489,Martha,person,0,0,0,0,2,0,4,0,0,2,4
+6232,"Atwood, Margaret",The Handmaid's Tale,10538,Ofglen,person,0,3,0,0,3,0,3,0,0,3,3
+6263,"Atwood, Margaret",The Handmaid's Tale,10598,Aunt Lydia,person,0,0,0,0,0,0,1,0,0,1,1
+6270,"Atwood, Margaret",The Handmaid's Tale,10612,Serena,person,0,0,0,0,4,0,4,0,0,0,4
+6276,"Atwood, Margaret",The Handmaid's Tale,10617,Moira,person,0,0,0,0,1,0,1,0,0,1,1
+6279,"Atwood, Margaret",The Handmaid's Tale,10627,Aunt Lydia,person,0,0,0,1,0,0,1,0,0,1,1
+6292,"Atwood, Margaret",The Handmaid's Tale,10640,Moira,person,0,0,0,0,0,0,3,0,0,0,3
+6304,"Atwood, Margaret",The Handmaid's Tale,10661,Aunt Lydia,person,0,0,1,1,0,1,1,1,0,1,0
+6324,"Atwood, Margaret",The Handmaid's Tale,10700,Moira,person,0,1,0,0,1,1,1,1,0,1,0
+6336,"Atwood, Margaret",The Handmaid's Tale,10718,Aunt Lydia,person,0,0,1,0,1,1,2,0,0,1,1
+6337,"Atwood, Margaret",The Handmaid's Tale,10720,Aunt Lydia,person,0,0,0,0,0,0,2,0,0,2,2
+6339,"Atwood, Margaret",The Handmaid's Tale,10721,Serena,person,0,4,0,0,0,4,0,0,0,0,-4
+6343,"Atwood, Margaret",The Handmaid's Tale,10732,Aunt Lydia,person,1,0,1,1,0,1,2,1,0,1,1
+6344,"Atwood, Margaret",The Handmaid's Tale,10735,Serena,person,12,4,4,4,8,0,8,0,4,4,8
+6366,"Atwood, Margaret",The Handmaid's Tale,10777,Don,person,0,0,0,0,0,0,0,0,1,0,0
+6373,"Atwood, Margaret",The Handmaid's Tale,10790,Ofglen,person,2,0,0,0,0,0,2,0,2,0,2
+6382,"Atwood, Margaret",The Handmaid's Tale,10812,Janine,person,0,0,0,0,0,0,0,0,0,2,0
+6395,"Atwood, Margaret",The Handmaid's Tale,10838,Serena,person,0,8,0,4,12,0,16,0,4,4,16
+6416,"Atwood, Margaret",The Handmaid's Tale,10870,Martha,person,0,2,0,0,0,2,0,0,0,0,-2
+6429,"Atwood, Margaret",The Handmaid's Tale,10895,Elizabeth,person,0,0,0,0,0,0,1,0,0,1,1
+6462,"Atwood, Margaret",The Handmaid's Tale,10956,Elizabeth,person,0,0,0,0,0,0,4,0,0,4,4
+6463,"Atwood, Margaret",The Handmaid's Tale,10956,Moira,person,0,0,0,0,0,0,4,0,0,4,4
+6469,"Atwood, Margaret",The Handmaid's Tale,10967,Janine,person,0,2,0,0,2,0,4,0,0,2,4
+6479,"Atwood, Margaret",The Handmaid's Tale,10986,Serena,person,0,0,0,0,4,0,4,0,0,0,4
+6485,"Atwood, Margaret",The Handmaid's Tale,10992,Aunt Lydia,person,0,0,0,0,4,0,12,0,0,8,12
+6486,"Atwood, Margaret",The Handmaid's Tale,10992,Aunt Helena,person,0,0,0,0,4,0,12,0,0,8,12
+6487,"Atwood, Margaret",The Handmaid's Tale,10992,Helen,person,0,0,0,0,4,0,12,0,0,8,12
+6495,"Atwood, Margaret",The Handmaid's Tale,11012,Aunt Lydia,person,0,0,0,0,0,3,3,0,0,3,0
+6522,"Atwood, Margaret",The Handmaid's Tale,11049,Martha,person,0,0,0,0,0,0,2,0,0,2,2
+6530,"Atwood, Margaret",The Handmaid's Tale,11060,Ofglen,person,2,2,0,2,0,2,2,0,2,0,0
+6535,"Atwood, Margaret",The Handmaid's Tale,11070,Elizabeth,person,0,0,2,0,0,2,4,0,0,4,2
+6536,"Atwood, Margaret",The Handmaid's Tale,11070,Moira,person,0,0,2,0,0,2,4,0,0,4,2
+6539,"Atwood, Margaret",The Handmaid's Tale,11077,Aunt Lydia,person,0,0,0,0,0,0,4,0,0,4,4
+6540,"Atwood, Margaret",The Handmaid's Tale,11077,Elizabeth,person,0,0,0,0,0,0,4,0,0,4,4
+6548,"Atwood, Margaret",The Handmaid's Tale,11090,Luke,person,0,3,0,0,3,0,3,0,3,3,3
+6563,"Atwood, Margaret",The Handmaid's Tale,11112,Aunt Helena,person,0,8,8,8,8,8,12,8,8,16,4
+6564,"Atwood, Margaret",The Handmaid's Tale,11112,Helen,person,0,8,8,8,8,8,12,8,8,16,4
+6570,"Atwood, Margaret",The Handmaid's Tale,11116,Martha,person,0,0,0,0,0,2,0,0,0,0,-2
+6574,"Atwood, Margaret",The Handmaid's Tale,11129,Aunt Lydia,person,1,0,1,1,0,1,1,1,0,1,0
+6586,"Atwood, Margaret",The Handmaid's Tale,11155,Aunt Lydia,person,0,0,0,0,0,0,3,0,0,3,3
+6599,"Atwood, Margaret",The Handmaid's Tale,11178,Don,person,0,0,0,0,0,1,0,0,0,1,-1
+6601,"Atwood, Margaret",The Handmaid's Tale,11183,Aunt Lydia,person,0,0,0,0,1,0,2,0,0,2,2
+6630,"Atwood, Margaret",The Handmaid's Tale,11286,Nick,person,0,2,0,2,0,2,2,0,2,2,0
+6642,"Atwood, Margaret",The Handmaid's Tale,11316,Serena,person,4,0,4,0,4,4,4,0,0,0,0
+6648,"Atwood, Margaret",The Handmaid's Tale,11323,Moira,person,0,0,2,2,0,2,0,0,0,0,-2
+6650,"Atwood, Margaret",The Handmaid's Tale,11324,Serena,person,0,0,0,0,4,0,4,0,0,0,4
+6659,"Atwood, Margaret",The Handmaid's Tale,11342,Serena,person,0,3,0,0,6,0,6,0,0,3,6
+6668,"Le Guin, Ursula K.",The Word for World is Forest,11355,Don,person,0,0,1,0,0,1,2,1,0,1,1
+6671,"Le Guin, Ursula K.",The Word for World is Forest,11360,Don,person,0,0,2,0,0,2,2,2,0,2,0
+6673,"Le Guin, Ursula K.",The Word for World is Forest,11363,Don,person,0,0,0,0,0,0,2,1,0,1,2
+6682,"Le Guin, Ursula K.",The Word for World is Forest,11377,Lyubov,person,0,1,0,0,1,0,1,0,0,0,1
+6690,"Le Guin, Ursula K.",The Word for World is Forest,11386,Lyubov,person,0,5,0,0,5,5,10,0,5,0,5
+6691,"Le Guin, Ursula K.",The Word for World is Forest,11386,Selver,person,0,5,0,0,5,5,10,0,5,0,5
+6692,"Le Guin, Ursula K.",The Word for World is Forest,11386,Tubab,person,0,5,0,0,5,5,10,0,5,0,5
+6693,"Le Guin, Ursula K.",The Word for World is Forest,11389,Don,person,0,0,0,0,4,0,8,0,0,8,8
+6694,"Le Guin, Ursula K.",The Word for World is Forest,11389,Lyubov,person,0,0,0,0,4,0,8,0,0,8,8
+6700,"Le Guin, Ursula K.",The Word for World is Forest,11398,Selver,person,0,1,0,0,1,0,1,0,1,0,1
+6701,"Le Guin, Ursula K.",The Word for World is Forest,11399,Don,person,0,0,0,0,0,0,2,0,0,2,2
+6703,"Le Guin, Ursula K.",The Word for World is Forest,11400,Lyubov,person,1,0,0,1,0,1,0,1,0,0,-1
+6704,"Le Guin, Ursula K.",The Word for World is Forest,11401,Don,person,0,2,0,1,0,0,1,0,0,1,1
+6706,"Le Guin, Ursula K.",The Word for World is Forest,11410,Lyubov,person,0,1,0,0,0,0,0,0,0,0,0
+6707,"Le Guin, Ursula K.",The Word for World is Forest,11417,Don,person,0,0,0,0,0,0,4,0,0,4,4
+6708,"Le Guin, Ursula K.",The Word for World is Forest,11417,Aabi,person,0,0,0,0,0,0,4,0,0,4,4
+6711,"Le Guin, Ursula K.",The Word for World is Forest,11420,Lyubov,person,0,0,0,0,0,0,2,0,0,0,2
+6714,"Le Guin, Ursula K.",The Word for World is Forest,11434,Aabi,person,4,2,0,2,2,2,2,0,4,2,0
+6716,"Le Guin, Ursula K.",The Word for World is Forest,11435,Don,person,6,3,3,6,0,6,6,3,3,6,0
+6717,"Le Guin, Ursula K.",The Word for World is Forest,11435,Lyubov,person,6,3,3,6,0,6,6,3,3,6,0
+6722,"Le Guin, Ursula K.",The Word for World is Forest,11437,Don,person,0,0,0,0,0,0,3,0,0,0,3
+6727,"Le Guin, Ursula K.",The Word for World is Forest,11453,Lyubov,person,0,3,0,3,6,9,6,3,6,6,-3
+6732,"Le Guin, Ursula K.",The Word for World is Forest,11455,Selver,person,0,0,0,0,0,2,0,2,0,0,-2
+6737,"Le Guin, Ursula K.",The Word for World is Forest,11457,Selver,person,0,0,0,1,0,1,0,0,1,0,-1
+6738,"Le Guin, Ursula K.",The Word for World is Forest,11458,Don,person,0,0,0,0,0,1,1,0,1,1,0
+6741,"Le Guin, Ursula K.",The Word for World is Forest,11461,Don,person,3,0,0,3,3,3,15,0,0,9,12
+6742,"Le Guin, Ursula K.",The Word for World is Forest,11461,Smith Land,person,3,0,0,3,3,3,15,0,0,9,12
+6743,"Le Guin, Ursula K.",The Word for World is Forest,11462,Don,person,0,0,0,0,0,0,1,0,0,1,1
+6746,"Le Guin, Ursula K.",The Word for World is Forest,11464,Lyubov,person,2,4,2,0,4,2,6,0,2,4,4
+6749,"Le Guin, Ursula K.",The Word for World is Forest,11471,Gosse,person,0,3,0,0,0,0,0,0,0,3,0
+6755,"Le Guin, Ursula K.",The Word for World is Forest,11473,Selver,person,0,0,0,0,0,0,2,0,0,2,2
+6756,"Le Guin, Ursula K.",The Word for World is Forest,11476,Don,person,1,1,1,1,1,1,2,1,1,2,1
+6761,"Le Guin, Ursula K.",The Word for World is Forest,11479,Smith Camp,person,8,0,4,8,0,12,0,4,0,4,-12
+6769,"Le Guin, Ursula K.",The Word for World is Forest,11490,Tubab,person,3,0,0,6,0,6,0,0,0,0,-6
+6770,"Le Guin, Ursula K.",The Word for World is Forest,11498,Selver,person,0,0,0,0,0,0,0,0,0,1,0
+6772,"Le Guin, Ursula K.",The Word for World is Forest,11499,Don,person,12,0,3,6,0,12,3,6,0,6,-9
+6773,"Le Guin, Ursula K.",The Word for World is Forest,11499,Smith Camp,person,12,0,3,6,0,12,3,6,0,6,-9
+6774,"Le Guin, Ursula K.",The Word for World is Forest,11501,Selver,person,0,1,0,0,0,0,0,0,0,0,0
+6786,"Le Guin, Ursula K.",The Word for World is Forest,11516,Selver,person,2,0,2,0,0,2,0,2,0,0,-2
+6791,"Le Guin, Ursula K.",The Word for World is Forest,11525,Lyubov,person,0,0,0,0,0,2,0,0,0,0,-2
+6792,"Le Guin, Ursula K.",The Word for World is Forest,11525,Selver,person,0,0,0,0,0,2,0,0,0,0,-2
+6798,"Le Guin, Ursula K.",The Word for World is Forest,11531,Lyubov,person,0,0,0,0,0,0,3,0,0,0,3
+6799,"Le Guin, Ursula K.",The Word for World is Forest,11531,Selver,person,0,0,0,0,0,0,3,0,0,0,3
+6804,"Le Guin, Ursula K.",The Word for World is Forest,11545,Lyubov,person,0,0,0,0,2,0,2,0,0,2,2
+6807,"Le Guin, Ursula K.",The Word for World is Forest,11546,Howe,person,0,0,0,0,0,0,0,0,0,3,0
+6809,"Le Guin, Ursula K.",The Word for World is Forest,11549,Lyubov,person,2,2,0,0,0,0,2,0,2,0,2
+6818,"Le Guin, Ursula K.",The Word for World is Forest,11569,Lyubov,person,0,0,0,0,0,3,0,0,0,0,-3
+6819,"Le Guin, Ursula K.",The Word for World is Forest,11573,Selver,person,0,0,0,0,0,0,1,0,0,1,1
+6821,"Le Guin, Ursula K.",The Word for World is Forest,11574,Lyubov,person,0,0,0,0,2,0,2,0,0,2,2
+6824,"Le Guin, Ursula K.",The Word for World is Forest,11582,Don,person,0,0,0,0,0,0,1,0,0,1,1
+6830,"Le Guin, Ursula K.",The Word for World is Forest,11588,Lyubov,person,0,0,0,0,0,5,5,5,5,5,0
+6831,"Le Guin, Ursula K.",The Word for World is Forest,11588,Selver,person,0,0,0,0,0,5,5,5,5,5,0
+6833,"Le Guin, Ursula K.",The Word for World is Forest,11593,Aabi,person,0,0,0,0,1,0,1,0,0,0,1
+6836,"Le Guin, Ursula K.",The Word for World is Forest,11599,Smith Camp,person,0,0,0,0,2,0,2,0,0,4,2
+6846,"Le Guin, Ursula K.",The Word for World is Forest,11610,Lyubov,person,0,0,0,0,1,0,1,0,0,1,1
+6851,"Le Guin, Ursula K.",The Word for World is Forest,11625,Don,person,0,0,0,0,0,0,2,0,0,2,2
+6867,"Le Guin, Ursula K.",The Word for World is Forest,11645,Don,person,0,0,0,2,0,2,10,0,2,8,8
+6874,"Le Guin, Ursula K.",The Word for World is Forest,11658,Gosse,person,3,0,3,3,0,3,0,0,0,3,-3
+6876,"Le Guin, Ursula K.",The Word for World is Forest,11659,Lyubov,person,0,0,0,0,0,2,0,2,2,0,-2
+6879,"Le Guin, Ursula K.",The Word for World is Forest,11665,Selver,person,2,2,2,2,0,2,2,4,2,0,0
+6885,"Le Guin, Ursula K.",The Word for World is Forest,11677,Gosse,person,9,3,6,6,3,9,9,9,3,3,0
+6887,"Le Guin, Ursula K.",The Word for World is Forest,11678,Lyubov,person,0,2,2,2,2,2,2,2,2,2,0
+6888,"Le Guin, Ursula K.",The Word for World is Forest,11678,Selver,person,0,2,2,2,2,2,2,2,2,2,0
+6889,"Le Guin, Ursula K.",The Word for World is Forest,11679,Aabi,person,0,1,0,0,2,0,2,0,1,2,2
+6895,"Le Guin, Ursula K.",The Word for World is Forest,11693,Lyubov,person,0,0,0,0,0,0,1,0,0,0,1
+6899,"Le Guin, Ursula K.",The Word for World is Forest,11695,Don,person,0,2,0,0,2,0,4,0,2,4,4
+6903,"Le Guin, Ursula K.",The Word for World is Forest,11702,Don,person,0,0,0,0,0,3,6,0,0,6,3
+6907,"Le Guin, Ursula K.",The Word for World is Forest,11704,Tuntar,person,1,0,0,1,0,3,1,2,0,0,-2
+6910,"Le Guin, Ursula K.",The Word for World is Forest,11710,Tuntar,person,0,0,0,0,0,0,2,4,0,0,2
+6911,"Le Guin, Ursula K.",The Word for World is Forest,11710,Selver,person,0,0,0,0,0,0,2,4,0,0,2
+6914,"Le Guin, Ursula K.",The Word for World is Forest,11716,Selver,person,1,0,1,1,0,1,0,1,0,0,-1
+6915,"Le Guin, Ursula K.",The Word for World is Forest,11717,Selver,person,0,2,0,0,1,0,1,0,0,0,1
+6916,"Le Guin, Ursula K.",The Word for World is Forest,11720,Sam,person,1,1,0,1,0,2,2,0,0,3,0
+6919,"Le Guin, Ursula K.",The Word for World is Forest,11723,Lyubov,person,0,4,0,0,0,4,0,8,0,4,-4
+6920,"Le Guin, Ursula K.",The Word for World is Forest,11723,Gosse,person,0,4,0,0,0,4,0,8,0,4,-4
+6924,"Le Guin, Ursula K.",The Word for World is Forest,11734,Selver,person,1,0,0,1,0,1,0,1,0,0,-1
+6925,"Le Guin, Ursula K.",The Word for World is Forest,11737,Lyubov,person,0,0,0,0,0,0,4,0,0,0,4
+6926,"Le Guin, Ursula K.",The Word for World is Forest,11737,Gosse,person,0,0,0,0,0,0,4,0,0,0,4
+6927,"Le Guin, Ursula K.",The Word for World is Forest,11737,Selver,person,0,0,0,0,0,0,4,0,0,0,4
+6932,"Le Guin, Ursula K.",The Word for World is Forest,11743,Don,person,0,0,0,2,0,0,4,2,0,2,4
+6940,"Le Guin, Ursula K.",The Word for World is Forest,11749,Don,person,0,0,0,0,0,0,1,0,0,1,1
+6942,"Le Guin, Ursula K.",The Word for World is Forest,11750,Selver,person,0,0,0,0,0,4,2,0,2,0,-2
+6948,"Le Guin, Ursula K.",The Word for World is Forest,11755,Selver,person,0,0,0,0,0,1,0,0,0,0,-1
+6950,"Le Guin, Ursula K.",The Word for World is Forest,11757,Lyubov,person,3,0,0,0,0,3,0,0,0,0,-3
+6953,"Le Guin, Ursula K.",The Word for World is Forest,11762,Selver,person,2,0,2,6,0,8,2,8,0,0,-6
+6955,"Le Guin, Ursula K.",The Word for World is Forest,11763,Don,person,0,0,0,0,0,0,1,0,0,1,1
+6956,"Le Guin, Ursula K.",The Word for World is Forest,11768,Don,person,0,0,0,0,0,0,1,0,0,1,1
+6960,"Le Guin, Ursula K.",The Word for World is Forest,11769,Selver,person,4,4,4,0,4,4,4,0,4,4,0
+6963,"Le Guin, Ursula K.",The Word for World is Forest,11772,Don,person,2,0,2,0,0,2,2,2,2,4,0
+6965,"Le Guin, Ursula K.",The Word for World is Forest,11777,Selver,person,1,0,0,1,0,1,0,1,0,0,-1
+6968,"Le Guin, Ursula K.",The Word for World is Forest,11791,Selver,person,0,0,0,0,1,0,1,0,0,1,1
+6973,"Le Guin, Ursula K.",The Word for World is Forest,11795,Don,person,0,0,0,0,0,0,1,0,0,1,1
+6976,"Le Guin, Ursula K.",The Word for World is Forest,11802,Selver,person,1,0,0,0,0,1,1,0,0,0,0
+6982,"Le Guin, Ursula K.",The Word for World is Forest,11814,Lyubov,person,0,0,0,0,0,0,0,0,0,2,0
+6983,"Le Guin, Ursula K.",The Word for World is Forest,11814,Sam,person,0,0,0,0,0,0,0,0,0,2,0
+6986,"Le Guin, Ursula K.",The Word for World is Forest,11818,Lyubov,person,4,4,0,8,0,8,8,8,4,4,0
+6988,"Le Guin, Ursula K.",The Word for World is Forest,11820,Selver,person,0,0,0,0,0,0,1,0,0,0,1
+6990,"Le Guin, Ursula K.",The Word for World is Forest,11826,Selver,person,1,0,0,1,0,1,0,1,0,0,-1
+6994,"Le Guin, Ursula K.",The Word for World is Forest,11829,Don,person,3,0,3,3,0,3,6,3,0,6,3
+6997,"Le Guin, Ursula K.",The Word for World is Forest,11837,Coro Mena,person,1,0,1,3,0,2,0,2,0,0,-2
+6998,"Le Guin, Ursula K.",The Word for World is Forest,11839,Don,person,2,0,0,2,0,2,4,0,0,4,2
+7001,"Le Guin, Ursula K.",The Word for World is Forest,11840,Don,person,3,0,0,0,0,0,3,0,0,3,3
+7002,"Le Guin, Ursula K.",The Word for World is Forest,11840,Lyubov,person,3,0,0,0,0,0,3,0,0,3,3
+7006,"Le Guin, Ursula K.",The Word for World is Forest,11844,Don,person,1,0,0,2,0,2,1,2,0,1,-1
+7009,"Le Guin, Ursula K.",The Word for World is Forest,11845,Lyubov,person,3,0,3,3,0,3,0,3,0,0,-3
+7010,"Le Guin, Ursula K.",The Word for World is Forest,11846,Don,person,0,0,0,0,0,0,2,0,0,2,2
+7011,"Le Guin, Ursula K.",The Word for World is Forest,11846,Ben,person,0,0,0,0,0,0,2,0,0,2,2
+7013,"Le Guin, Ursula K.",The Word for World is Forest,11848,Selver,person,3,9,3,3,9,3,9,3,6,3,6
+7018,"Le Guin, Ursula K.",The Word for World is Forest,11855,Gosse,person,0,5,0,0,0,0,0,0,0,0,0
+7028,"Le Guin, Ursula K.",The Word for World is Forest,11864,Lord Dreamer,person,0,0,3,0,0,3,3,0,0,3,0
+7032,"Le Guin, Ursula K.",The Word for World is Forest,11874,Don,person,0,1,0,0,1,0,2,1,0,2,2
+7033,"Le Guin, Ursula K.",The Word for World is Forest,11877,Don,person,0,4,0,0,4,4,8,0,2,6,4
+7034,"Le Guin, Ursula K.",The Word for World is Forest,11877,Ben,person,0,4,0,0,4,4,8,0,2,6,4
+7037,"Le Guin, Ursula K.",The Word for World is Forest,11882,Lyubov,person,0,0,0,0,3,3,3,0,0,3,0
+7038,"Le Guin, Ursula K.",The Word for World is Forest,11882,Sam,person,0,0,0,0,3,3,3,0,0,3,0
+7042,"Le Guin, Ursula K.",The Word for World is Forest,11892,Benton,person,4,2,2,2,0,6,2,0,0,2,-4
+7043,"Le Guin, Ursula K.",The Word for World is Forest,11892,Ben,person,4,2,2,2,0,6,2,0,0,2,-4
+7046,"Le Guin, Ursula K.",The Word for World is Forest,11898,Selver,person,0,2,0,0,2,0,4,2,2,2,4
+7049,"Le Guin, Ursula K.",The Word for World is Forest,11902,Don,person,1,1,1,0,1,1,2,0,1,2,1
+7050,"Le Guin, Ursula K.",The Word for World is Forest,11905,Selver,person,0,0,0,0,0,1,0,0,0,0,-1
+7054,"Le Guin, Ursula K.",The Word for World is Forest,11911,Don,person,0,0,0,0,0,1,0,0,0,0,-1
+7057,"Le Guin, Ursula K.",The Word for World is Forest,11912,Selver,person,3,0,0,3,0,3,0,0,3,0,-3
+7059,"Le Guin, Ursula K.",The Word for World is Forest,11918,Aabi,person,1,0,1,1,0,1,0,1,0,0,-1
+7060,"Le Guin, Ursula K.",The Word for World is Forest,11922,Tuntar,person,2,0,0,0,2,2,2,0,0,0,0
+7064,"Le Guin, Ursula K.",The Word for World is Forest,11927,Lyubov,person,0,3,0,0,3,0,3,0,0,3,3
+7065,"Le Guin, Ursula K.",The Word for World is Forest,11927,Selver,person,0,3,0,0,3,0,3,0,0,3,3
+7070,"Le Guin, Ursula K.",The Word for World is Forest,11937,Lyubov,person,0,4,0,0,0,0,4,0,0,4,4
+7073,"Le Guin, Ursula K.",The Word for World is Forest,11943,Don,person,1,1,1,2,1,2,1,2,1,1,-1
+7077,"Le Guin, Ursula K.",The Word for World is Forest,11954,Don,person,0,0,1,0,0,1,1,0,0,2,0
+7078,"Le Guin, Ursula K.",The Word for World is Forest,11955,Don,person,0,0,0,0,0,0,2,0,0,1,2
+7080,"Le Guin, Ursula K.",The Word for World is Forest,11957,Lyubov,person,6,0,10,10,0,12,2,10,0,0,-10
+7086,"Le Guin, Ursula K.",The Word for World is Forest,11974,Thele,person,0,0,0,0,0,3,0,0,0,3,-3
+7087,"Le Guin, Ursula K.",The Word for World is Forest,11979,Gosse,person,0,0,0,0,0,0,2,0,0,0,2
+7089,"Le Guin, Ursula K.",The Word for World is Forest,11980,Lyubov,person,0,0,0,0,0,0,2,0,0,1,2
+7091,"Le Guin, Ursula K.",The Word for World is Forest,11991,Selver,person,0,0,0,0,0,0,1,0,0,0,1
+7100,"Le Guin, Ursula K.",The Word for World is Forest,12009,Don,person,2,0,1,3,1,5,3,4,1,2,-2
+7107,"Le Guin, Ursula K.",The Word for World is Forest,12021,Don,person,3,6,3,0,0,6,6,3,0,3,0
+7108,"Le Guin, Ursula K.",The Word for World is Forest,12021,Lyubov,person,3,6,3,0,0,6,6,3,0,3,0
+7110,"Le Guin, Ursula K.",The Word for World is Forest,12023,Lyubov,person,0,0,0,0,0,0,1,0,0,0,1
+7111,"Le Guin, Ursula K.",The Word for World is Forest,12024,Lyubov,person,0,0,0,0,0,2,0,0,0,0,-2
+7112,"Le Guin, Ursula K.",The Word for World is Forest,12025,Selver,person,0,0,0,0,1,0,1,0,0,0,1
+7113,"Le Guin, Ursula K.",The Word for World is Forest,12026,Selver,person,0,0,0,0,0,1,1,1,0,0,0
+7115,"Le Guin, Ursula K.",The Word for World is Forest,12029,Don,person,2,0,2,2,2,2,6,2,0,2,4
+7116,"Le Guin, Ursula K.",The Word for World is Forest,12029,Aabi,person,2,0,2,2,2,2,6,2,0,2,4
+7121,"Le Guin, Ursula K.",The Word for World is Forest,12038,Lyubov,person,4,0,4,2,0,4,0,4,0,0,-4
+7124,"Le Guin, Ursula K.",The Word for World is Forest,12039,Smith Camp,person,2,0,0,0,0,2,2,0,0,2,0
+7126,"Le Guin, Ursula K.",The Word for World is Forest,12042,Gosse,person,0,3,0,0,3,0,3,0,3,3,3
+7128,"Le Guin, Ursula K.",The Word for World is Forest,12043,Don,person,0,0,0,0,0,0,1,0,0,0,1
+7130,"Le Guin, Ursula K.",The Word for World is Forest,12045,Smith Camp,person,0,2,0,2,0,2,2,2,0,2,0
+7132,"Le Guin, Ursula K.",The Word for World is Forest,12048,Don,person,0,0,0,0,0,0,2,0,0,2,2
+7139,"Le Guin, Ursula K.",The Word for World is Forest,12059,Smith Camp,person,2,0,0,4,0,6,0,6,0,2,-6
+7143,"Le Guin, Ursula K.",The Word for World is Forest,12061,Selver,person,2,2,2,0,2,2,2,2,2,2,0
+7146,"Le Guin, Ursula K.",The Word for World is Forest,12069,Selver,person,0,0,0,0,0,2,2,0,0,0,0
+7152,"Le Guin, Ursula K.",The Word for World is Forest,12075,Lyubov,person,0,0,0,0,0,0,3,0,0,6,3
+7153,"Le Guin, Ursula K.",The Word for World is Forest,12075,Coro Mena,person,0,0,0,0,0,0,3,0,0,6,3
+7158,"Le Guin, Ursula K.",The Word for World is Forest,12080,Don,person,0,2,0,0,2,0,2,0,0,4,2
+7165,"Le Guin, Ursula K.",The Word for World is Forest,12083,Selver,person,0,0,0,0,0,3,0,0,0,0,-3
+7173,"Le Guin, Ursula K.",The Word for World is Forest,12095,Lyubov,person,1,0,0,1,1,1,1,0,0,1,0
+7182,"Le Guin, Ursula K.",The Word for World is Forest,12106,Don,person,0,1,0,0,0,0,1,0,0,1,1
+7183,"Le Guin, Ursula K.",The Word for World is Forest,12107,Selver,person,2,0,0,0,0,2,2,0,2,0,0
+7193,"Le Guin, Ursula K.",The Word for World is Forest,12119,Don,person,0,3,0,0,0,0,0,0,0,0,0
+7194,"Le Guin, Ursula K.",The Word for World is Forest,12119,Gosse,person,0,3,0,0,0,0,0,0,0,0,0
+7200,"Le Guin, Ursula K.",The Word for World is Forest,12123,Selver,person,2,0,0,0,2,2,2,0,0,2,0
+7207,"Le Guin, Ursula K.",The Word for World is Forest,12137,Aabi,person,0,2,0,0,0,0,0,0,0,0,0
+7214,"Le Guin, Ursula K.",The Word for World is Forest,12152,Gosse,person,4,0,4,4,0,4,0,4,0,0,-4
+7219,"Le Guin, Ursula K.",The Word for World is Forest,12164,Don,person,0,0,0,0,0,1,1,0,0,2,0
+7221,"Le Guin, Ursula K.",The Word for World is Forest,12168,Thele,person,2,2,2,2,0,2,0,2,2,0,-2
+7225,"Le Guin, Ursula K.",The Word for World is Forest,12176,Don,person,3,0,3,0,0,3,6,0,0,6,3
+7226,"Le Guin, Ursula K.",The Word for World is Forest,12178,Selver,person,0,0,0,1,0,1,1,1,0,0,0
+7227,"Le Guin, Ursula K.",The Word for World is Forest,12180,Don,person,0,0,0,1,0,1,1,1,0,1,0
+7232,"Le Guin, Ursula K.",The Word for World is Forest,12183,Don,person,0,0,0,3,0,0,3,0,0,3,3
+7236,"Le Guin, Ursula K.",The Word for World is Forest,12191,Don,person,0,1,0,0,2,0,5,0,1,3,5
+7238,"Le Guin, Ursula K.",The Word for World is Forest,12193,Lyubov,person,3,0,3,0,3,3,3,3,0,0,0
+7241,"Le Guin, Ursula K.",The Word for World is Forest,12196,Tuntar,person,3,0,0,6,0,3,0,3,0,0,-3
+7243,"Le Guin, Ursula K.",The Word for World is Forest,12200,Don,person,0,0,0,0,0,1,1,0,0,1,0
+7248,"Le Guin, Ursula K.",The Word for World is Forest,12207,Selver,person,1,0,0,1,0,1,0,0,0,0,-1
+7253,"Le Guin, Ursula K.",The Word for World is Forest,12222,Don,person,0,0,0,0,0,0,4,0,0,4,4
+7260,"Le Guin, Ursula K.",The Word for World is Forest,12228,Howe,person,0,2,2,2,2,2,2,0,2,2,0
+7262,"Le Guin, Ursula K.",The Word for World is Forest,12231,Selver,person,2,0,0,0,0,2,0,0,2,0,-2
+7265,"Le Guin, Ursula K.",The Word for World is Forest,12232,Don,person,3,0,3,3,0,9,9,6,0,6,0
+7277,"Le Guin, Ursula K.",The Word for World is Forest,12253,Don,person,3,0,3,6,0,6,6,0,0,3,0
+7279,"Le Guin, Ursula K.",The Word for World is Forest,12254,Lyubov,person,1,0,0,1,0,1,0,0,1,0,-1
+7286,"Le Guin, Ursula K.",The Word for World is Forest,12271,Selver,person,0,0,0,0,0,0,1,0,0,1,1
+7292,"Le Guin, Ursula K.",The Word for World is Forest,12280,Ben,person,1,0,0,1,0,1,0,0,0,0,-1
+7297,"Le Guin, Ursula K.",The Word for World is Forest,12282,Selver,person,0,0,0,0,0,0,6,0,0,6,6
+7301,"Le Guin, Ursula K.",The Word for World is Forest,12294,Ben,person,1,0,1,1,0,3,0,1,0,0,-3
+7309,"Le Guin, Ursula K.",The Word for World is Forest,12306,Coro Mena,person,0,2,0,2,2,0,2,0,0,2,2
+7318,"Le Guin, Ursula K.",The Word for World is Forest,12319,Gosse,person,3,3,0,3,3,3,6,3,0,3,3
+7319,"Le Guin, Ursula K.",The Word for World is Forest,12319,Selver,person,3,3,0,3,3,3,6,3,0,3,3
+7324,"Le Guin, Ursula K.",The Word for World is Forest,12324,Selver,person,0,0,0,0,0,0,2,0,0,1,2
+7326,"Le Guin, Ursula K.",The Word for World is Forest,12331,Don,person,0,0,0,0,0,0,1,0,0,1,1
+7329,"Le Guin, Ursula K.",The Word for World is Forest,12341,Lyubov,person,1,1,0,1,0,1,0,0,0,0,-1
+7334,"Le Guin, Ursula K.",The Word for World is Forest,12349,Don,person,0,0,0,0,0,0,3,0,0,3,3
+7344,"Le Guin, Ursula K.",The Word for World is Forest,12366,Kees,person,0,3,1,0,2,2,2,3,1,2,0
+7346,"Le Guin, Ursula K.",The Word for World is Forest,12378,Aabi,person,0,0,0,0,0,0,0,0,2,0,0
+7347,"Le Guin, Ursula K.",The Word for World is Forest,12378,David,person,0,0,0,0,0,0,0,0,2,0,0
+7349,"Le Guin, Ursula K.",The Word for World is Forest,12379,Don,person,0,2,0,0,0,0,2,0,2,2,2
+7351,"Le Guin, Ursula K.",The Word for World is Forest,12380,Ebor Dendep,person,0,0,0,0,0,2,0,0,0,0,-2
+7354,"Le Guin, Ursula K.",The Word for World is Forest,12390,Don,person,0,0,0,0,0,4,2,0,0,4,-2
+7356,"Le Guin, Ursula K.",The Word for World is Forest,12393,Aabi,person,0,2,0,0,0,2,4,2,0,2,2
+7360,"Le Guin, Ursula K.",The Word for World is Forest,12394,Selver,person,0,0,0,0,0,9,6,3,0,3,-3
+7365,"Le Guin, Ursula K.",The Word for World is Forest,12395,Lyubov,person,0,12,0,0,12,0,36,0,12,24,36
+7368,"Le Guin, Ursula K.",The Word for World is Forest,12397,Lyubov,person,0,0,0,0,0,0,0,2,0,0,0
+7371,"Le Guin, Ursula K.",The Word for World is Forest,12399,Smith Camp,person,6,0,3,6,0,6,3,3,0,3,-3
+7373,"Le Guin, Ursula K.",The Word for World is Forest,12402,Selver,person,2,0,0,2,0,2,0,0,0,0,-2
+7381,"Le Guin, Ursula K.",The Word for World is Forest,12411,Don,person,0,4,0,0,0,0,12,0,0,4,12
+7383,"Le Guin, Ursula K.",The Word for World is Forest,12413,Selver,person,1,1,1,1,1,1,3,1,1,2,2
+7387,"Le Guin, Ursula K.",The Word for World is Forest,12416,Don,person,3,0,0,3,0,3,3,0,0,3,0
+7388,"Le Guin, Ursula K.",The Word for World is Forest,12418,Lyubov,person,0,0,0,1,0,2,0,1,1,0,-2
+7389,"Le Guin, Ursula K.",The Word for World is Forest,12419,Lyubov,person,0,1,0,0,0,1,1,0,0,0,0
+7390,"Le Guin, Ursula K.",The Word for World is Forest,12422,Lyubov,person,0,0,2,4,0,8,0,6,0,0,-8
+7391,"Le Guin, Ursula K.",The Word for World is Forest,12422,Tuntar,person,0,0,2,4,0,8,0,6,0,0,-8
+7394,"Le Guin, Ursula K.",The Word for World is Forest,12426,Don,person,4,6,2,2,4,6,6,4,4,6,0
+7395,"Le Guin, Ursula K.",The Word for World is Forest,12426,Lyubov,person,4,6,2,2,4,6,6,4,4,6,0
+7404,"Le Guin, Ursula K.",The Word for World is Forest,12435,Howe,person,0,2,0,0,2,0,2,0,2,2,2
+7408,"Le Guin, Ursula K.",The Word for World is Forest,12441,Tubab,person,0,2,0,1,0,0,0,0,0,0,0
+7409,"Le Guin, Ursula K.",The Word for World is Forest,12442,Don,person,0,0,0,0,3,0,6,0,0,6,6
+7412,"Le Guin, Ursula K.",The Word for World is Forest,12444,Don,person,2,2,0,2,0,2,4,0,2,2,2
+7413,"Le Guin, Ursula K.",The Word for World is Forest,12444,Kees,person,2,2,0,2,0,2,4,0,2,2,2
+7414,"Le Guin, Ursula K.",The Word for World is Forest,12445,Don,person,1,0,2,1,1,2,3,1,1,2,1
+7417,"Le Guin, Ursula K.",The Word for World is Forest,12448,Lyubov,person,4,0,0,4,0,8,0,0,0,0,-8
+7420,"Le Guin, Ursula K.",The Word for World is Forest,12452,Hunter,person,0,2,0,2,0,2,0,2,0,0,-2
+7423,"Le Guin, Ursula K.",The Word for World is Forest,12456,Don,person,0,0,0,0,0,0,2,0,0,2,2
+7424,"Le Guin, Ursula K.",The Word for World is Forest,12456,Aabi,person,0,0,0,0,0,0,2,0,0,2,2
+7428,"Le Guin, Ursula K.",The Word for World is Forest,12458,Selver,person,0,0,0,2,0,4,0,2,0,0,-4
+7429,"Le Guin, Ursula K.",The Word for World is Forest,12460,Don,person,2,0,0,2,0,2,2,0,0,2,0
+7430,"Le Guin, Ursula K.",The Word for World is Forest,12460,Selver,person,2,0,0,2,0,2,2,0,0,2,0
+7433,"Le Guin, Ursula K.",The Word for World is Forest,12463,Don,person,0,3,0,3,3,3,9,3,0,6,6
+7434,"Le Guin, Ursula K.",The Word for World is Forest,12463,Selver,person,0,3,0,3,3,3,9,3,0,6,6
+7440,"Le Guin, Ursula K.",The Word for World is Forest,12469,Selver,person,0,1,0,1,1,0,1,0,0,1,1
+7442,"Le Guin, Ursula K.",The Word for World is Forest,12470,Selver,person,0,0,0,2,0,2,0,0,0,0,-2
+7446,"Le Guin, Ursula K.",The Word for World is Forest,12474,Selver,person,0,0,0,3,0,6,0,0,0,0,-6
+7449,"Le Guin, Ursula K.",The Word for World is Forest,12481,Selver,person,0,0,0,2,0,4,0,4,0,0,-4
+7455,"Le Guin, Ursula K.",The Word for World is Forest,12493,Lyubov,person,3,6,0,0,9,3,15,0,0,9,12
+7457,"Le Guin, Ursula K.",The Word for World is Forest,12495,Don,person,0,0,0,0,0,0,2,0,0,2,2
+7461,"Le Guin, Ursula K.",The Word for World is Forest,12500,Aabi,person,3,0,3,3,0,9,0,6,0,0,-9
+7471,"Le Guin, Ursula K.",The Word for World is Forest,12511,Don,person,1,0,0,1,0,1,1,0,1,1,0
+7477,"Le Guin, Ursula K.",The Word for World is Forest,12519,Kees,person,1,0,1,1,0,1,0,1,0,0,-1
+7478,"Le Guin, Ursula K.",The Word for World is Forest,12520,Don,person,4,4,0,4,0,8,8,0,4,4,0
+7479,"Le Guin, Ursula K.",The Word for World is Forest,12520,Lyubov,person,4,4,0,4,0,8,8,0,4,4,0
+7480,"Le Guin, Ursula K.",The Word for World is Forest,12520,Selver,person,4,4,0,4,0,8,8,0,4,4,0
+7484,"Le Guin, Ursula K.",The Word for World is Forest,12528,Smith Camp,person,4,0,0,4,0,8,0,4,0,4,-8
+7492,"Le Guin, Ursula K.",The Word for World is Forest,12533,Selver,person,0,0,0,0,0,0,0,0,0,2,0
+7494,"Le Guin, Ursula K.",The Word for World is Forest,12539,Lyubov,person,0,0,0,0,0,1,2,1,0,1,1
+7498,"Le Guin, Ursula K.",The Word for World is Forest,12546,Lyubov,person,2,2,0,0,2,2,2,0,2,2,0
+7500,"Le Guin, Ursula K.",The Word for World is Forest,12547,Selver,person,0,0,0,1,0,0,0,0,0,0,0
+7505,"Le Guin, Ursula K.",The Word for World is Forest,12558,Selver,person,2,0,0,3,0,3,0,0,0,0,-3
+7506,"Le Guin, Ursula K.",The Word for World is Forest,12559,Lyubov,person,0,0,0,0,0,0,2,0,0,2,2
+7510,"Le Guin, Ursula K.",The Word for World is Forest,12561,Selver,person,3,0,0,3,3,3,6,3,0,0,3
+7511,"Le Guin, Ursula K.",The Word for World is Forest,12562,Lyubov,person,0,3,0,0,3,0,6,0,3,6,6
+7518,"Le Guin, Ursula K.",The Word for World is Forest,12573,Don,person,0,0,0,2,0,2,4,2,0,2,2
+7520,"Le Guin, Ursula K.",The Word for World is Forest,12574,Don,person,0,0,0,0,0,0,1,0,0,1,1
+7530,"Le Guin, Ursula K.",The Word for World is Forest,12591,Don,person,0,0,0,0,0,0,2,0,0,2,2
+7539,"Le Guin, Ursula K.",The Word for World is Forest,12606,Don,person,0,0,0,0,0,0,1,0,0,1,1
+7551,"Le Guin, Ursula K.",The Word for World is Forest,12638,Don,person,0,0,0,0,0,4,12,0,0,4,8
+7552,"Le Guin, Ursula K.",The Word for World is Forest,12638,Lyubov,person,0,0,0,0,0,4,12,0,0,4,8
+7553,"Le Guin, Ursula K.",The Word for World is Forest,12638,Sam,person,0,0,0,0,0,4,12,0,0,4,8
+7554,"Le Guin, Ursula K.",The Word for World is Forest,12638,Selver,person,0,0,0,0,0,4,12,0,0,4,8
+7557,"Le Guin, Ursula K.",The Word for World is Forest,12641,Lyubov,person,0,6,0,6,6,0,12,0,0,6,12
+7558,"Le Guin, Ursula K.",The Word for World is Forest,12641,Gosse,person,0,6,0,6,6,0,12,0,0,6,12
+7561,"Le Guin, Ursula K.",The Word for World is Forest,12641,Captain Susun,person,0,6,0,6,6,0,12,0,0,6,12
+7563,"Le Guin, Ursula K.",The Word for World is Forest,12642,Lyubov,person,0,0,0,0,0,0,2,0,0,0,2
+7564,"Le Guin, Ursula K.",The Word for World is Forest,12642,Selver,person,0,0,0,0,0,0,2,0,0,0,2
+7566,"Le Guin, Ursula K.",The Word for World is Forest,12644,Don,person,0,0,0,0,0,0,2,0,0,2,2
+7571,"Le Guin, Ursula K.",The Word for World is Forest,12653,Lyubov,person,4,4,4,4,0,4,8,4,0,12,4
+7572,"Le Guin, Ursula K.",The Word for World is Forest,12653,Smith Camp,person,4,4,4,4,0,4,8,4,0,12,4
+7573,"Le Guin, Ursula K.",The Word for World is Forest,12655,Selver,person,1,0,1,1,0,1,0,1,1,0,-1
+7577,"Le Guin, Ursula K.",The Word for World is Forest,12659,Gosse,person,0,0,0,0,0,0,3,0,0,0,3
+7582,"Le Guin, Ursula K.",The Word for World is Forest,12660,Don,person,15,5,0,20,5,30,15,5,5,20,-15
+7584,"Le Guin, Ursula K.",The Word for World is Forest,12661,Don,person,0,0,0,0,0,0,1,0,0,1,1
+7592,"Le Guin, Ursula K.",The Word for World is Forest,12666,Selver,person,4,0,0,0,0,4,0,0,0,4,-4
+7593,"Le Guin, Ursula K.",The Word for World is Forest,12666,Thele,person,4,0,0,0,0,4,0,0,0,4,-4
+7596,"Le Guin, Ursula K.",The Word for World is Forest,12672,Don,person,0,0,0,0,0,0,4,0,0,4,4
+7599,"Le Guin, Ursula K.",The Word for World is Forest,12679,Coro Mena,person,0,0,0,2,0,0,0,0,0,0,0
+7602,"Le Guin, Ursula K.",The Word for World is Forest,12682,Lyubov,person,5,5,5,5,0,5,0,5,0,0,-5
+7603,"Le Guin, Ursula K.",The Word for World is Forest,12682,Tuntar,person,5,5,5,5,0,5,0,5,0,0,-5
+7604,"Le Guin, Ursula K.",The Word for World is Forest,12682,Selver,person,5,5,5,5,0,5,0,5,0,0,-5
+7608,"Le Guin, Ursula K.",The Word for World is Forest,12686,Don,person,3,9,0,3,3,6,15,3,6,3,9
+7609,"Le Guin, Ursula K.",The Word for World is Forest,12688,Selver,person,0,0,0,0,0,0,4,0,0,2,4
+7618,"Le Guin, Ursula K.",The Word for World is Forest,12701,Aabi,person,0,0,1,0,0,1,0,0,0,0,-1
+7624,"Le Guin, Ursula K.",The Word for World is Forest,12721,Lyubov,person,0,0,0,0,10,0,10,0,0,6,10
+7628,"Le Guin, Ursula K.",The Word for World is Forest,12726,Don,person,0,0,0,0,0,6,0,3,0,0,-6
+7635,"Le Guin, Ursula K.",The Word for World is Forest,12738,Don,person,0,0,0,0,0,0,1,0,0,1,1
+7638,"Le Guin, Ursula K.",The Word for World is Forest,12740,Don,person,0,0,0,0,0,0,8,0,0,8,8
+7641,"Le Guin, Ursula K.",The Word for World is Forest,12745,Selver,person,2,0,0,2,0,2,0,0,2,0,-2
+7642,"Le Guin, Ursula K.",The Word for World is Forest,12748,Lyubov,person,1,0,0,1,0,1,0,1,1,0,-1
+7646,"Le Guin, Ursula K.",The Word for World is Forest,12754,Smith Land,person,0,0,0,0,0,0,2,0,0,2,2
+7652,"Le Guin, Ursula K.",The Word for World is Forest,12763,David,person,0,0,0,0,0,2,4,0,0,0,2
+7655,"Le Guin, Ursula K.",The Word for World is Forest,12766,Selver,person,0,0,0,0,0,1,0,1,0,0,-1
+7656,"Le Guin, Ursula K.",The Word for World is Forest,12773,Don,person,0,0,0,0,0,1,3,0,0,2,2
+7659,"Le Guin, Ursula K.",The Word for World is Forest,12778,Don,person,0,0,0,0,1,0,2,0,0,2,2
+7663,"Le Guin, Ursula K.",The Word for World is Forest,12785,Don,person,0,4,0,0,4,0,8,0,4,4,8
+7666,"Le Guin, Ursula K.",The Word for World is Forest,12790,Lyubov,person,1,0,0,1,0,1,1,0,1,0,0
+7670,"Le Guin, Ursula K.",The Word for World is Forest,12799,Don,person,0,0,0,0,0,0,2,0,0,2,2
+7675,"Le Guin, Ursula K.",The Word for World is Forest,12803,Lyubov,person,0,0,0,0,0,1,0,0,0,0,-1
+7677,"Le Guin, Ursula K.",The Word for World is Forest,12806,Selver,person,0,0,0,0,2,2,4,2,0,4,2
+7684,"Le Guin, Ursula K.",The Word for World is Forest,12819,Smith Land,person,0,6,0,0,3,6,9,3,0,6,3
+7691,"Le Guin, Ursula K.",The Word for World is Forest,12828,Lyubov,person,0,1,0,0,1,0,3,0,1,2,3
+7703,"Le Guin, Ursula K.",The Word for World is Forest,12840,Selver,person,0,0,0,0,0,0,1,3,0,0,1
+7707,"Le Guin, Ursula K.",The Word for World is Forest,12850,Lyubov,person,1,2,1,1,1,1,3,1,0,1,2
+7708,"Le Guin, Ursula K.",The Word for World is Forest,12851,Selver,person,1,0,1,1,0,1,0,1,0,0,-1
+7709,"Le Guin, Ursula K.",The Word for World is Forest,12854,Benton,person,0,0,0,0,0,0,9,0,0,6,9
+7710,"Le Guin, Ursula K.",The Word for World is Forest,12854,Ben,person,0,0,0,0,0,0,9,0,0,6,9
+7712,"Le Guin, Ursula K.",The Word for World is Forest,12855,Selver,person,6,1,3,5,1,6,2,3,1,4,-4
+7715,"Le Guin, Ursula K.",The Word for World is Forest,12858,Lyubov,person,2,4,0,4,0,4,6,4,2,8,2
+7718,"Le Guin, Ursula K.",The Word for World is Forest,12863,Selver,person,0,1,0,0,1,1,1,1,1,1,0
+7727,"Le Guin, Ursula K.",The Word for World is Forest,12871,Don,person,0,3,0,0,0,0,3,0,0,6,3
+7729,"Le Guin, Ursula K.",The Word for World is Forest,12875,Don,person,4,0,2,4,0,6,2,2,2,6,-4
+7730,"Le Guin, Ursula K.",The Word for World is Forest,12875,Selver,person,4,0,2,4,0,6,2,2,2,6,-4
+7731,"Le Guin, Ursula K.",The Word for World is Forest,12876,Don,person,0,0,0,0,0,2,0,2,0,0,-2
+7732,"Le Guin, Ursula K.",The Word for World is Forest,12876,Lyubov,person,0,0,0,0,0,2,0,2,0,0,-2
+7733,"Le Guin, Ursula K.",The Word for World is Forest,12880,Don,person,0,2,0,0,0,0,2,0,0,2,2
+7736,"Le Guin, Ursula K.",The Word for World is Forest,12883,Lyubov,person,1,0,1,0,0,1,1,1,0,0,0
+7739,"Le Guin, Ursula K.",The Word for World is Forest,12885,Coro Mena,person,3,0,0,3,0,3,0,0,0,0,-3
+7740,"Le Guin, Ursula K.",The Word for World is Forest,12887,Selver,person,0,1,1,0,0,2,1,1,0,1,-1
+7741,"Le Guin, Ursula K.",The Word for World is Forest,12889,Selver,person,0,4,0,1,4,0,6,1,2,4,6
+7742,"Le Guin, Ursula K.",The Word for World is Forest,12890,Don,person,6,3,6,6,0,9,6,6,0,6,-3
+7743,"Le Guin, Ursula K.",The Word for World is Forest,12890,Lyubov,person,6,3,6,6,0,9,6,6,0,6,-3
+7747,"Le Guin, Ursula K.",The Word for World is Forest,12894,Lyubov,person,0,0,0,0,0,2,2,0,0,0,0
+7752,"Le Guin, Ursula K.",The Word for World is Forest,12899,Gosse,person,4,0,4,4,0,4,0,4,0,0,-4
+7753,"Le Guin, Ursula K.",The Word for World is Forest,12899,Benton,person,4,0,4,4,0,4,0,4,0,0,-4
+7754,"Le Guin, Ursula K.",The Word for World is Forest,12899,Ben,person,4,0,4,4,0,4,0,4,0,0,-4
+7760,"Le Guin, Ursula K.",The Word for World is Forest,12908,Selver,person,0,0,0,0,0,0,4,0,0,4,4
+7766,"Le Guin, Ursula K.",The Word for World is Forest,12916,Don,person,0,2,4,2,2,6,4,0,0,2,-2
+7767,"Le Guin, Ursula K.",The Word for World is Forest,12916,Lyubov,person,0,2,4,2,2,6,4,0,0,2,-2
+7776,"Le Guin, Ursula K.",The Word for World is Forest,12932,Selver,person,0,2,0,1,0,2,1,0,0,0,-1
+7778,"Le Guin, Ursula K.",The Word for World is Forest,12934,Tuntar,person,0,1,0,0,3,0,6,0,1,3,6
+7782,"Le Guin, Ursula K.",The Word for World is Forest,12938,Smith Camp,person,3,3,3,6,3,3,3,3,0,6,0
+7785,"Le Guin, Ursula K.",The Word for World is Forest,12942,Lyubov,person,0,2,0,0,0,0,2,0,0,0,2
+7786,"Le Guin, Ursula K.",The Word for World is Forest,12942,Selver,person,0,2,0,0,0,0,2,0,0,0,2
+7789,"Le Guin, Ursula K.",The Word for World is Forest,12947,Selver,person,1,0,0,1,0,1,1,0,1,0,0
+7805,"Le Guin, Ursula K.",The Word for World is Forest,12962,Smith Camp,person,2,2,2,2,0,4,6,2,2,8,2
+7812,"Le Guin, Ursula K.",The Word for World is Forest,12988,Selver,person,0,0,0,0,0,0,4,0,0,2,4
+7815,"Le Guin, Ursula K.",The Word for World is Forest,12990,Aabi,person,3,0,3,0,0,3,0,0,0,0,-3
+7821,"Le Guin, Ursula K.",The Word for World is Forest,13005,Tuntar,person,0,1,0,0,0,0,3,0,0,0,3
+7825,"Le Guin, Ursula K.",The Word for World is Forest,13010,Lyubov,person,2,2,2,2,2,2,2,2,2,2,0
+7827,"Le Guin, Ursula K.",The Word for World is Forest,13011,Don,person,0,0,0,0,0,0,4,0,0,4,4
+7837,"Le Guin, Ursula K.",The Word for World is Forest,13019,Coro Mena,person,2,0,0,2,0,2,1,0,0,0,-1
+7839,"Le Guin, Ursula K.",The Word for World is Forest,13020,Don,person,0,0,0,0,0,4,4,2,0,2,0
+7844,"Le Guin, Ursula K.",The Word for World is Forest,13037,Gosse,person,2,0,2,0,2,2,4,0,0,2,2
+7846,"Le Guin, Ursula K.",The Word for World is Forest,13038,Don,person,0,0,0,0,0,0,2,0,0,1,2
+7853,"Le Guin, Ursula K.",The Word for World is Forest,13048,Lyubov,person,0,0,0,0,0,0,1,1,0,0,1
+7855,"Le Guin, Ursula K.",The Word for World is Forest,13052,Selver,person,0,0,0,0,0,0,2,0,0,2,2
+7857,"Le Guin, Ursula K.",The Word for World is Forest,13053,Selver,person,0,0,0,0,0,0,1,0,0,1,1
+7859,"Le Guin, Ursula K.",The Word for World is Forest,13054,Don,person,0,0,0,0,0,0,2,0,0,2,2
+7862,"Le Guin, Ursula K.",The Word for World is Forest,13065,Don,person,0,0,0,0,0,0,2,0,0,2,2
+7865,"Le Guin, Ursula K.",The Word for World is Forest,13078,Don,person,0,0,0,0,0,0,1,0,0,1,1
+7871,"Le Guin, Ursula K.",The Word for World is Forest,13093,Don,person,2,0,2,2,0,2,4,2,0,2,2
+7872,"Le Guin, Ursula K.",The Word for World is Forest,13093,Selver,person,2,0,2,2,0,2,4,2,0,2,2
+7874,"Le Guin, Ursula K.",The Word for World is Forest,13094,Don,person,0,0,0,2,0,2,2,2,0,2,0
+7875,"Le Guin, Ursula K.",The Word for World is Forest,13098,Don,person,0,0,0,0,0,1,1,1,0,1,0
+7881,"Le Guin, Ursula K.",The Word for World is Forest,13105,Lyubov,person,0,2,0,0,0,0,0,0,0,0,0
+7884,"Le Guin, Ursula K.",The Word for World is Forest,13107,Don,person,0,3,0,0,0,3,3,0,0,3,0
+7886,"Le Guin, Ursula K.",The Word for World is Forest,13108,Lyubov,person,4,4,4,8,0,8,0,8,4,0,-8
+7887,"Le Guin, Ursula K.",The Word for World is Forest,13108,Selver,person,4,4,4,8,0,8,0,8,4,0,-8
+7889,"Le Guin, Ursula K.",The Word for World is Forest,13109,Lyubov,person,0,1,0,0,0,0,0,0,0,0,0
+7890,"Le Guin, Ursula K.",The Word for World is Forest,13110,Selver,person,0,0,0,0,0,2,0,2,0,0,-2
+7893,"Le Guin, Ursula K.",The Word for World is Forest,13113,Lyubov,person,0,0,0,0,2,0,2,0,0,2,2
+7895,"Le Guin, Ursula K.",The Word for World is Forest,13116,Lyubov,person,3,0,0,0,0,3,0,0,0,0,-3
+7897,"Le Guin, Ursula K.",The Word for World is Forest,13122,Lyubov,person,0,3,0,0,3,0,3,0,0,3,3
+7898,"Le Guin, Ursula K.",The Word for World is Forest,13122,Selver,person,0,3,0,0,3,0,3,0,0,3,3
+7900,"Le Guin, Ursula K.",The Word for World is Forest,13123,Selver,person,0,0,0,0,1,0,1,0,0,0,1
+7901,"Le Guin, Ursula K.",The Word for World is Forest,13124,Lyubov,person,4,0,4,2,0,4,0,4,0,0,-4
+7903,"Le Guin, Ursula K.",The Word for World is Forest,13126,Don,person,0,3,0,0,0,0,0,0,0,0,0
+7904,"Le Guin, Ursula K.",The Word for World is Forest,13126,Gosse,person,0,3,0,0,0,0,0,0,0,0,0
+7917,"Le Guin, Ursula K.",The Word for World is Forest,13137,Selver,person,0,0,0,0,0,0,4,0,0,2,4
+7921,"Le Guin, Ursula K.",The Word for World is Forest,13148,Selver,person,0,0,0,0,0,0,2,0,0,1,2
+7925,"Le Guin, Ursula K.",The Word for World is Forest,13163,Selver,person,0,0,0,0,0,0,0,0,0,1,0
+7928,"Le Guin, Ursula K.",The Word for World is Forest,13164,Selver,person,0,6,0,3,3,0,6,0,0,6,6
+7930,"Le Guin, Ursula K.",The Word for World is Forest,13167,Selver,person,0,0,1,1,0,1,0,0,0,0,-1
+7931,"Le Guin, Ursula K.",The Word for World is Forest,13168,Lyubov,person,0,0,0,0,0,0,1,0,0,1,1
+7933,"Le Guin, Ursula K.",The Word for World is Forest,13170,Lyubov,person,3,6,3,3,6,6,12,3,3,3,6
+7934,"Le Guin, Ursula K.",The Word for World is Forest,13170,Thele,person,3,6,3,3,6,6,12,3,3,3,6
+7938,"Le Guin, Ursula K.",The Word for World is Forest,13175,Lyubov,person,0,0,0,0,3,0,3,0,0,3,3
+7945,"Le Guin, Ursula K.",The Word for World is Forest,13185,Don,person,5,5,5,5,5,5,10,0,5,15,5
+7946,"Le Guin, Ursula K.",The Word for World is Forest,13185,Smith Camp,person,5,5,5,5,5,5,10,0,5,15,5
+7950,"Le Guin, Ursula K.",The Word for World is Forest,13190,Don,person,0,0,0,0,0,0,2,0,0,2,2
+7951,"Le Guin, Ursula K.",The Word for World is Forest,13191,Don,person,3,0,0,0,0,3,6,3,0,6,3
+7952,"Le Guin, Ursula K.",The Word for World is Forest,13191,Selver,person,3,0,0,0,0,3,6,3,0,6,3
+7954,"Le Guin, Ursula K.",The Word for World is Forest,13192,Selver,person,0,0,0,0,0,1,0,0,0,0,-1
+7958,"Le Guin, Ursula K.",The Word for World is Forest,13195,Gosse,person,0,0,0,0,0,0,5,0,0,5,5
+7959,"Le Guin, Ursula K.",The Word for World is Forest,13195,Selver,person,0,0,0,0,0,0,5,0,0,5,5
+7961,"Le Guin, Ursula K.",The Word for World is Forest,13197,Selver,person,1,0,0,1,0,1,0,1,0,0,-1
+7964,"Le Guin, Ursula K.",The Word for World is Forest,13199,Selver,person,0,1,0,1,1,0,1,0,0,1,1
+7966,"Le Guin, Ursula K.",The Word for World is Forest,13208,Selver,person,0,2,0,0,0,0,0,0,0,0,0
+7969,"Le Guin, Ursula K.",The Word for World is Forest,13211,Lyubov,person,3,3,3,6,0,6,3,3,3,0,-3
+7972,"Le Guin, Ursula K.",The Word for World is Forest,13219,Don,person,0,0,0,0,0,0,1,0,0,1,1

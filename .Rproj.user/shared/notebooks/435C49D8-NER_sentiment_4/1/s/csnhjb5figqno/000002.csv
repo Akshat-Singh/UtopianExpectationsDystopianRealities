@@ -1,0 +1,12 @@
+"0","```r
+#set pipeline
+wordAnnotator <- Maxent_Word_Token_Annotator(language = \"en\")
+sentenceAnnotator <- Maxent_Sent_Token_Annotator(language = \"en\")
+characterAnnotatorEN <- Maxent_Entity_Annotator(language = \"en\", kind = \"person\")
+locationAnnotatorEN <- Maxent_Entity_Annotator(language = \"en\", kind = \"location\")
+
+pipeline <- list(sentenceAnnotator,
+                 wordAnnotator,
+                 characterAnnotatorEN,
+                 locationAnnotatorEN)
+```"

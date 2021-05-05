@@ -1,0 +1,2 @@
+"0","corpus <- read.csv(""dystopia_corpus.csv"")"
+"0","#corpus <- gutenberg_download(c(51783), mirror=""http://mirrors.xmission.com/gutenberg/"", meta_fields = c(""author"",""title""))"

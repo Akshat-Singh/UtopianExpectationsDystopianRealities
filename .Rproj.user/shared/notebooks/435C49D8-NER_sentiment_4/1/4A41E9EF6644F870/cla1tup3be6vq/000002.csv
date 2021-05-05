@@ -1,0 +1,2 @@
+"0","corpus_clean <- corpus %>%"
+"0","                mutate(text = str_replace_all(text,""_"","" ""))"

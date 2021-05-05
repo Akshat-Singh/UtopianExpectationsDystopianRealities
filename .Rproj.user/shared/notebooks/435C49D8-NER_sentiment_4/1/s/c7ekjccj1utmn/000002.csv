@@ -1,0 +1,5 @@
+"0","```r
+full_df <- full_df %>% 
+          relocate(c(\"author\",\"title\"),.before = 1) %>% 
+          select(-id, -constituents) 
+```"

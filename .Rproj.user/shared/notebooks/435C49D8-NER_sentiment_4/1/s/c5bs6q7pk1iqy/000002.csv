@@ -1,0 +1,7 @@
+"0","```r
+corpus_text <- corpus_clean %>%
+  group_by(title) %>%
+  mutate(text = paste(as.character(text), collapse = \" \")) %>%
+  distinct() %>%
+  ungroup()
+```"

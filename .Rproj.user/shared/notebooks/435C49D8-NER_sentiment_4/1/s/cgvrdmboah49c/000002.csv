@@ -1,0 +1,5 @@
+"0","```r
+ner_total_sentiment <- entities_matches_sentiment %>% 
+                           group_by(author, title, entity, kind) %>%  
+                           summarise(total = mean(sentiment))  
+```"

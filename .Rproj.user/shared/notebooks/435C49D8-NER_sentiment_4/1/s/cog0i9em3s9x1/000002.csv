@@ -1,0 +1,12 @@
+"0","```r
+df1 <- full_df %>%
+  filter(type == \"sentence\") %>%
+  mutate(sentence_nr = row_number()) %>%
+  select(author, title, words, sentence_nr)
+
+df2 <-  full_df %>%
+  filter(type == \"entity\") %>%
+  mutate(record = row_number()) %>% 
+  select(author, title, words, kind) %>% 
+  distinct()  
+```"

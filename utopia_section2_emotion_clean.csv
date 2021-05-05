@@ -1,0 +1,208 @@
+,author,title,sentence_nr,entity,kind,anger,anticipation,disgust,fear,joy,negative,positive,sadness,surprise,trust,sentiment
+10,Rokheya Shekhawat Hossein,Sultana’s Dream,28,Sister Sara,person,0,2,0,4,4,4,4,0,0,4,0
+12,Rokheya Shekhawat Hossein,Sultana’s Dream,33,Sister Sara,person,0,0,3,0,3,6,6,3,0,3,0
+29,"More, Thomas, Saint",Utopia,107,Americus Vesputius,person,1,3,0,3,2,5,3,1,1,2,-2
+30,"More, Thomas, Saint",Utopia,108,Morton,person,0,0,0,0,0,0,3,0,0,3,3
+50,"More, Thomas, Saint",Utopia,140,Peter,person,0,0,0,3,6,9,21,0,3,9,12
+52,"More, Thomas, Saint",Utopia,140,Raphael,person,0,0,0,3,6,9,21,0,3,9,12
+63,"More, Thomas, Saint",Utopia,160,Christian,person,2,10,4,2,10,6,20,2,2,18,14
+69,"More, Thomas, Saint",Utopia,169,Peter,person,0,4,0,4,2,8,6,4,0,8,-2
+71,"More, Thomas, Saint",Utopia,173,Ben,person,2,0,0,1,1,2,2,1,0,1,0
+72,"More, Thomas, Saint",Utopia,176,Henry VII,person,15,10,5,10,15,20,15,5,0,15,-5
+74,"More, Thomas, Saint",Utopia,176,Henry,person,15,10,5,10,15,20,15,5,0,15,-5
+75,"More, Thomas, Saint",Utopia,176,Margaret,person,15,10,5,10,15,20,15,5,0,15,-5
+76,"More, Thomas, Saint",Utopia,176,Henry V,person,15,10,5,10,15,20,15,5,0,15,-5
+79,"More, Thomas, Saint",Utopia,184,Peter,person,15,15,5,20,25,30,40,10,5,25,10
+80,"More, Thomas, Saint",Utopia,184,John Morton,person,15,15,5,20,25,30,40,10,5,25,10
+81,"More, Thomas, Saint",Utopia,184,Morton,person,15,15,5,20,25,30,40,10,5,25,10
+83,"More, Thomas, Saint",Utopia,184,Chancellor,person,15,15,5,20,25,30,40,10,5,25,10
+89,"More, Thomas, Saint",Utopia,197,Henry VII,person,6,12,0,6,18,12,18,0,6,24,6
+91,"More, Thomas, Saint",Utopia,197,Henry,person,6,12,0,6,18,12,18,0,6,24,6
+92,"More, Thomas, Saint",Utopia,197,Christian,person,6,12,0,6,18,12,18,0,6,24,6
+93,"More, Thomas, Saint",Utopia,197,Henry VIII,person,6,12,0,6,18,12,18,0,6,24,6
+94,"More, Thomas, Saint",Utopia,197,Henry V,person,6,12,0,6,18,12,18,0,6,24,6
+105,"More, Thomas, Saint",Utopia,225,Ben,person,4,8,8,8,6,12,14,8,6,8,2
+115,"More, Thomas, Saint",Utopia,248,Henry VII,person,5,5,0,0,0,10,5,5,0,5,-5
+117,"More, Thomas, Saint",Utopia,248,Henry,person,5,5,0,0,0,10,5,5,0,5,-5
+118,"More, Thomas, Saint",Utopia,248,Henry VIII,person,5,5,0,0,0,10,5,5,0,5,-5
+119,"More, Thomas, Saint",Utopia,248,Henry V,person,5,5,0,0,0,10,5,5,0,5,-5
+130,"More, Thomas, Saint",Utopia,270,Henry VII,person,0,0,0,0,0,14,35,0,0,21,21
+131,"More, Thomas, Saint",Utopia,270,Charles,person,0,0,0,0,0,14,35,0,0,21,21
+134,"More, Thomas, Saint",Utopia,270,Henry,person,0,0,0,0,0,14,35,0,0,21,21
+135,"More, Thomas, Saint",Utopia,270,Henry VIII,person,0,0,0,0,0,14,35,0,0,21,21
+136,"More, Thomas, Saint",Utopia,270,Henry V,person,0,0,0,0,0,14,35,0,0,21,21
+138,"More, Thomas, Saint",Utopia,273,Christian,person,0,4,0,4,4,0,10,0,0,6,10
+139,"More, Thomas, Saint",Utopia,277,Peter,person,0,0,0,0,0,0,6,0,0,0,6
+141,"More, Thomas, Saint",Utopia,277,Raphael,person,0,0,0,0,0,0,6,0,0,0,6
+143,"More, Thomas, Saint",Utopia,283,John Colt,person,0,0,1,0,1,3,2,0,0,1,-1
+151,"More, Thomas, Saint",Utopia,311,Richard III,person,5,5,5,5,0,5,5,5,5,0,0
+153,"More, Thomas, Saint",Utopia,311,Edward,person,5,5,5,5,0,5,5,5,5,0,0
+154,"More, Thomas, Saint",Utopia,311,Thomas,person,5,5,5,5,0,5,5,5,5,0,0
+164,"More, Thomas, Saint",Utopia,324,Sallust,person,1,5,1,2,2,3,2,3,1,1,-1
+166,"More, Thomas, Saint",Utopia,325,Cuthbert Tonstal,person,2,2,0,2,8,2,16,0,4,14,14
+171,"More, Thomas, Saint",Utopia,339,Morton,person,0,0,0,0,0,0,3,0,0,1,3
+175,"More, Thomas, Saint",Utopia,346,Peter,person,2,0,0,2,0,2,6,2,0,2,4
+183,"Gilman, Charlotte Perkins",Herland,370,Terry,person,0,1,0,0,1,0,1,0,0,1,1
+187,"Gilman, Charlotte Perkins",Herland,383,Terry,person,0,0,0,0,0,0,2,0,0,0,2
+188,"Gilman, Charlotte Perkins",Herland,383,Ladies,person,0,0,0,0,0,0,2,0,0,0,2
+189,"Gilman, Charlotte Perkins",Herland,397,Terry,person,0,3,3,0,0,3,0,0,0,0,-3
+190,"Gilman, Charlotte Perkins",Herland,397,Jeff,person,0,3,3,0,0,3,0,0,0,0,-3
+194,"Gilman, Charlotte Perkins",Herland,407,Terry,person,0,0,0,0,0,2,2,0,0,0,0
+195,"Gilman, Charlotte Perkins",Herland,407,Jeff,person,0,0,0,0,0,2,2,0,0,0,0
+201,"Gilman, Charlotte Perkins",Herland,428,Somel,person,0,0,0,0,1,0,3,1,1,1,3
+202,"Gilman, Charlotte Perkins",Herland,432,Terry,person,0,1,0,0,0,0,1,0,0,0,1
+210,"Gilman, Charlotte Perkins",Herland,451,Somel,person,0,1,0,0,0,1,2,0,0,1,1
+211,"Gilman, Charlotte Perkins",Herland,459,Terry,person,2,0,2,2,0,2,0,2,0,0,-2
+213,"Gilman, Charlotte Perkins",Herland,460,Jeff,person,0,1,0,0,1,0,1,0,1,1,1
+214,"Gilman, Charlotte Perkins",Herland,469,Somel,person,0,0,0,0,0,0,1,0,0,0,1
+224,"Gilman, Charlotte Perkins",Herland,488,Terry,person,0,0,0,0,1,0,1,0,0,0,1
+226,"Gilman, Charlotte Perkins",Herland,493,Terry,person,0,1,0,0,1,0,1,0,0,1,1
+233,"Gilman, Charlotte Perkins",Herland,532,Terry,person,0,3,0,3,6,3,6,3,6,6,3
+234,"Gilman, Charlotte Perkins",Herland,532,Thomas,person,0,3,0,3,6,3,6,3,6,6,3
+235,"Gilman, Charlotte Perkins",Herland,532,Zava,person,0,3,0,3,6,3,6,3,6,6,3
+236,"Gilman, Charlotte Perkins",Herland,536,Jeff,person,0,1,0,1,0,0,2,0,0,2,2
+238,"Gilman, Charlotte Perkins",Herland,545,Terry,person,0,0,0,1,0,1,0,1,0,0,-1
+239,"Gilman, Charlotte Perkins",Herland,546,Somel,person,0,0,1,0,0,1,0,0,1,0,-1
+240,"Gilman, Charlotte Perkins",Herland,550,Jeff,person,3,1,2,3,1,3,1,3,1,0,-2
+243,"Gilman, Charlotte Perkins",Herland,556,Terry,person,0,0,0,0,4,0,4,0,0,4,4
+245,"Gilman, Charlotte Perkins",Herland,559,Zava,person,0,0,0,0,0,1,0,1,0,0,-1
+246,"Gilman, Charlotte Perkins",Herland,560,Terry,person,0,0,0,0,2,0,2,0,0,0,2
+248,"Gilman, Charlotte Perkins",Herland,563,Terry,person,0,0,0,0,0,2,0,0,0,0,-2
+249,"Gilman, Charlotte Perkins",Herland,563,Jeff,person,0,0,0,0,0,2,0,0,0,0,-2
+250,"Gilman, Charlotte Perkins",Herland,566,Somel,person,0,0,0,0,0,0,0,0,1,0,0
+252,"Gilman, Charlotte Perkins",Herland,577,Jeff,person,1,0,1,1,0,1,0,1,0,0,-1
+254,"Gilman, Charlotte Perkins",Herland,580,Jeff,person,0,0,0,0,1,0,1,0,0,1,1
+257,"Gilman, Charlotte Perkins",Herland,584,Terry,person,2,6,2,4,6,4,12,6,6,8,8
+260,"Gilman, Charlotte Perkins",Herland,589,Jeff,person,0,0,2,0,0,2,4,2,0,2,2
+263,"Gilman, Charlotte Perkins",Herland,593,Christian,person,0,1,0,0,0,0,2,0,0,0,2
+276,"Gilman, Charlotte Perkins",Herland,666,Terry,person,2,0,1,0,0,3,0,1,0,0,-3
+277,"Gilman, Charlotte Perkins",Herland,670,Jeff,person,2,0,2,0,0,2,0,0,0,0,-2
+278,"Gilman, Charlotte Perkins",Herland,670,Ladies,person,2,0,2,0,0,2,0,0,0,0,-2
+281,"Gilman, Charlotte Perkins",Herland,680,Jeff,person,0,0,0,0,2,0,4,0,0,2,4
+283,"Gilman, Charlotte Perkins",Herland,686,Terry,person,0,1,0,0,0,0,1,0,0,0,1
+284,"Gilman, Charlotte Perkins",Herland,688,Terry,person,4,2,0,4,2,6,2,2,0,2,-4
+286,"Gilman, Charlotte Perkins",Herland,689,Jeff,person,0,0,0,0,2,0,2,0,0,2,2
+288,"Gilman, Charlotte Perkins",Herland,690,Jeff,person,2,2,2,2,2,4,6,4,0,4,2
+290,"Gilman, Charlotte Perkins",Herland,691,Terry,person,1,0,0,0,1,1,1,1,0,1,0
+292,"Gilman, Charlotte Perkins",Herland,697,Terry,person,0,0,1,0,0,1,0,0,0,0,-1
+305,"Gilman, Charlotte Perkins",Herland,752,Jeff,person,0,0,0,0,0,1,0,0,0,0,-1
+309,"Gilman, Charlotte Perkins",Herland,758,Jeff,person,0,0,0,0,1,0,2,0,0,1,2
+311,"Gilman, Charlotte Perkins",Herland,761,Terry,person,2,0,2,2,0,2,0,2,0,0,-2
+313,"Gilman, Charlotte Perkins",Herland,763,Zava,person,1,0,1,1,0,1,0,1,0,0,-1
+314,"Gilman, Charlotte Perkins",Herland,764,Terry,person,4,2,0,6,0,6,4,6,0,0,-2
+318,"Gilman, Charlotte Perkins",Herland,771,Jeff,person,1,0,1,1,0,2,0,1,0,0,-2
+319,"Gilman, Charlotte Perkins",Herland,772,Zava,person,0,0,0,0,0,0,0,0,0,1,0
+321,"Gilman, Charlotte Perkins",Herland,779,Terry,person,0,0,0,0,0,0,0,0,0,3,0
+323,"Gilman, Charlotte Perkins",Herland,779,Somel,person,0,0,0,0,0,0,0,0,0,3,0
+332,"Gilman, Charlotte Perkins",Herland,798,Jeff,person,0,1,0,0,1,0,2,0,1,1,2
+334,"Gilman, Charlotte Perkins",Herland,800,Terry,person,0,0,1,0,0,0,1,1,0,0,1
+338,"Gilman, Charlotte Perkins",Herland,809,Terry,person,0,1,0,0,1,0,2,0,0,2,2
+340,"Gilman, Charlotte Perkins",Herland,820,Terry,person,0,0,0,0,1,0,1,0,0,0,1
+344,"Gilman, Charlotte Perkins",Herland,832,Jeff,person,0,0,0,0,0,0,2,0,0,2,2
+346,"Gilman, Charlotte Perkins",Herland,833,Jeff,person,0,0,0,0,0,1,0,1,0,0,-1
+348,"Gilman, Charlotte Perkins",Herland,840,Terry,person,0,2,0,2,0,2,0,0,0,0,-2
+350,"Gilman, Charlotte Perkins",Herland,845,Jeff,person,0,0,0,0,0,0,3,0,0,3,3
+351,"Gilman, Charlotte Perkins",Herland,845,Zava,person,0,0,0,0,0,0,3,0,0,3,3
+354,"Gilman, Charlotte Perkins",Herland,852,Terry,person,0,2,0,0,0,0,8,0,0,2,8
+360,"Gilman, Charlotte Perkins",Herland,866,Terry,person,0,2,0,0,2,0,4,0,2,2,4
+366,"Gilman, Charlotte Perkins",Herland,894,Somel,person,0,0,0,0,0,0,2,0,0,0,2
+380,"Gilman, Charlotte Perkins",Herland,915,Somel,person,0,0,1,0,0,1,0,1,0,0,-1
+393,"Gilman, Charlotte Perkins",Herland,963,Jeff,person,0,0,0,1,0,1,0,1,0,0,-1
+394,"Gilman, Charlotte Perkins",Herland,965,Terry,person,0,0,0,0,0,0,1,0,0,1,1
+396,"Gilman, Charlotte Perkins",Herland,968,Terry,person,0,1,0,0,3,1,4,1,0,2,3
+397,"Gilman, Charlotte Perkins",Herland,969,Terry,person,0,2,0,0,3,0,3,1,1,2,3
+401,"Gilman, Charlotte Perkins",Herland,979,Terry,person,0,5,0,5,0,0,5,0,0,5,5
+402,"Gilman, Charlotte Perkins",Herland,979,Jeff,person,0,5,0,5,0,0,5,0,0,5,5
+404,"Gilman, Charlotte Perkins",Herland,979,Zava,person,0,5,0,5,0,0,5,0,0,5,5
+405,"Gilman, Charlotte Perkins",Herland,979,Somel,person,0,5,0,5,0,0,5,0,0,5,5
+406,"Gilman, Charlotte Perkins",Herland,981,Jeff,person,3,9,3,9,15,6,24,6,6,9,18
+409,"Gilman, Charlotte Perkins",Herland,984,Terry,person,0,0,2,2,2,2,2,4,0,2,0
+412,"Gilman, Charlotte Perkins",Herland,991,Terry,person,0,0,0,3,3,0,12,3,0,3,12
+413,"Gilman, Charlotte Perkins",Herland,991,Jeff,person,0,0,0,3,3,0,12,3,0,3,12
+417,"Gilman, Charlotte Perkins",Herland,998,Jeff,person,0,0,0,0,0,2,2,0,0,2,0
+418,"Gilman, Charlotte Perkins",Herland,998,Jeffs,person,0,0,0,0,0,2,2,0,0,2,0
+419,"Gilman, Charlotte Perkins",Herland,999,Somel,person,0,0,0,2,1,1,1,0,0,1,0
+422,"Gilman, Charlotte Perkins",Herland,1008,Terry,person,0,0,0,0,0,1,0,0,0,0,-1
+423,"Gilman, Charlotte Perkins",Herland,1018,Somel,person,0,1,0,0,1,0,2,0,0,0,2
+429,"Gilman, Charlotte Perkins",Herland,1052,Jeff,person,0,0,0,0,2,0,4,0,0,4,4
+430,"Gilman, Charlotte Perkins",Herland,1052,Jeffs,person,0,0,0,0,2,0,4,0,0,4,4
+432,"Gilman, Charlotte Perkins",Herland,1063,Terry,person,0,0,0,0,0,0,0,0,0,1,0
+433,"Gilman, Charlotte Perkins",Herland,1069,Somel,person,0,0,0,0,0,0,2,0,0,1,2
+437,"Gilman, Charlotte Perkins",Herland,1082,Jeff,person,0,0,0,0,0,0,2,0,0,0,2
+448,"Gilman, Charlotte Perkins",Herland,1118,Terry,person,0,0,0,0,0,1,0,0,0,0,-1
+449,"Gilman, Charlotte Perkins",Herland,1122,Jeff,person,4,0,4,4,0,6,2,4,0,2,-4
+451,"Gilman, Charlotte Perkins",Herland,1124,Terry,person,0,4,0,0,4,0,4,0,2,4,4
+453,"Gilman, Charlotte Perkins",Herland,1134,Terry,person,0,1,0,0,1,0,1,0,0,1,1
+458,"Gilman, Charlotte Perkins",Herland,1151,Somel,person,1,0,0,0,0,0,2,0,0,0,2
+461,"Gilman, Charlotte Perkins",Herland,1170,Somel,person,0,1,0,0,1,2,3,1,0,1,1
+464,"Gilman, Charlotte Perkins",Herland,1180,Terry,person,4,4,4,4,2,8,2,4,4,2,-6
+473,"Gilman, Charlotte Perkins",Herland,1205,Terry,person,0,1,0,0,1,0,1,0,0,1,1
+475,"Gilman, Charlotte Perkins",Herland,1208,Terry,person,0,0,1,0,0,1,1,0,0,0,0
+476,"Gilman, Charlotte Perkins",Herland,1210,Terry,person,0,0,0,0,0,0,1,0,1,1,1
+477,"Gilman, Charlotte Perkins",Herland,1212,Jeff,person,0,2,0,0,2,0,2,0,0,2,2
+480,"Gilman, Charlotte Perkins",Herland,1220,Somel,person,0,0,0,0,2,0,4,0,1,2,4
+485,"Gilman, Charlotte Perkins",Herland,1232,Somel,person,0,4,0,0,4,0,6,0,2,0,6
+487,"Gilman, Charlotte Perkins",Herland,1238,Terry,person,0,3,0,0,3,0,4,0,1,0,4
+488,"Gilman, Charlotte Perkins",Herland,1239,Jeff,person,0,0,0,0,1,0,1,0,1,1,1
+490,"Gilman, Charlotte Perkins",Herland,1241,Terry,person,0,12,0,6,12,3,15,3,6,6,12
+491,"Gilman, Charlotte Perkins",Herland,1241,Jeff,person,0,12,0,6,12,3,15,3,6,6,12
+493,"Gilman, Charlotte Perkins",Herland,1242,Terry,person,0,2,0,0,2,0,6,0,0,0,6
+495,"Gilman, Charlotte Perkins",Herland,1246,Jeff,person,0,4,2,0,4,0,6,0,2,2,6
+501,"Gilman, Charlotte Perkins",Herland,1253,Jeff,person,0,0,0,0,0,0,2,0,0,2,2
+503,"Gilman, Charlotte Perkins",Herland,1255,Terry,person,2,0,0,2,2,2,8,0,0,4,6
+505,"Gilman, Charlotte Perkins",Herland,1256,Terry,person,1,0,1,0,0,1,0,0,0,0,-1
+506,"Gilman, Charlotte Perkins",Herland,1259,Jeff,person,0,2,0,0,2,0,2,2,0,2,2
+510,"Gilman, Charlotte Perkins",Herland,1274,Terry,person,0,6,0,0,6,0,6,0,3,6,6
+511,"Gilman, Charlotte Perkins",Herland,1274,Jeff,person,0,6,0,0,6,0,6,0,3,6,6
+514,"Gilman, Charlotte Perkins",Herland,1279,Ellador,person,2,6,2,2,4,2,4,2,4,4,2
+516,"Gilman, Charlotte Perkins",Herland,1280,Somel,person,0,0,0,0,2,0,2,0,0,2,2
+517,"Gilman, Charlotte Perkins",Herland,1291,Terry,person,0,0,0,0,0,0,1,0,0,0,1
+519,"Gilman, Charlotte Perkins",Herland,1297,Terry,person,0,0,0,0,1,1,1,0,0,0,0
+521,"Gilman, Charlotte Perkins",Herland,1303,Terry,person,3,3,3,3,3,6,6,3,0,0,0
+525,"Gilman, Charlotte Perkins",Herland,1313,Jeff,person,2,0,0,2,2,2,4,2,0,2,2
+526,"Gilman, Charlotte Perkins",Herland,1313,Jeffs,person,2,0,0,2,2,2,4,2,0,2,2
+528,"Gilman, Charlotte Perkins",Herland,1319,Terry,person,0,0,0,0,0,0,1,0,0,0,1
+529,"Gilman, Charlotte Perkins",Herland,1323,Ellador,person,0,1,0,0,2,0,5,0,1,1,5
+533,"Gilman, Charlotte Perkins",Herland,1327,Terry,person,0,5,0,0,5,0,5,0,0,0,5
+534,"Gilman, Charlotte Perkins",Herland,1327,Jeff,person,0,5,0,0,5,0,5,0,0,0,5
+535,"Gilman, Charlotte Perkins",Herland,1327,Jeffs,person,0,5,0,0,5,0,5,0,0,0,5
+537,"Gilman, Charlotte Perkins",Herland,1327,Ellador,person,0,5,0,0,5,0,5,0,0,0,5
+551,"Gilman, Charlotte Perkins",Herland,1361,Alma,person,0,0,0,0,1,0,1,0,0,0,1
+552,"Gilman, Charlotte Perkins",Herland,1362,Ellador,person,0,0,0,0,0,1,3,2,0,1,2
+560,"Gilman, Charlotte Perkins",Herland,1396,Van,person,0,0,0,0,0,0,1,0,0,1,1
+562,"Gilman, Charlotte Perkins",Herland,1397,Ellador,person,0,4,0,0,2,0,4,0,2,4,4
+563,"Gilman, Charlotte Perkins",Herland,1399,Terry,person,0,0,0,0,0,0,1,0,0,0,1
+564,"Gilman, Charlotte Perkins",Herland,1403,Terry,person,0,0,0,0,0,0,1,0,0,0,1
+566,"Gilman, Charlotte Perkins",Herland,1407,Terry,person,0,6,0,0,0,0,0,0,0,0,0
+569,"Gilman, Charlotte Perkins",Herland,1408,Ellador,person,0,2,0,2,2,2,4,2,0,6,2
+570,"Gilman, Charlotte Perkins",Herland,1410,Terry,person,4,4,2,2,2,4,2,2,4,2,-2
+573,"Gilman, Charlotte Perkins",Herland,1414,Jeff,person,0,0,0,0,1,0,2,0,1,0,2
+574,"Gilman, Charlotte Perkins",Herland,1415,Terry,person,0,1,0,0,0,0,1,0,1,1,1
+608,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1474,Moses,person,0,0,0,0,0,3,6,0,0,3,3
+610,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1475,Moses,person,0,0,0,0,0,1,0,0,0,0,-1
+616,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1482,Jews,person,6,9,12,6,18,21,33,9,3,33,12
+617,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1482,Moses,person,6,9,12,6,18,21,33,9,3,33,12
+668,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1545,Ladies,person,0,3,0,0,3,0,4,0,2,2,4
+733,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1612,Musick,person,0,2,0,0,2,0,8,0,2,4,8
+738,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1616,Musick,person,1,0,0,0,2,1,2,0,0,2,1
+740,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1623,Musick,person,0,0,0,0,1,0,3,0,0,2,3
+745,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1626,Lord,person,5,20,5,5,20,5,55,0,10,35,50
+746,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1626,Noble,person,5,20,5,5,20,5,55,0,10,35,50
+749,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1628,Your Majesty,person,0,0,0,0,4,4,12,0,0,8,8
+753,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1632,Lord,person,0,0,3,0,0,3,9,0,0,6,6
+754,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1632,Noble,person,0,0,3,0,0,3,9,0,0,6,6
+756,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1633,Lord,person,2,6,2,2,0,2,8,0,0,4,6
+765,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1643,Lord,person,6,2,4,6,0,10,16,8,0,4,6
+766,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1643,Warr,person,6,2,4,6,0,10,16,8,0,4,6
+773,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1646,Lord,person,0,8,4,4,8,4,28,0,0,24,24
+774,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1646,Noble,person,0,8,4,4,8,4,28,0,0,24,24
+791,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1659,Ladies,person,0,4,0,0,6,0,16,2,4,6,16
+795,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1661,Lord,person,4,0,6,4,4,8,14,0,2,6,6
+804,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1668,Musick,person,0,8,0,0,8,0,8,0,4,4,8
+811,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1672,Lord,person,0,4,4,0,8,4,24,0,4,16,20
+813,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1672,Noble,person,0,4,4,0,8,4,24,0,4,16,20
+816,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1676,Lord,person,0,0,2,0,0,4,2,0,0,2,-2
+819,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1681,Lord,person,4,0,4,4,0,4,4,0,0,4,0
+820,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1681,Lawyer,person,4,0,4,4,0,4,4,0,0,4,0
+833,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1698,Noble Friends,person,0,25,0,0,15,0,45,0,15,20,45
+834,"Cavendish, Margaret","The Description of a New World, Called The Blazing-World",1698,Noble,person,0,25,0,0,15,0,45,0,15,20,45

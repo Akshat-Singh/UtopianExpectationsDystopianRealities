@@ -1,0 +1,11 @@
+"0","```r
+#create sentiment table
+
+entities_sentiment <- entities_unnest %>%
+  group_by(author, title) %>%
+  inner_join(get_sentiments(\"nrc\")) %>% 
+  count(sentence_nr, sentiment) %>%
+  spread(sentiment, n, fill = 0) %>%
+  mutate(sentiment = positive - negative)
+
+```"

@@ -1,0 +1,12 @@
+"0","```r
+#Prep the data
+pre_join <- read.csv(\"pre_join_entities.csv\")
+
+pre_join <- pre_join %>% 
+              select(words, kind)
+
+full_join_df <- fuzzy_join(df1, pre_join, match_fun = stri_detect_regex, by = \"words\", mode = \"inner\")
+
+full_join_df <- full_join_df %>% 
+                  distinct()
+```"

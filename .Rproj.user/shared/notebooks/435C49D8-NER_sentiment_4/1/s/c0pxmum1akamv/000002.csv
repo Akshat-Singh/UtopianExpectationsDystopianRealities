@@ -1,0 +1,22 @@
+"0","```r
+radar_facet <- entities_matches_sentiment %>%
+  select(-positive,-negative,-sentiment) %>% #drop out the unnecessary columns
+  filter(kind == \"person\") %>%
+  group_by(title, entity, kind) %>%
+  summarise(across(anger:trust, sum)) %>%
+  mutate(total = rowSums(across(where(is.numeric))))  %>%
+  arrange(desc(total)) %>%
+  head(5)  %>% #Change number to include more or fewer entities
+  mutate(across(anger:trust, .fns = ~ round((. / total) * 100))) %>%
+  select(-total)
+
+ggRadar(
+  data = radar_facet,
+  mapping = aes(color = title, facet = entity),
+  rescale = FALSE,
+  interactive = TRUE,
+  use.label = TRUE,
+  size = 2,
+  legend.position = \"right\"
+)
+```"

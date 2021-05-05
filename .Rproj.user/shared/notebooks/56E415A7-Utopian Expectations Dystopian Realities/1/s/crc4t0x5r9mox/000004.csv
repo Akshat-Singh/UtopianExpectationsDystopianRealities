@@ -1,0 +1,2 @@
+"0","par(mar=c(0,0,0,0))"
+"0","plot(newgraph, vertex.color=agg_sentiment, vertex.label.dist = 1, layout =  layout.fruchterman.reingold(newgraph, niter=500,area=vcount(newgraph)^2.3), vertex.label.color=colors, vertex.size = 20, edge.length=100)"

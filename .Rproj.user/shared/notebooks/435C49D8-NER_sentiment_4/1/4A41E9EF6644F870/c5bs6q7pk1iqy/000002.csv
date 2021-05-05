@@ -1,0 +1,5 @@
+"0","corpus_text <- corpus_clean %>%"
+"0","  group_by(title) %>%"
+"0","  mutate(text = paste(as.character(text), collapse = "" "")) %>%"
+"0","  distinct() %>%"
+"0","  ungroup()"

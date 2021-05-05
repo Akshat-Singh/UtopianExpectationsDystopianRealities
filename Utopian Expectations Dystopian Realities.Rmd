@@ -1,0 +1,924 @@
+---
+output:
+  md_document: 
+    variant: markdown_github
+  html_document:
+    df_print: paged
+  word_document: default
+  pdf_document: default
+---
+
+```{css, echo=FALSE}
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif; font-size: 32px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+  }
+
+h2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+  }
+
+q {
+   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  font-size: 20px
+}
+
+p {
+   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  font-size: 18px
+}
+
+```
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+## This code chunk is supposed to load some essential libraries to enable the summary code ##
+
+library("tm")
+library("SnowballC")
+library("wordcloud")
+library("RColorBrewer")
+library("syuzhet")
+library("ggplot2")
+library(tidytext)
+library(dplyr)
+library(tidyr)
+library(scales)
+library(ggthemes)
+library(magrittr)
+library(devtools)
+library(stringr)
+library(igraph)
+library(ggraph)
+library(widyr)
+library(fuzzyjoin)
+
+
+#Graphics library
+library(ggiraphExtra)
+library(ggplot2)
+library(RColorBrewer)
+library(scales)
+library(tidygraph)
+
+
+## This code chunk is supposed to load some essential libraries to enable the summary code ##
+```
+
+
+<center><h1>Utopian Expectations, Dystopian Realities?</h1></center>
+<center><h2>Ridhima Manocha, Muskaan Kanodia, Keerthana Nair, Akshat Singh</h2></center>
+
+
+## Introduction
+
+<center><q>All utopias are dystopias. The term “dystopia” was coined by fools that believed a 'utopia' can be functional.</q> <p>   <b>-A.E. Samaan.</b></p></center>
+
+
+Oscar Wilde in his work wrote, ‘Literature always anticipates life. It does not copy it, but moulds it to its purpose’ (Wilde 1997, 25) What he said about literature certainly holds true for Utopian and Dystopian literature that have a unique ability to manufacture their own microcosms to represent our world. The genres of Utopia and Dystopia have thus been upheld for their provocative perspectives, astute social criticism and for their clairvoyant and prescient qualities. Over the years, they have provided us with ideals to strive for and monsters to be scared of; they have given us the vision of a “perfect” world while at the same time alerting us to a possible apocalyptic world. By highlighting the extremes of the world, they have opened doors to a plethora of compelling inquiries. However, it is unfortunate that the literary community has long kept the Utopian and Dystopian literature to sidelines. The reason for that, as pointed out by Demir Alihodžić is that as a critical community, we lack a clear and precise definition of what a dystopian or utopian work of literature actually is (14). James R. Simmons also argues in “Utopian Cycles: Trends in American Visions of the Alternative Society” (1998) that we do not yet understand how these genres, dystopian and utopian literature interrelate. 
+
+Thomas More first coined the term ‘Utopia’, to describe a perfect imaginary society. The term ‘Utopia’ in itself is ironic since it is derived from the Greek words ou-topos, meaning ‘a place nowhere’ and eu-topos, meaning ‘a good place’. Utopia by definition is an imagined community or society that possesses highly favourable and desirable qualities of life for its citizen, while Dystopia is defined as a state or society with immense suffering and injustice, one that is totalitarian or post-apocalyptic. Chris Baldick’s The Oxford Dictionary of Literary Terms (2008) simply states that dystopia is “a modern term invented as the opposite of utopia, and applied to any alarmingly unpleasant imaginary world, usually of the projected future” (p. 100). The Harper Handbook to Literature (1997) defines a dystopia simply as “an anti-utopia,” without elaborating on what this entails, how it differs from a utopia and in what specific ways. According to Demir Alihodžić, one of the best definitions of dystopia is in A Dictionary of Literary Terms and Literary Theory (1998) which are two simple words — “See UTOPIA.” 
+
+It raises the thorny issue of how do we distinguish between dystopia and utopian novels, are they essentially the same? We were interested in examining this issue from the perspective of the ending of the novel and how it connects to the issue of differences between the two. Does one lead us hopeful and the other hopeless and filled with dread? Does one present a utopian ideal of gender equality while does the other place the ideal far away? One of the major questions that we wanted to explore then is: Are there differences in the emotional resolutions of dystopian and utopian fiction, and, if so, are they connected to gender? Our research hypothesis, simply stated, is that **utopian fiction creates an expectation of a positive emotional resolution while the reverse is expected of Dystopian fiction , which also then gets projected onto the emotional resolution of the female and male characters in these texts.**
+<br>
+<p>For our corpus, we chose 10 canonical works from an array of Utopian and Dystopian fiction genres. The dystopian texts include: *‘1984’* by George Orwell (1949), *‘Anthem’* by Ayn Rand (1937), *‘The Word for World is Forest’* by Ursula LeGuin (1972), *‘Handmaid’s Tale’* by Margaret Atwood (1985), *‘Fahrenheit 451’* by Ray Bradbury (1951). The books that we chose from the dystopian genre are incidentally all from the 20th Century which is described as the “unique age of modern dystopia”  (43, Alihodžic)
+
+ For our utopian corpus, we chose *‘Sultana’s Dream’* by Rokeya Sakhawat Hossain (1905), *‘Utopia’* by Thomas More (1516), *‘The Description of a New World, Called The Blazing-World’* by Lady Margaret Lucas Cavendish (1666), *‘The Ones Who Walk Away From Omelas’* by Ursula LeGuin (1973) and *‘Herland’* by Charlotte Perkins Gilman (1915). 
+ 
+Moreover, we were also interested in looking at works produced by Women authors to analyse their perception of ideal and non-ideal societies, for which we included more female authored texts than male ones. (7 out of 10 books) For the purpose of this project, we also made a conscious effort towards ensuring that we have an almost similar length of corpus for both utopia as well as dystopia so that the results are not biased or skewed in one’s favour. 
+
+<br>
+
+```{r echo=TRUE}
+
+# The corpora have already been prepared and cleaned. The data is pulled from CSVs available locally
+
+utopia_corpus <- read.csv('utopia_corpus.csv')[c(-1)]
+dystopia_corpus <- read.csv('dystopia_corpus.csv')[c(-1)]
+
+# The corporas have already been prepared and cleaned. The data is pulled from CSVs available locally
+
+```
+
+
+## Summary
+<p> For the purpose of our summary analysis, we divided the corpus into two separate corpora: one containing Dystopian fiction while the other consisting of Utopian fiction.  However, to run sentiment analysis, we treated each book as a separate entity and divided them equally into three segments — beginning, middle and end to create three separate entities. This allowed us to view the progression of sentiment and simultaneously, map that alongside the main characters. What this also allowed us to do is to compare and contrast the difference between the sentiment progression in utopian and dystopian texts by seeing how the resolutions differ in the 10 books, and then, accordingly in the utopian and dystopian categories. 
+
+To begin with, we generated a summary of the two corpuses – utopian and dystopian texts that gave us the following results. 
+ </p>
+
+### Most Frequent Words
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+# This chunk aims to tidy the corpora, remove stopwords, and display the most frequent words 
+
+## Tidy the utopia corpus
+tidy_utopia <- utopia_corpus %>%
+  unnest_tokens(word, text) %>%
+  anti_join(stop_words)
+
+## Obtain the word count
+tidy_utopia_wordcount <- tidy_utopia %>%
+  count(word, sort=TRUE)
+
+
+## Tidy the dystopia corpus
+tidy_dystopia <- dystopia_corpus %>%
+  unnest_tokens(word, text) %>%
+  anti_join(stop_words)
+
+## Obtain the word Count
+tidy_dystopia_wordcount <- tidy_dystopia %>%
+  count(word, sort=TRUE)
+
+# This chunk aims to tidy the corpora, remove stopwords, and display the most frequent words 
+
+```
+
+
+```{r echo=TRUE, message=TRUE, warning=FALSE}
+
+# This chunk of code will use the tidy utopia corpus, and display the most frequent words 
+
+## Plot wordcount for utopia
+tidy_utopia %>%
+  count(word, sort = TRUE) %>%
+  top_n(10) %>% 
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(word, n)) +
+  geom_col(fill='#FF6666') +
+  labs(title = "10 most frequent words in Utopia Corpus", 
+       caption = "This plot was made with the utopia_corpus data set",
+       x = "Words",
+       y = "Occurences in the Utopia Corpus")+
+  theme_light()+
+  coord_flip()
+
+# This chunk of code will use the tidy utopia corpus, and display the most frequent words 
+
+```
+
+```{r echo=TRUE, message=TRUE, warning=FALSE}
+
+# This chunk of code will use the tidy dystopia corpus, and display the most frequent words 
+
+## Plot wordcount for dystopia
+tidy_dystopia %>%
+  count(word, sort = TRUE) %>%
+  top_n(10) %>% 
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(word, n)) +
+  geom_col(fill='#b19cd9') +
+  labs(title = "10 most frequent words in the Dystopia Corpus", 
+       caption = "This plot was made with the dystopia_corpus data set",
+       x = "Words",
+       y = "Occurences in the Dystopia Corpus")+
+  theme_light()+
+  coord_flip()
+
+# This chunk of code will use the tidy dystopia corpus, and display the most frequent words 
+
+```
+A general summary of the Dystopian corpus reveals that the word, ‘time’ occurs more frequently than any other words. Through the frequency of top-ten words occurring in dystopian fiction, one can draw that recurring themes in these texts are related to time i.e. temporality aspect. The frequent usage of the word ‘time’ also suggests that the texts are urgent which perhaps also explains the social relevance of these texts. 
+
+
+On the other hand, if we compare this to the utopian summary, we see that the word time, though featuring in the top 10-words is much lesser when compared to the usage of ‘time’ in dystopian literature. This relates to what the critic, Fern, calls the problem of “novel representation of time” in utopia. When using the form of novel to represent utopia, the author runs into problems as the “static social vision” of these utopians renders narrative elements like the passage of time and the progress and development of the protagonist meaningless (Ferns, 1999, p. 20). In other words, according to Fern, utopias are without time and instead depend on a perceived passage of time. This is also in line with the discrepancy between the usage of time in the two corpuses, as generated by our data.
+
+We see that women is the third-most frequent word in Utopia corpus, however, the same is not true for dystopian literature where it’s occurring for the least number of times in the top-10 words. This might be indicative of a gendered-difference between utopia and dystopia, however, this needs to be evaluated further along with character representation and sentiment analysis before arriving at a conclusion. 
+
+*Sidenote: Terry, Jeff and Winston are also included in the top-10 frequent words but they are characters within the books.*
+
+The frequency of the usage of the term women got us interested in what the associations with the word women/woman are. One of the tools that we decided to use to explore this further is collocation. 
+<br>
+
+## Collocations:
+We used the tm package to ease the process of finding correlations and collocations.
+```{r message=TRUE, echo=TRUE, warning=FALSE}
+# This code chunk will obtain all pairs of words that are appearing in the same section.
+# A section has 10-12 words.
+
+## Pre-Processing for the Utopia Corpus
+utopia_corr <- utopia_corpus %>%
+  mutate(section=row_number() %/% 10) %>%
+  unnest_tokens(word, text) %>%
+  filter(!word %in% stop_words$word)
+
+
+utopia_correlation_pairs <- utopia_corr %>%
+  pairwise_count(word, section, sort=TRUE)
+
+
+## Pre-Processing for the Dystopia Corpus
+dystopia_corr <- dystopia_corpus %>%
+  mutate(section=row_number() %/% 10) %>%
+  unnest_tokens(word, text) %>%
+  filter(!word %in% stop_words$word)
+
+
+dystopia_correlation_pairs <- dystopia_corr %>%
+  pairwise_count(word, section, sort=TRUE)
+```
+
+
+<p>The filter function can now be used to find words that most commonly appear with each-other in a section</p>
+
+```{r message=TRUE, echo=TRUE, warning=FALSE}
+  utopia_correlation_pairs %>%
+    filter(item1 == "women") %>%
+    top_n(10)
+  
+  dystopia_correlation_pairs %>%
+    filter(item1 == "women") %>%
+    top_n(10)
+    
+```
+<p> In dystopia, women too are collocated near the words of time, while another thing to note is the collocation near an action "don't" which usually connotes negating actions. Another noteworthy element is that in the dystopian texts, women are more frequently associated with corporal (head, eyes, hands), while for utopian texts, women are more associated to other characters (Jeff, Terry) and people (children, people, mother) However, one needs to exercise caveat here since these associations do not fully reveal a relationship between the words or the exact distance between them, thus, we are uncertain whether they can be used to signify a relationship between women and the world around them. </p>
+
+## Correlations:
+The collocation data gave some interesting insights, but correlation has much more to offer. To be specific, correlation can tell us how often a pair of words appears together relative to how often they appear far apart. 
+The data previously used can be modified to find correlations. 
+<br>
+
+```{r message=FALSE, echo=FALSE, warning=FALSE}
+  utopia_corr <- utopia_corpus %>%
+  mutate(section=row_number() %/% 10) %>%
+  unnest_tokens(word, text) %>%
+  filter(!word %in% stop_words$word)
+```
+
+The pairwise_cor() function in widyr can be used to find correlations between words. 
+In the following set of correlations, the value had to be lowered to 0.4 to display results. 
+This means that most of the above words aren't strongly correlated.
+<br>
+
+```{r message=TRUE, echo=TRUE, warning=FALSE}
+  utopia_corr %>%
+  group_by(word) %>%
+  filter(n() >= 20) %>%
+  pairwise_cor(word, section, sort=TRUE) %>%
+  filter(!is.na(correlation), correlation > 0.4) %>%
+  graph_from_data_frame() %>%
+  ggraph(layout = "fr") +
+  geom_edge_link(aes(edge_alpha = correlation), show.legend = FALSE) +
+  geom_node_point(color = "lightblue", size = 5) +
+  geom_node_text(aes(label = name), repel = TRUE) +
+  theme_void()
+```
+<br> The same process is repeated with the dystopia corpus
+```{r message=FALSE, echo=FALSE, warning=FALSE}
+  dystopia_corr <- dystopia_corpus %>%
+  mutate(section=row_number() %/% 10) %>%
+  unnest_tokens(word, text) %>%
+  filter(!word %in% stop_words$word)
+```
+
+
+```{r message=TRUE, echo=TRUE, warning=FALSE}
+  dystopia_corr %>%
+  group_by(word) %>%
+  filter(n() >= 20) %>%
+  pairwise_cor(word, section, sort=TRUE) %>%
+  filter(!is.na(correlation), correlation > 0.5) %>%
+  graph_from_data_frame() %>%
+  ggraph(layout = "fr") +
+  geom_edge_link(aes(edge_alpha = correlation), show.legend = FALSE) +
+  geom_node_point(color = "lightblue", size = 5) +
+  geom_node_text(aes(label = name), repel = TRUE) +
+  theme_void()
+```
+<br>
+<br>
+Even through correlation analysis what we do observe is that women characters are more frequently represented through the role they occupy in the microcosms of the world. For example, in the correlation produced through dystopian corpus, we observe that ‘Katherine’ and ‘married’ tend to display a strong positive correlation (more than 0.5) while ‘Lydia’ and ‘Janine’ have a strong correlation with ‘aunt’. This suggests again that women are usually described in the roles they occupy in context of other characters, however, the same is not true for men in dystopian works. 
+
+
+## Data Visualization:
+
+The intriguing relationship between women and the world they occupy got us interested in how the different characters relate to each other and what sentiments they share then. To visualise this, we relied on a network graph that allowed us to neurally map and understand the relationship they have with each other, while also identifying the main characters in the book. 
+
+```{r message=FALSE, echo=FALSE, warning=FALSE, results='hide'}
+dystopia_characters <- read.csv("dystopia_entities_clean.csv")[c(-1)] %>%
+  filter(kind=="person")
+
+dystopia_total <- read.csv("dystopia_entities_sentiments_clean.csv")
+
+authors <- dystopia_characters %>%
+  distinct(author)
+
+vertices <- c()
+edgeList <- c()
+
+
+
+for (i in seq_along(authors[,1])) {
+  author <- authors[i,1]
+  author_characters <- filter(dystopia_total, author==authors[i,]) 
+  
+
+  vertices <- append(vertices, as.vector(author_characters$entity))
+  
+  for (j in seq_along(author_characters)) {
+    edgeList <- append(edgeList, c(author, author_characters[j, 4]))
+    
+    if (is.na(edgeList[length(edgeList)])) {
+      edgeList <- head(edgeList, -2)
+    }
+    else {
+      if(author_characters[j, 7] == "m")
+        colors <- append(colors, c("#AAAAAA", "#0000FF"))
+      else
+        colors <- append(colors, c("#AAAAAA", "#FFB6C1"))
+    }
+  }
+  
+}
+
+
+edgeList <- edgeList[!is.na(edgeList)]
+make_graph(edges=edgeList)
+newgraph <- graph(edgeList, directed=FALSE)
+
+colors <- c()
+agg_sentiment <- c()
+for (i in seq_along(V(newgraph)$name)) {
+  character_gender <- dystopia_total %>%
+    filter(entity == V(newgraph)$name[i])
+  if (length(character_gender[, 1]) == 0)
+    colors <- append(colors, "#000000")
+  else if(character_gender[1, "gender"] == "m")
+    colors <- append(colors, "#0000FF")
+  else 
+    colors <- append(colors, "#D90166")
+  
+  
+  if (length(character_gender[, 1]) == 0)
+    agg_sentiment <- append(agg_sentiment, "#AAAAAA")
+  else if(character_gender[1, "total"] < 0)
+    agg_sentiment <- append(agg_sentiment, "#FFFCBB")
+  else 
+    agg_sentiment <- append(agg_sentiment, "#FF7F7F")
+  
+}
+
+
+
+
+
+```
+
+<p>Plotting the Network</p>
+
+
+### Utopia Corpus
+```{r message=TRUE, warning=FALSE, echo=TRUE}
+par(mar=c(0,0,0,0))
+plot(newgraph, vertex.color=agg_sentiment, vertex.label.dist = 1, layout =  layout.fruchterman.reingold(newgraph, niter=500,area=vcount(newgraph)^2.3), vertex.label.color=colors, vertex.size = 20, edge.length=100)
+```
+
+
+
+*The red colour of circles depict a net positive sentiment, while yellow depicts a net negative sentiment. The names of male characters appear in Blue, and that of female characters appear in Pink. The grey circles represent the authors of the texts*
+
+
+In Utopian texts, we observe that only seven out of 19 characters are female. Out of which the net sentiment for 18 characters is positive, while the net sentiment associated with Solomon is negative. What is notable is that the gender of the characters here isn’t a deciding factor as approximately 94% characters show positive net sentiment. This is in line with our original hypothesis and goes on to further prove that utopia is associated with an overall positive sentiment in characters. 
+
+
+### Dystopia Corpus
+```{r message=FALSE, echo=TRUE, warning=FALSE}
+par(mar=c(0,0,0,0))
+plot(newgraph, vertex.color=agg_sentiment, vertex.label.dist = 1, layout =  layout.fruchterman.reingold(newgraph, niter=500,area=vcount(newgraph)^2.3), vertex.label.color=colors, vertex.size = 20, edge.length=100)
+```
+
+```{r message=FALSE, results='hide', warning=FALSE, echo=FALSE}
+
+utopia_characters <- read.csv("utopia_entities_clean.csv")[c(-1)] %>%
+  filter(kind=="person")
+
+utopia_total <- read.csv("utopia_entities_sentiments_clean.csv")
+
+
+authors <- utopia_characters %>%
+  distinct(author)
+
+vertices <- c()
+edgeList <- c()
+
+
+
+for (i in seq_along(authors[,1])) {
+  author <- authors[i,1]
+  author_characters <- filter(utopia_total, author==authors[i,]) 
+  
+
+  vertices <- append(vertices, as.vector(author_characters$entity))
+  
+  for (j in seq_along(author_characters)) {
+    edgeList <- append(edgeList, c(author, author_characters[j, 4]))
+    
+    if (is.na(edgeList[length(edgeList)])) {
+      edgeList <- head(edgeList, -2)
+    }
+    else {
+      if(author_characters[j, 7] == "m")
+        colors <- append(colors, c("#AAAAAA", "#0000FF"))
+      else
+        colors <- append(colors, c("#AAAAAA", "#FFB6C1"))
+    }
+  }
+  
+}
+
+
+edgeList <- edgeList[!is.na(edgeList)]
+make_graph(edges=edgeList)
+newgraph <- graph(edgeList, directed=FALSE)
+
+colors <- c()
+agg_sentiment <- c()
+for (i in seq_along(V(newgraph)$name)) {
+  character_gender <- utopia_total %>%
+    filter(entity == V(newgraph)$name[i])
+  if (length(character_gender[, 1]) == 0)
+    colors <- append(colors, "#000000")
+  else if(character_gender[1, "gender"] == "m")
+    colors <- append(colors, "#0000FF")
+  else 
+    colors <- append(colors, "#D90166")
+  
+  
+  if (length(character_gender[, 1]) == 0)
+    agg_sentiment <- append(agg_sentiment, "#AAAAAA")
+  else if(character_gender[1, "total"] < 0)
+    agg_sentiment <- append(agg_sentiment, "#FFFCBB")
+  else 
+    agg_sentiment <- append(agg_sentiment, "#FF7F7F")
+  
+}
+```
+
+<br>
+*The red colour of circles depict a net positive sentiment, while yellow depicts a net negative sentiment. The names of male characters appear in Blue, and that of female characters appear in Pink. The grey circles represent the authors of the texts.*
+
+The aggregate emotion for the most frequently occurring characters in Dystopian texts appear to be overall positive with only a few characters — Beatty, Father, Adam, Coro Mena, Syme, Goldstein — ending up with a net negative sentiment. Moreover, what one notices is that all of the characters ending up with overall negative sentiments are male characters. No female characters in any of the dystopian texts below/above, represent any net negative sentiments. 
+
+Since, our expectation of aggregate emotions for dystopian characters, including both female and male gender was negative, the visual data, contrary to our expectative, disproves it to a large extent. Only a few of male characters align with our assumption. To conclude, 
+
+Moreover, a positive net emotion, may also hint at a hopeful ending for the characters, especially female, given the genre of the fiction. This assumption cannot be taken as definite, since sentiment analysis also reveals the sentiments associated with characters that other people attribute to them throughout the text. Further, the limitation with this data visualisation tool is that it doesn’t allow us to compare the emotional resolution of the characters to the sentiment of the resolution.  To be able to do that, we relied on mainly two tools — NER (Named Entity Recognition) alongside Sentiment Analysis. 
+
+<br>
+<br>
+<br>
+
+## NER Sentiment Analysis of Smaller Chunks of the Corpora using ggplot and bar graphs
+
+```{r message=FALSE, warning=FALSE, results='hide', echo=FALSE}
+utopia1_total <- read.csv("utopia1_entities_sentiments.csv")
+utopia2_total <- read.csv("utopia2_entities_sentiments.csv")
+utopia3_total <- read.csv("utopia3_entities_sentiments.csv")
+
+
+dystopia1_total <- read.csv("dystopia1_entities_sentiments.csv")
+dystopia2_total <- read.csv("dystopia2_entities_sentiments.csv")
+dystopia3_total <- read.csv("dystopia3_entities_sentiments.csv")
+
+```
+
+<p>Utopia Corpus</p>
+
+### Net Sentiment of each segment
+
+
+#### Utopia Corpus - 1st Segment
+```{r message=FALSE, echo=TRUE, warning=FALSE}
+utopia1_total %>%
+  group_by(title) %>%
+  summarise(total = log(sum(total))) %>%
+  ggplot(aes(x = title, y = total)) + 
+  geom_col(fill="#bbbb00")
+```
+
+<br>
+<br>
+
+#### Utopia Corpus - 2nd Segment
+```{r message=FALSE, echo=TRUE, warning=FALSE}
+utopia2_total %>%
+  group_by(title) %>%
+  summarise(total = log(sum(total))) %>%
+  ggplot(aes(x = title, y = total)) + 
+  geom_col(fill="#5b0a91")
+```
+
+<br>
+<br> 
+
+#### Utopia Corpus - 3rd Segment
+```{r message=FALSE, echo=TRUE, warning=FALSE}
+utopia3_total %>%
+  group_by(title) %>%
+  summarise(total = log(sum(total))) %>%
+  ggplot(aes(x = title, y = total)) + 
+  geom_col(fill="#feb582")
+```
+
+
+<br>
+<br>
+
+#### Dystopia Corpus - 1st Segment
+```{r message=FALSE, echo=TRUE, warning=FALSE}
+dystopia1_total %>%
+  group_by(title) %>%
+  summarise(total = log(sum(total))) %>%
+  ggplot(aes(x = title, y = total)) + 
+  geom_col(fill="#bbbb00")
+```
+
+
+<br>
+<br>
+
+#### Dystopia Corpus - 2nd Segment
+```{r message=FALSE, echo=TRUE, warning=FALSE}
+dystopia2_total %>%
+  group_by(title) %>%
+  summarise(total = log(sum(total))) %>%
+  ggplot(aes(x = title, y = total)) + 
+  geom_col(fill="#5b0a91")
+```
+
+<br>
+<br>
+
+#### Dystopia Corpus - 3rd Segment
+```{r message=FALSE, echo=TRUE, warning=FALSE}
+dystopia3_total %>%
+  group_by(title) %>%
+  summarise(total = log(sum(total))) %>%
+  ggplot(aes(x = title, y = total)) + 
+  geom_col(fill="#feb582")
+```
+
+<br>
+<br>
+
+### Character Sentiments
+
+<br>
+
+#### Utopia Corpus - 3rd Segment 10 charcaters with least sentiment attribution.
+
+```{r echo=TRUE, fig.height=20, fig.width=30, message=FALSE, warning=FALSE}
+
+utopia3_total %>%
+  group_by(title) %>%
+  distinct(total, .keep_all = TRUE) %>%
+  filter(kind == "person") %>%
+  ungroup() %>%
+  top_n(-10) %>% 
+  mutate(entity = reorder(entity, total)) %>% 
+  ggplot(aes(entity, y = total, fill = title)) +
+  geom_col() +
+  theme(text = element_text(size=30)) +
+  facet_wrap( ~ title, scales = "free") +
+  coord_flip()
+
+```
+
+<br>
+<br>
+
+#### Utopia Corpus - 3rd Segment 10 characters with most sentiment attribution
+
+```{r message=FALSE, warning=FALSE, echo=TRUE, fig.width=30, fig.height=20}
+
+utopia3 <- utopia3_total %>%
+  group_by(title) %>%
+  filter(kind == "person")
+
+utopia3_total %>%
+  group_by(title) %>%
+  filter(kind == "person") %>%
+  distinct(total, .keep_all=TRUE) %>%
+  top_n(10) %>% 
+  mutate(entity = reorder(entity, total)) %>% 
+  ggplot(aes(entity, y = total, fill = title)) +
+  geom_col() +
+  theme(text = element_text(size=30)) +
+  facet_wrap( ~ title, scales = "free") +
+  coord_flip()
+
+```
+<br>
+<br>
+
+#### Dystopia Corpus - 3rd Segment 10 Characters with least sentiment attribution
+
+```{r message=FALSE, warning=FALSE, echo=TRUE, fig.width=30, fig.height=20}
+
+dystopia3_total %>%
+  group_by(title) %>%
+  filter(kind == "person") %>%
+  top_n(-10) %>% 
+  mutate(entity = reorder(entity, total)) %>% 
+  ggplot(aes(entity, y = total, fill = title)) +
+  geom_col() +
+  theme(text = element_text(size=30)) +
+  facet_wrap( ~ title, scales = "free") +
+  coord_flip()
+
+```
+
+
+<br>
+<br> 
+
+#### Dystopia Corpus - 3rd Segment 10 characters with most sentiment attribution
+
+```{r message=FALSE, warning=FALSE, echo=TRUE, fig.width=30, fig.height=20}
+
+dystopia3_total %>%
+  group_by(title) %>%
+  filter(kind == "person") %>%
+  top_n(10) %>% 
+  mutate(entity = reorder(entity, total)) %>% 
+  ggplot(aes(entity, y = total, fill = title)) +
+  geom_col() +
+  theme(text = element_text(size=30)) +
+  facet_wrap( ~ title, scales = "free") +
+  coord_flip()
+
+```
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+## Plotting the specific sentiments of the characters using ggradar
+
+
+### Sentiments for Male Characters: Utopia Corpus 3 
+
+```{r message=FALSE, warning=FALSE, results='hide', echo=FALSE}
+
+utopia1_charmatch_sentiment <- read.csv("utopia_section1_emotion_clean.csv")
+utopia2_charmatch_sentiment <- read.csv("utopia_section2_emotion_clean.csv")
+utopia3_charmatch_sentiment <- read.csv("utopia_section3_emotion_clean.csv")
+
+
+##### [SETUP]: UTOPIA SECTION 3 - MALE SENTIMENT ANALYSIS #####
+
+utopia_sentiments_gender <- inner_join(utopia3_charmatch_sentiment, utopia3_total, by="entity")
+
+
+radar_facet <- utopia_sentiments_gender %>%
+  filter(gender=="m") %>%
+  select(-positive,-negative,-sentiment) %>% #drop out the unnecessary columns
+  group_by(title.x, entity, gender, author.x) %>%
+  summarise(across(anger:trust, sum)) %>%
+  mutate(total = rowSums(across(where(is.numeric))))  %>%
+  arrange(desc(total)) %>%
+  head(5)  %>% #Change number to include more or fewer entities
+  mutate(across(anger:trust, .fns = ~ round((. / total) * 100))) %>%
+  select(-total)
+
+temp_df <- data.frame("Multiple", "Male", "m", "Multiple",
+             sum(radar_facet[, "anger"]), 
+             sum(radar_facet[, 6]),
+             sum(radar_facet[, 7]),
+             sum(radar_facet[, 8]),
+             sum(radar_facet[, 9]),
+             sum(radar_facet[, 10]),
+             sum(radar_facet[, 11]),
+             sum(radar_facet[, 12]))
+
+names(temp_df) <- c("title.x", "entity", "gender", "author.x", "anger", "anticipation", 
+               "disgust", "fear", "joy", "sadness", "surprise", "trust")
+
+
+
+radar_facet <- rbind(radar_facet, temp_df)
+
+##### [SETUP]: UTOPIA SECTION 3 - MALE SENTIMENT ANALYSIS #####
+
+```
+
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+ggRadar(
+  data = radar_facet,
+  mapping = aes(color = author.x, facet = entity),
+  rescale = FALSE,
+  interactive = TRUE,
+  size = 2,
+  legend.position = "right"
+)
+```
+<br>
+<br>
+
+### Sentiments for Female Characters: Utopia Corpus 3 
+
+```{r message=FALSE, warning=FALSE, results='hide', echo=FALSE}
+
+##### [SETUP]: UTOPIA SECTION 3 - FEMALE SENTIMENT ANALYSIS #####
+
+radar_facet <- utopia_sentiments_gender %>%
+  filter(gender=="f") %>%
+  select(-positive,-negative,-sentiment) %>% #drop out the unnecessary columns
+  group_by(title.x, entity, gender, author.x) %>%
+  summarise(across(anger:trust, sum)) %>%
+  mutate(total = rowSums(across(where(is.numeric))))  %>%
+  arrange(desc(total)) %>%
+  head(5)  %>% #Change number to include more or fewer entities
+  mutate(across(anger:trust, .fns = ~ round((. / total) * 100))) %>%
+  select(-total)
+
+
+
+temp_df <- data.frame("Multiple", "Female", "f", "Multiple",
+             sum(radar_facet[, "anger"]), 
+             sum(radar_facet[, 6]),
+             sum(radar_facet[, 7]),
+             sum(radar_facet[, 8]),
+             sum(radar_facet[, 9]),
+             sum(radar_facet[, 10]),
+             sum(radar_facet[, 11]),
+             sum(radar_facet[, 12]))
+
+names(temp_df) <- c("title.x", "entity", "gender", "author.x", "anger", "anticipation", 
+               "disgust", "fear", "joy", "sadness", "surprise", "trust")
+
+
+
+radar_facet <- rbind(radar_facet, temp_df)
+
+##### [SETUP]: UTOPIA SECTION 3 - FEMALE SENTIMENT ANALYSIS #####
+
+```
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+ggRadar(
+  data = radar_facet,
+  mapping = aes(color = author.x, facet = entity),
+  rescale = FALSE,
+  interactive = TRUE,
+  size = 2,
+  legend.position = "right"
+)
+```
+<br>
+<br>
+<br>
+
+
+### Sentiments for Male Characters: Dystopia Corpus 3 
+
+```{r message=FALSE, warning=FALSE, results='hide', echo=FALSE}
+
+dystopia1_charmatch_sentiment <- read.csv("dystopia_section1_emotion_clean.csv")
+dystopia2_charmatch_sentiment <- read.csv("dystopia_section2_emotion_clean.csv")
+dystopia3_charmatch_sentiment <- read.csv("dystopia_section3_emotion_clean.csv")
+
+
+##### [SETUP]: DYSTOPIA SECTION 3 - MALE SENTIMENT ANALYSIS #####
+
+
+dystopia_characters <- read.csv("dystopia_entities_clean.csv")[c(-1)] %>%
+  filter(kind=="person")
+names(dystopia_characters)[names(dystopia_characters) == 'words'] <- 'entity'
+
+
+
+dystopia_sentiments_gender <- inner_join(dystopia3_charmatch_sentiment, dystopia_characters, by="entity")
+
+radar_facet <- dystopia_sentiments_gender %>%
+  filter(gender=="m") %>%
+  select(-positive,-negative,-sentiment) %>% #drop out the unnecessary columns
+  group_by(title.x, entity, gender, author.x) %>%
+  summarise(across(anger:trust, sum)) %>%
+  mutate(total = rowSums(across(where(is.numeric))))  %>%
+  arrange(desc(total)) %>%
+  head(5)  %>% #Change number to include more or fewer entities
+  mutate(across(anger:trust, .fns = ~ round((. / total) * 100))) %>%
+  select(-total)
+
+
+
+temp_df <- data.frame("Multiple", "Male", "m", "Multiple",
+                      sum(radar_facet[, "anger"]), 
+                      sum(radar_facet[, 6]),
+                      sum(radar_facet[, 7]),
+                      sum(radar_facet[, 8]),
+                      sum(radar_facet[, 9]),
+                      sum(radar_facet[, 10]),
+                      sum(radar_facet[, 11]),
+                      sum(radar_facet[, 12]))
+
+names(temp_df) <- c("title.x", "entity", "gender", "author.x", "anger", "anticipation", 
+                    "disgust", "fear", "joy", "sadness", "surprise", "trust")
+
+
+
+radar_facet <- rbind(radar_facet, temp_df)
+
+##### [SETUP]: UTOPIA SECTION 3 - MALE SENTIMENT ANALYSIS #####
+
+```
+
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+ggRadar(
+  data = radar_facet,
+  mapping = aes(color = author.x, facet = entity),
+  rescale = FALSE,
+  interactive = TRUE,
+  size = 2,
+  legend.position = "right"
+)
+```
+<br>
+<br>
+
+### Sentiments for Male Characters: Dystopia Corpus 3 
+
+```{r message=FALSE, warning=FALSE, results='hide', echo=FALSE}
+
+##### [SETUP]: DYSTOPIA SECTION 3 - FEMALE SENTIMENT ANALYSIS #####
+
+
+dystopia_characters <- read.csv("dystopia_entities_clean.csv")[c(-1)] %>%
+  filter(kind=="person")
+names(dystopia_characters)[names(dystopia_characters) == 'words'] <- 'entity'
+
+
+
+dystopia_sentiments_gender <- inner_join(dystopia3_charmatch_sentiment, dystopia_characters, by="entity")
+
+radar_facet <- dystopia_sentiments_gender %>%
+  filter(gender=="f") %>%
+  select(-positive,-negative,-sentiment) %>% #drop out the unnecessary columns
+  group_by(title.x, entity, gender, author.x) %>%
+  summarise(across(anger:trust, sum)) %>%
+  mutate(total = rowSums(across(where(is.numeric))))  %>%
+  arrange(desc(total)) %>%
+  head(5)  %>% #Change number to include more or fewer entities
+  mutate(across(anger:trust, .fns = ~ round((. / total) * 100))) %>%
+  select(-total)
+
+
+
+temp_df <- data.frame("Multiple", "Female", "f", "Multiple",
+                      sum(radar_facet[, "anger"]), 
+                      sum(radar_facet[, 6]),
+                      sum(radar_facet[, 7]),
+                      sum(radar_facet[, 8]),
+                      sum(radar_facet[, 9]),
+                      sum(radar_facet[, 10]),
+                      sum(radar_facet[, 11]),
+                      sum(radar_facet[, 12]))
+
+names(temp_df) <- c("title.x", "entity", "gender", "author.x", "anger", "anticipation", 
+                    "disgust", "fear", "joy", "sadness", "surprise", "trust")
+
+
+
+radar_facet <- rbind(radar_facet, temp_df)
+
+##### [SETUP]: DYSTOPIA SECTION 3 - FEMALE SENTIMENT ANALYSIS #####
+
+```
+
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+ggRadar(
+  data = radar_facet,
+  mapping = aes(color = author.x, facet = entity),
+  rescale = FALSE,
+  interactive = TRUE,
+  size = 2,
+  legend.position = "right"
+)
+```
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+## Reflections: 
+
+To begin with, we realised the merits of powerful computation and the results that Natural Language Processing is capable of generating that an otherwise close reading might have left out. For instance, we were able to process the data of 10 books in significantly less time than it would have taken, if we had chosen the traditional way of close reading the novels. As far as the time efficiency goes, it proved to be a significantly more efficient way of analysing literature. However, in the process of working, we realised that we couldn’t analyse literature in a coherent fashion by divorcing a brisk reading of the texts, or in other words, an awareness of literary and social tradition in which the work is situated, cannot be underestimated. 
+
+Initially, by solely relying on R to process the data, we ran into quite a few issues. For instance, it was challenging to identify if Nick and Nicholas refer to the same person or not without having some idea of the texts. Similarly, is Queens a plural of queen or a location near New York? In all likelihood, the word ‘queen’ refers to a female ruling figure, however, it’s hard to tell for certain without having some access to the text. Another issue that we faced was with respect to associating gender to characters — this was especially true given our corpus where the boundaries of gender are challenged. For instance, equality is a man while liberty is a female character in the text Anthem. Moreover, equality also relies exclusively on plural pronouns ("we", "our", "they") to refer to himself and others which makes the identification of gender an even harder task. If we didn’t have access to the knowledge of these works, we would have considered equality and liberty as ideologies instead of characters. Another task that was impossible, given the nature of our corpus and the limitations of R, was geoparsing. Since a lot of the places represented were either imaginary or beyond Earth, it was difficult to figure out the spatial awareness of the text or to map sentiments geographically then. 
+
+There were also a few logistical hurdles that we ran into. For example, as mentioned earlier, we decided to divide our corpus into three equal parts — beginning, middle and end. However, each subsequent chunk took much more time than the processing of the entire corpus. Another issue with doing this exercise was that some works such as The Ones Who Walk Away From Omelas and Sultana’s dream are small texts of 19 and 64 pages respectively. Therefore, when we divided it further into even smaller subsequent chunks, the output was not viable. Perhaps for those who might be interested to try another iteration of this project, it might be a good idea to not just work on a similar length of corpus as we did, but also have similar length of books in the corpus to avoid problems such as these. The merit of doing this exercise though outweighs the demerits — it allowed us to view sentiment progression in different times of the novel while also allowing us to comment on the resolution of the overall book. 
+
+As compared to Voyant too, we felt this was a much better suited tool to analysing our corpus for several reasons. One, it allowed us to have more control on analysis. For instance, it gave us a host of options for customizing the way we want to present and understand the data. It also allowed us to do computational analysis in the way Voyant wouldn’t have — for instance, we were able to map out entities like characters and connect that to the emotional resolution of the book using sentiment analysis. However, Voyant appeared more intuitive and user-friendly especially to the members who weren’t well-versed in the programming language. 
+
+Thus, again to reiterate that while Natural Language Processing through R, proved to be an extremely useful and powerful tool, we cannot negotiate or discount the value of awareness of literature, including socio-political context, to better understand and make sense of the data.
+
+

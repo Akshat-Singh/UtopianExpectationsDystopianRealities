@@ -1,0 +1,20 @@
+"0","```r
+radar_facet_sentiment <- entities_matches_sentiment %>%
+  #Change filter to locations for locations
+  filter(kind == \"person\") %>%
+  group_by(title, entity, kind) %>%
+  summarise(across(anger:sentiment, sum)) %>%
+  arrange(desc(sentiment))  %>%
+  tail(5)  %>% #Change number to include more or fewer entities
+  select(-positive,-negative,-sentiment)
+
+ggRadar(
+  data = radar_facet_sentiment,
+  mapping = aes(color = title, facet = entity),
+  rescale = FALSE,
+  interactive = TRUE,
+  use.label = TRUE,
+  size = 2,
+  legend.position = \"right\"
+)
+```"

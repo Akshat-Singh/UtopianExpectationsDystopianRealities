@@ -1,0 +1,5 @@
+"0","utopia3_total %>%"
+"0","  group_by(title) %>%"
+"0","  summarise(total = log(sum(total))) %>%"
+"0","  ggplot(aes(x = title, y = total)) + "
+"0","  geom_col(fill=""#feb582"")"

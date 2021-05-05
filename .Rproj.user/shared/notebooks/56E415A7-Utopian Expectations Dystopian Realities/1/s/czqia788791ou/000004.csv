@@ -1,0 +1,8 @@
+"0","ggRadar("
+"0","  data = radar_facet,"
+"0","  mapping = aes(color = author.x, facet = entity),"
+"0","  rescale = FALSE,"
+"0","  interactive = TRUE,"
+"0","  size = 2,"
+"0","  legend.position = ""right"""
+"0",")"

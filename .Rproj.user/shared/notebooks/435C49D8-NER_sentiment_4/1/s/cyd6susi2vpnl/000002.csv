@@ -1,0 +1,4 @@
+"0","```r
+full_df <-  full_df %>%
+  mutate(words = str_remove_all(words, '[:punct:]'))
+```"

@@ -1,0 +1,8 @@
+"0",""
+"0","# The corpora have already been prepared and cleaned. The data is pulled from CSVs available locally"
+"0",""
+"0","utopia_corpus <- read.csv('utopia_corpus.csv')[c(-1)]"
+"0","dystopia_corpus <- read.csv('dystopia_corpus.csv')[c(-1)]"
+"0",""
+"0","# The corporas have already been prepared and cleaned. The data is pulled from CSVs available locally"
+"0",""
